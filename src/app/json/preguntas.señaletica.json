@@ -1,0 +1,3462 @@
+[{
+        "identificador": "sen_001",
+        "pregunta": "1. Las señales de tránsito se utilizan para : ",
+        "respuestas": [{
+                "id": "sen_001_r1",
+                "contestacion": "Para regular la movilidad segura y ordenada del tránsito de peatones y vehículo",
+                "correcta": true
+            },
+            {
+                "id": "sen_001_r2",
+                "contestacion": "Para regular la circulación de vehículos",
+                "correcta": false
+            },
+            {
+                "id": "sen_001_r3",
+                "contestacion": "Ninguna de las anteriores",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_002",
+        "pregunta": "2.¿Qué tipo de señales de tránsito son regulatorias, preventivas o de advertencia,informativas o de orientación y transitorias?",
+        "respuestas": [{
+                "id": "sen_002_r1",
+                "contestacion": "Señales de tránsito Verticales",
+                "correcta": false
+            },
+            {
+                "id": "sen_002_r2",
+                "contestacion": "Señales de tránsito horizontales",
+                "correcta": false
+            },
+            {
+                "id": "sen_002_r3",
+                "contestacion": "Todas las anteriores",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_003",
+        "pregunta": "3.¿El no acatar lo indicado en una señal regulatoria es una infracción de tránsito?",
+        "respuestas": [{
+                "id": "sen_003_r1",
+                "contestacion": "A veces",
+                "correcta": false
+            },
+            {
+                "id": "sen_003_r2",
+                "contestacion": "Si, siempre",
+                "correcta": true
+            },
+            {
+                "id": "sen_003_r3",
+                "contestacion": "No",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_004",
+        "pregunta": "4.¿Qué clase de señales de tránsito son las que indican condiciones peligrosas en las vías o de sectores adyacentes?",
+        "respuestas": [{
+                "id": "sen_004_r1",
+                "contestacion": "Informativas o de orientación",
+                "correcta": false
+            },
+            {
+                "id": "sen_004_r2",
+                "contestacion": "Transitorias",
+                "correcta": false
+            },
+            {
+                "id": "sen_004_r3",
+                "contestacion": "Preventivas o de advertencia",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_005",
+        "pregunta": "5.¿Cómo se identifica que una señal es preventiva o de advertencia?",
+        "respuestas": [{
+                "id": "sen_005_r1",
+                "contestacion": "Porque son circulares de color rojo y blanco",
+                "correcta": false
+            },
+            {
+                "id": "sen_005_r2",
+                "contestacion": "Porque tienen forma de rombo de color negro y amarillo",
+                "correcta": true
+            },
+            {
+                "id": "sen_005_r3",
+                "contestacion": "Porque son rectangulares de color verde con blanco",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_006",
+        "pregunta": "6¿Qué indican a los usuarios las señales de tránsito informativas o de orientación?",
+        "respuestas": [{
+                "id": "sen_006_r1",
+                "contestacion": "Las direcciones, distancias, destinos, rutas, ubicación de servicios y puntosde interés turístico",
+                "correcta": true
+            },
+            {
+                "id": "sen_006_r2",
+                "contestacion": "Las condiciones inesperadas de las vías",
+                "correcta": false
+            },
+            {
+                "id": "sen_006_r3",
+                "contestacion": "Le previene sobre algún peligro",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_007",
+        "pregunta": "7.¿Cómo se llaman las señales que advierten acerca de la ejecución de trabajos de construcción y mantenimiento de la vía?",
+        "respuestas": [{
+                "id": "sen_007_r1",
+                "contestacion": "Señales Informativas o de orientación",
+                "correcta": false
+            },
+            {
+                "id": "sen_007_r2",
+                "contestacion": "Señales Preventivas o de advertencia",
+                "correcta": false
+            },
+            {
+                "id": "sen_007_r3",
+                "contestacion": "Señales Transitorias",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_008",
+        "pregunta": "8.¿Las demarcaciones en pavimento de líneas, símbolos, letras u otras tales como tachas ubicadas sobre la superficie de la calzada se las conoce cómo?",
+        "respuestas": [{
+                "id": "sen_008_r1",
+                "contestacion": "Señales de tránsito verticales",
+                "correcta": false
+            },
+            {
+                "id": "sen_008_r2",
+                "contestacion": "Señales de tránsito horizontales",
+                "correcta": true
+            },
+            {
+                "id": "sen_008_r3",
+                "contestacion": "Señales de tránsito informativas",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_009",
+        "pregunta": "9. El semáforo es un dispositivo de señalización luminosa útil para el control y la seguridad vial, mediante el cual regula los movimientos en las calles y carreteras de:",
+        "respuestas": [{
+                "id": "sen_009_r1",
+                "contestacion": "De los peatones",
+                "correcta": false
+            },
+            {
+                "id": "sen_009_r2",
+                "contestacion": "De los vehículos",
+                "correcta": false
+            },
+            {
+                "id": "sen_009_r3",
+                "contestacion": "Todas las anteriores",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_010",
+        "pregunta": "10. Los usuarios de las vías están obligados a obedecer las normativas, reglamentaciones viales, indicaciones del agente de tránsito y señales de tránsito que establezcan una obligación o prohibición, salvo circunstancias especiales que lo justifiquen :",
+        "respuestas": [{
+                "id": "sen_010_r1",
+                "contestacion": "Siempre",
+                "correcta": true
+            },
+            {
+                "id": "sen_010_r2",
+                "contestacion": "A veces",
+                "correcta": false
+            },
+            {
+                "id": "sen_010_r3",
+                "contestacion": "Nunca",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_011",
+        "pregunta": "11. Las señales de tránsito se clasifican en:",
+        "respuestas": [{
+                "id": "sen_011_r1",
+                "contestacion": "Verticales, Horizontales, Manuales, Longitudinales y Especiales",
+                "correcta": false
+            },
+            {
+                "id": "sen_011_r2",
+                "contestacion": "Transversales, Verticales, Manuales y Longitudinales",
+                "correcta": false
+            },
+            {
+                "id": "sen_011_r3",
+                "contestacion": "Manuales, Luminosa, Horizontales y Verticales",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_012",
+        "pregunta": "12. Las señales horizontales se clasifican en:",
+        "respuestas": [{
+                "id": "sen_012_r1",
+                "contestacion": "Longitudinales, Transversales y Marcas Especiales",
+                "correcta": true
+            },
+            {
+                "id": "sen_012_r2",
+                "contestacion": "Regulatorias, Preventivas, Transversales y Verticales",
+                "correcta": false
+            },
+            {
+                "id": "sen_012_r3",
+                "contestacion": "Transversales, Verticales, Manuales y Longitudinales",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_013",
+        "pregunta": "13. Las señales verticales se clasifica en:",
+        "respuestas": [{
+                "id": "sen_013_r1",
+                "contestacion": "Regulatorias, Preventivas, Información, Escolares, Especiales Delineadoras",
+                "correcta": true
+            },
+            {
+                "id": "sen_013_r2",
+                "contestacion": "Rombo, cuadrado, círculo, octágono",
+                "correcta": false
+            },
+            {
+                "id": "sen_013_r3",
+                "contestacion": "Regulatorias, Preventivas Transversales, Verticales, Manuales",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_014",
+        "pregunta": "14. ¿Cuándo un cruce de vía está regulado por un agente de tránsito, las señales manuales de éste prevalecen sobre cualquier otra existente, incluso semáforos?",
+        "respuestas": [{
+                "id": "sen_014_r1",
+                "contestacion": "A veces",
+                "correcta": false
+            },
+            {
+                "id": "sen_014_r2",
+                "contestacion": "Siempre",
+                "correcta": true
+            },
+            {
+                "id": "sen_014_r3",
+                "contestacion": "Nunca",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_015",
+        "pregunta": "15. Cuando ve pintado en la calzada una línea continua, ¿qué indica?",
+        "respuestas": [{
+                "id": "sen_015_r1",
+                "contestacion": "Permite rebasar o adelantar sobre esta línea, siempre que exista seguridad para hacerlo",
+                "correcta": false
+            },
+            {
+                "id": "sen_015_r2",
+                "contestacion": "Restringe la circulación vehicular de tal manera que ningún vehículo podrá cruzar esta línea",
+                "correcta": true
+            },
+            {
+                "id": "sen_015_r3",
+                "contestacion": "Pude realizar maniobras de adelantamiento cuando tiene la línea continua",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_016",
+        "pregunta": "16. Cuando ve pintado en la calzada una línea discontinua ¿qué indica?",
+        "respuestas": [{
+                "id": "sen_016_r1",
+                "contestacion": "Permite rebasar o adelantar sobre esta línea, siempre que exista seguridad para hacerlo",
+                "correcta": true
+            },
+            {
+                "id": "sen_016_r2",
+                "contestacion": "El conductor no puede realizar maniobras de adelantamiento cuando la línea es discontinua",
+                "correcta": false
+            },
+            {
+                "id": "sen_016_r3",
+                "contestacion": "Restringe la circulación vehicular de tal manera que ningún vehículo podrá cruzar esta línea",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_017",
+        "pregunta": "17. Cuando vea pintado en la calzada una línea mixta continua ¿qué indica?",
+        "respuestas": [{
+                "id": "sen_017_r1",
+                "contestacion": "Puede realizar maniobras de adelantamiento cuando tiene la línea discontinua a la izquierda del conductor",
+                "correcta": false
+            },
+            {
+                "id": "sen_017_r2",
+                "contestacion": "Puede realizar maniobras de adelantamiento cuando tiene la línea discontinua a la izquierda y derecha del conductor ",
+                "correcta": false
+            },
+            {
+                "id": "sen_017_r3",
+                "contestacion": "El conductor no puede realizar maniobras de adelantamiento cuando tiene la línea continua a su izquierda",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_018",
+        "pregunta": "18. Cuando ve pintado en la calzada doble línea ¿qué indica?",
+        "respuestas": [{
+                "id": "sen_018_r1",
+                "contestacion": "El conductor puede realizar maniobras de adelantamiento cuando tiene doble línea",
+                "correcta": false
+            },
+            {
+                "id": "sen_018_r2",
+                "contestacion": "Le permite al conductor rebasar o adelantar, siempre que exista la seguridad de hacerlo",
+                "correcta": false
+            },
+            {
+                "id": "sen_018_r3",
+                "contestacion": "Es totalmente prohibida las maniobras para rebasar o adelantar por cualquiera de los carriles que se transite",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_019",
+        "pregunta": "19. ¿Qué indican las líneas blancas que se observan en la figura?",
+        "imagen": "../../../assets/imagen/img19.PNG",
+        "respuestas": [{
+                "id": "sen_019_r1",
+                "contestacion": "Estacionamiento en paralelo",
+                "correcta": false
+            },
+            {
+                "id": "sen_019_r2",
+                "contestacion": "Líneas de borde",
+                "correcta": true
+            },
+            {
+                "id": "sen_019_r3",
+                "contestacion": "Línea de prohibición de estacionamiento",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_020",
+        "pregunta": "20. ¿Qué indican las líneas amarillas al borde de la calzada que se observan en la figura?",
+        "imagen": "../../../assets/imagen/img20.PNG",
+        "respuestas": [{
+                "id": "sen_020_r1",
+                "contestacion": "Permiten el paqueo de vehículos",
+                "correcta": false
+            },
+            {
+                "id": "sen_020_r2",
+                "contestacion": "Permiten el adelantamiento de vehículos",
+                "correcta": false
+            },
+            {
+                "id": "sen_020_r3",
+                "contestacion": "Indican el límite de circulación del carril",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_021",
+        "pregunta": "21. ¿Qué significan las líneas segmentadas blancas pintadas en una intersección, que se observan en la figura ?",
+        "imagen": "../../../assets/imagen/img21.PNG",
+        "respuestas": [{
+                "id": "sen_021_r1",
+                "contestacion": "Cruce de ciclovías",
+                "correcta": true
+            },
+            {
+                "id": "sen_021_r2",
+                "contestacion": "Cruce peatonal",
+                "correcta": false
+            },
+            {
+                "id": "sen_021_r3",
+                "contestacion": "Cruce de mascotas",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_022",
+        "pregunta": "22. De acuerdo al gráfico, ¿qué tipo de señal es la que se encuentra pintado en la calzada y qué indica?",
+        "imagen": "../../../assets/imagen/img22.PNG",
+        "respuestas": [{
+                "id": "sen_022_r1",
+                "contestacion": "Son señales reglamentarias que indican la dirección obligatoria que deben seguir los vehículos en la próxima intersección",
+                "correcta": true
+            },
+            {
+                "id": "sen_022_r2",
+                "contestacion": "Son señales preventivas que indican la dirección obligatoria que deben seguir los vehículos en la próxima intersección",
+                "correcta": false
+            },
+            {
+                "id": "sen_022_r3",
+                "contestacion": "Son señales de información que indican la dirección obligatoria que deben seguir los vehículos en la próxima intersección",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_023",
+        "pregunta": "23. De acuerdo al gráfico, ¿qué debe hacer el conductor cuando observe en la vía pintado un cruce peatonal demarcado tipo cebra?",
+        "imagen": "../../../assets/imagen/img23.PNG",
+        "respuestas": [{
+                "id": "sen_023_r1",
+                "contestacion": "Debe pitar para alertar al peatón que no baje de la vereda",
+                "correcta": false
+            },
+            {
+                "id": "sen_023_r2",
+                "contestacion": "Debe ceder el paso a los peatones que se encuentran cruzando la vía",
+                "correcta": true
+            },
+            {
+                "id": "sen_023_r3",
+                "contestacion": "Debe acelerar para pasar más rápido",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_024",
+        "pregunta": "24. De acuerdo al gráfico, ¿qué debe hacer el conductor en una intersección, cuando observe en la vía pintada una línea blanca transversal?",
+        "imagen": "../../../assets/imagen/img24.PNG",
+        "respuestas": [{
+                "id": "sen_024_r1",
+                "contestacion": "Debe detener su vehículo momentáneamente y cruzar con precaución",
+                "correcta": false
+            },
+            {
+                "id": "sen_024_r2",
+                "contestacion": "Debe detener su vehículo completamente y dar el paso a cualquier vehículo que se encuentre cruzando la intersección",
+                "correcta": true
+            },
+            {
+                "id": "sen_024_r3",
+                "contestacion": "Debe acelerar y cruzar más rápido",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_025",
+        "pregunta": "25. De acuerdo al gráfico, ¿qué debe hacer el conductor en una intersección, cuando observe en la vía pintada una línea blanca transversal?",
+        "imagen": "../../../assets/imagen/img25.PNG",
+        "respuestas": [{
+                "id": "sen_025_r1",
+                "contestacion": "Velocidad mínima",
+                "correcta": false
+            },
+            {
+                "id": "sen_025_r2",
+                "contestacion": "Velocidad máxima",
+                "correcta": true
+            },
+            {
+                "id": "sen_025_r3",
+                "contestacion": "Peso permitido",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_026",
+        "pregunta": "26. De acuerdo al gráfico, ¿qué significa la siguiente señal horizontal pintada en la vía?",
+        "imagen": "../../../assets/imagen/img26.PNG",
+        "respuestas": [{
+                "id": "sen_026_r1",
+                "contestacion": "Estacionar temporalmente cuando no exista un agente de tránsito",
+                "correcta": false
+            },
+            {
+                "id": "sen_026_r2",
+                "contestacion": "Prohibido estacionar ",
+                "correcta": true
+            },
+            {
+                "id": "sen_026_r3",
+                "contestacion": "Estacionamiento exclusivo para personas con discapacidad",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_027",
+        "pregunta": "27. De acuerdo al gráfico, ¿qué significa la siguiente señal horizontal pintada en la vía?",
+        "imagen": "../../../assets/imagen/img27.PNG",
+        "respuestas": [{
+                "id": "sen_027_r1",
+                "contestacion": "prohibida la circulación de ciclistas",
+                "correcta": false
+            },
+            {
+                "id": "sen_027_r2",
+                "contestacion": "Ciclovía",
+                "correcta": true
+            },
+            {
+                "id": "sen_027_r3",
+                "contestacion": "Estacionamiento exclusivo para ciclistas",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_028",
+        "pregunta": "28. ¿Cómo se denomina esta forma de estacionar?",
+        "imagen": "../../../assets/imagen/img28.PNG",
+        "respuestas": [{
+                "id": "sen_028_r1",
+                "contestacion": "Estacionamiento tarifado",
+                "correcta": false
+            },
+            {
+                "id": "sen_028_r2",
+                "contestacion": "Estacionamiento en paralelo",
+                "correcta": true
+            },
+            {
+                "id": "sen_028_r3",
+                "contestacion": "Estacionamiento en batería",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_029",
+        "pregunta": "29. ¿Qué significa ésta señalización horizontal?",
+        "imagen": "../../../assets/imagen/img29.PNG",
+        "respuestas": [{
+                "id": "sen_029_r1",
+                "contestacion": "Estacionamiento tarifado",
+                "correcta": true
+            },
+            {
+                "id": "sen_029_r2",
+                "contestacion": "Estacionamiento en paralelo",
+                "correcta": false
+            },
+            {
+                "id": "sen_029_r3",
+                "contestacion": "Estacionamiento en batería",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_030",
+        "pregunta": "30. ¿Qué significa ésta señalización horizontal?",
+        "imagen": "../../../assets/imagen/img30.PNG",
+        "respuestas": [{
+                "id": "sen_030_r1",
+                "contestacion": "Estacionamiento en paralelo",
+                "correcta": false
+            },
+            {
+                "id": "sen_030_r2",
+                "contestacion": "Estacionamiento en tarifado",
+                "correcta": false
+            },
+            {
+                "id": "sen_030_r3",
+                "contestacion": "Estacionamiento en batería",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_031",
+        "pregunta": "31. ¿Qué le indica la siguiente señal?",
+        "imagen": "../../../assets/imagen/img31.PNG",
+        "respuestas": [{
+                "id": "sen_031_r1",
+                "contestacion": "Que se acerca a una vía en construcción",
+                "correcta": false
+            },
+            {
+                "id": "sen_031_r2",
+                "contestacion": "Que se aproxima a un cruce peatonal",
+                "correcta": false
+            },
+            {
+                "id": "sen_031_r3",
+                "contestacion": "Que la avenida está dividida por un parterre ancho",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_032",
+        "pregunta": "32. Identifique el significado correcto de la presente señal",
+        "imagen": "../../../assets/imagen/img32.PNG",
+        "respuestas": [{
+                "id": "sen_032_r1",
+                "contestacion": "Una vía izquierda",
+                "correcta": true
+            },
+            {
+                "id": "sen_032_r2",
+                "contestacion": "Una vía derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_032_r3",
+                "contestacion": "Doble vía",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_033",
+        "pregunta": "33. Identifque el significado correcto de la presente señal",
+        "imagen": "../../../assets/imagen/img33.PNG",
+        "respuestas": [{
+                "id": "sen_033_r1",
+                "contestacion": "Una vía izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_033_r2",
+                "contestacion": "Una vía derecha",
+                "correcta": true
+            },
+            {
+                "id": "sen_033_r3",
+                "contestacion": "Doble vía",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_034",
+        "pregunta": "34. ¿Qué significan las siguientes señales?",
+        "imagen": "../../../assets/imagen/img34.PNG",
+        "respuestas": [{
+                "id": "sen_034_r1",
+                "contestacion": "Velocidad mínima de Km/h - Estacionamiento próximo -  Prohibido girar a la derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_034_r2",
+                "contestacion": "No exceder de 30 Km/h - No estacionar - Prohibido el cambio de carril",
+                "correcta": true
+            },
+            {
+                "id": "sen_034_r3",
+                "contestacion": "Usted se encuentra en el Kilómetro 30 - Estacionamiento - Cambio de carril",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_035",
+        "pregunta": "35. ¿Qué debe hacer cuando usted observa esta señal?",
+        "imagen": "../../../assets/imagen/img35.PNG",
+        "respuestas": [{
+                "id": "sen_035_r1",
+                "contestacion": "Detenerse antes de la línea de pare y ceder el paso a todo tránsito",
+                "correcta": false
+            },
+            {
+                "id": "sen_035_r2",
+                "contestacion": "Detenerse antes de la línea de pare y ceder el paso solo al tráfico que se aproxime por su derecha",
+                "correcta": true
+            },
+            {
+                "id": "sen_035_r3",
+                "contestacion": "Reducir la velocidad y estar preparado para detenerse solamente si hay peligro de colisión con otro vehículo opeatón",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_036",
+        "pregunta": "36. ¿Qué significa está señal?",
+        "imagen": "../../../assets/imagen/img36.PNG",
+        "respuestas": [{
+                "id": "sen_036_r1",
+                "contestacion": "Viraje permitido a la izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_036_r2",
+                "contestacion": "Viraje Prohibido a la izquierda",
+                "correcta": true
+            },
+            {
+                "id": "sen_036_r3",
+                "contestacion": "Viraje Prohibido a la derecha",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_037",
+        "pregunta": "37. ¿Qué significa está señal?",
+        "imagen": "../../../assets/imagen/img37.PNG",
+        "respuestas": [{
+                "id": "sen_037_r1",
+                "contestacion": "Viraje permitido a la izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_037_r2",
+                "contestacion": "Ceder el paso al tráfico que viene por la izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_037_r3",
+                "contestacion": "Viraje Prohibido a la derecha",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_038",
+        "pregunta": "38. ¿Qué significa está señal?",
+        "imagen": "../../../assets/imagen/img38.PNG",
+        "respuestas": [{
+                "id": "sen_038_r1",
+                "contestacion": "No girar en “U”",
+                "correcta": true
+            },
+            {
+                "id": "sen_038_r2",
+                "contestacion": "No virar a la izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_038_r3",
+                "contestacion": "Tener cuidado con el tráfico que vira",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_039",
+        "pregunta": "39. ¿Qué significa está señal?",
+        "imagen": "../../../assets/imagen/img39.PNG",
+        "respuestas": [{
+                "id": "sen_039_r1",
+                "contestacion": "Estacionamiento permitido para camiones",
+                "correcta": false
+            },
+            {
+                "id": "sen_039_r2",
+                "contestacion": "Tránsito pesado debe circular por la derecha",
+                "correcta": true
+            },
+            {
+                "id": "sen_039_r3",
+                "contestacion": "Circulación solo tránsito pesado",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_039",
+        "pregunta": "39. ¿Qué significa está señal?",
+        "imagen": "../../../assets/imagen/img39.PNG",
+        "respuestas": [{
+                "id": "sen_039_r1",
+                "contestacion": "Estacionamiento permitido para camiones",
+                "correcta": false
+            },
+            {
+                "id": "sen_039_r2",
+                "contestacion": "Tránsito pesado debe circular por la derecha",
+                "correcta": true
+            },
+            {
+                "id": "sen_039_r3",
+                "contestacion": "Circulación solo tránsito pesado",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_040",
+        "pregunta": "40. ¿Qué significa está señal?",
+        "imagen": "../../../assets/imagen/img40.PNG",
+        "respuestas": [{
+                "id": "sen_040_r1",
+                "contestacion": "Prohibido circular vehículos pesados",
+                "correcta": true
+            },
+            {
+                "id": "sen_040_r2",
+                "contestacion": "Tránsito pesado a la derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_040_r3",
+                "contestacion": "Solo tránsito pesado",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_041",
+        "pregunta": "41. ¿Qué son las señales diagramáticas?",
+        "imagen": "../../../assets/imagen/img41.PNG",
+        "respuestas": [{
+                "id": "sen_041_r1",
+                "contestacion": "Son señales de inicio de una rampa de carretera o autopista",
+                "correcta": false
+            },
+            {
+                "id": "sen_041_r2",
+                "contestacion": "Son señales de guía que muestran una vista del direccionamiento de salida del tráfico con relación a la carretera de segundo orden",
+                "correcta": false
+            },
+            {
+                "id": "sen_041_r3",
+                "contestacion": "Son señales de guía que muestran una vista gráfica del direccionamiento de salida del tráfico con relación a la carretera principal",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_042",
+        "pregunta": "42. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img42.PNG",
+        "respuestas": [{
+                "id": "sen_042_r1",
+                "contestacion": "Prohibido estacionar",
+                "correcta": false
+            },
+            {
+                "id": "sen_042_r2",
+                "contestacion": "Prohibido circulación de bicicletas",
+                "correcta": true
+            },
+            {
+                "id": "sen_042_r3",
+                "contestacion": "Circulación solo tránsito liviano",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_043",
+        "pregunta": "43. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img43.PNG",
+        "respuestas": [{
+                "id": "sen_043_r1",
+                "contestacion": "Solo tránsito liviano",
+                "correcta": false
+            },
+            {
+                "id": "sen_043_r2",
+                "contestacion": "Prohibido doble columna",
+                "correcta": false
+            },
+            {
+                "id": "sen_043_r3",
+                "contestacion": "Prohibido adelantar o rebasar",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_044",
+        "pregunta": "44. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img44.PNG",
+        "respuestas": [{
+                "id": "sen_044_r1",
+                "contestacion": "Altura máxima permitida",
+                "correcta": false
+            },
+            {
+                "id": "sen_044_r2",
+                "contestacion": "Peso máximo permitido",
+                "correcta": true
+            },
+            {
+                "id": "sen_044_r3",
+                "contestacion": "Ancho máximo permitido",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_045",
+        "pregunta": "45. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img45.PNG",
+        "respuestas": [{
+                "id": "sen_045_r1",
+                "contestacion": "Altura máxima permitida",
+                "correcta": true
+            },
+            {
+                "id": "sen_045_r2",
+                "contestacion": "Peso máximo permitido",
+                "correcta": false
+            },
+            {
+                "id": "sen_045_r3",
+                "contestacion": "Ancho máximo permitido",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_046",
+        "pregunta": "46. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img46.PNG",
+        "respuestas": [{
+                "id": "sen_046_r1",
+                "contestacion": "Altura máxima permitida",
+                "correcta": false
+            },
+            {
+                "id": "sen_046_r2",
+                "contestacion": "Peso máximo permitido",
+                "correcta": false
+            },
+            {
+                "id": "sen_046_r3",
+                "contestacion": "Ancho máximo permitido",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_047",
+        "pregunta": "47. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img47.PNG",
+        "respuestas": [{
+                "id": "sen_047_r1",
+                "contestacion": "Prohibido hacer ruido",
+                "correcta": true
+            },
+            {
+                "id": "sen_047_r2",
+                "contestacion": "Zona turística",
+                "correcta": false
+            },
+            {
+                "id": "sen_047_r3",
+                "contestacion": "permitido el uso del pito o bocina",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_048",
+        "pregunta": "48. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img48.PNG",
+        "respuestas": [{
+                "id": "sen_048_r1",
+                "contestacion": "Vehículos livianos deben girar a la derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_048_r2",
+                "contestacion": "Vehículos livianos deben mantener su derecha",
+                "correcta": true
+            },
+            {
+                "id": "sen_048_r3",
+                "contestacion": "permitido estacionarse vehículos livianosc",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_049",
+        "pregunta": "49. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img49.PNG",
+        "respuestas": [{
+                "id": "sen_049_r1",
+                "contestacion": "Una vía",
+                "correcta": false
+            },
+            {
+                "id": "sen_049_r2",
+                "contestacion": "No entre",
+                "correcta": false
+            },
+            {
+                "id": "sen_049_r3",
+                "contestacion": "Comienza doble vía",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_050",
+        "pregunta": "50. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img50.PNG",
+        "respuestas": [{
+                "id": "sen_050_r1",
+                "contestacion": "Prohibido estacionarse o detenerse",
+                "correcta": true
+            },
+            {
+                "id": "sen_050_r2",
+                "contestacion": "Prohibido estacionarse",
+                "correcta": false
+            },
+            {
+                "id": "sen_050_r3",
+                "contestacion": "Permite detenerse por un minuto solamente",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_051",
+        "pregunta": "51. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img51.PNG",
+        "respuestas": [{
+                "id": "sen_051_r1",
+                "contestacion": "Ingreso permitido",
+                "correcta": false
+            },
+            {
+                "id": "sen_051_r2",
+                "contestacion": "No entre",
+                "correcta": true
+            },
+            {
+                "id": "sen_051_r3",
+                "contestacion": "Ninguna de las anteriores",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_052",
+        "pregunta": "52. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img52.PNG",
+        "respuestas": [{
+                "id": "sen_052_r1",
+                "contestacion": "Prohibido virar en U o a la izquierda",
+                "correcta": true
+            },
+            {
+                "id": "sen_052_r2",
+                "contestacion": "Prohibido virar en U o a la derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_052_r3",
+                "contestacion": "Prohibido virar a la derecha o a la izquierda",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_053",
+        "pregunta": "53. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img53.PNG",
+        "respuestas": [{
+                "id": "sen_053_r1",
+                "contestacion": "Prohibido virar en U o a la izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_053_r2",
+                "contestacion": "Prohibido tomar la vía sinuosa",
+                "correcta": false
+            },
+            {
+                "id": "sen_053_r3",
+                "contestacion": "Prohibido cambio de carril a la izquierda",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_054",
+        "pregunta": "54. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img54.PNG",
+        "respuestas": [{
+                "id": "sen_054_r1",
+                "contestacion": "Vehículos livianos deben girar a la derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_054_r2",
+                "contestacion": "Buses deben mantenerse en el carril derecho",
+                "correcta": true
+            },
+            {
+                "id": "sen_054_r3",
+                "contestacion": "permitido estacionarse vehículos livianos",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_055",
+        "pregunta": "55. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img55.PNG",
+        "respuestas": [{
+                "id": "sen_055_r1",
+                "contestacion": "Bicicletas deben mantenerse en el carril derecho",
+                "correcta": true
+            },
+            {
+                "id": "sen_055_r2",
+                "contestacion": "Bicicletas deben girar a la derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_055_r3",
+                "contestacion": "permitido estacionarse bicicletas",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_056",
+        "pregunta": "56. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img56.PNG",
+        "respuestas": [{
+                "id": "sen_056_r1",
+                "contestacion": "Motocicletas deben girar a la derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_056_r2",
+                "contestacion": "permitido estacionarse motocicletas",
+                "correcta": false
+            },
+            {
+                "id": "sen_056_r3",
+                "contestacion": "Motocicletas deben mantenerse en el carril derecho",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_057",
+        "pregunta": "57. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img57.PNG",
+        "respuestas": [{
+                "id": "sen_057_r1",
+                "contestacion": "prohibida la circulación de vehículos pesados",
+                "correcta": false
+            },
+            {
+                "id": "sen_057_r2",
+                "contestacion": "Prohibido el ingreso o circulación de vehículos motorizados",
+                "correcta": true
+            },
+            {
+                "id": "sen_057_r3",
+                "contestacion": "prohibida la circulación de buses",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_058",
+        "pregunta": "58. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img58.PNG",
+        "respuestas": [{
+                "id": "sen_058_r1",
+                "contestacion": "prohibida la circulación de camiones",
+                "correcta": false
+            },
+            {
+                "id": "sen_058_r2",
+                "contestacion": "permitido el ingreso o circulación de buses",
+                "correcta": false
+            },
+            {
+                "id": "sen_058_r3",
+                "contestacion": "Prohibido el ingreso o circulación de buses",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_059",
+        "pregunta": "59. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img59.PNG",
+        "respuestas": [{
+                "id": "sen_059_r1",
+                "contestacion": "prohibida la circulación de animales",
+                "correcta": false
+            },
+            {
+                "id": "sen_059_r2",
+                "contestacion": "permitido el ingreso o circulación de vehículos de tracción humana",
+                "correcta": false
+            },
+            {
+                "id": "sen_059_r3",
+                "contestacion": "Prohibido el ingreso o circulación de vehículos de tracción animal",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_060",
+        "pregunta": "60. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img60.PNG",
+        "respuestas": [{
+                "id": "sen_060_r1",
+                "contestacion": "Prohibido el ingreso o circulación de peatones",
+                "correcta": true
+            },
+            {
+                "id": "sen_060_r2",
+                "contestacion": "permitido el ingreso o circulación temporal de peatones",
+                "correcta": false
+            },
+            {
+                "id": "sen_060_r3",
+                "contestacion": "permitido el ingreso o circulación de peatones",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_061",
+        "pregunta": "61. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img61.PNG",
+        "respuestas": [{
+                "id": "sen_061_r1",
+                "contestacion": "No estacionar",
+                "correcta": true
+            },
+            {
+                "id": "sen_061_r2",
+                "contestacion": "permitido estacionar a partir del lugar donde se encuentre instalada la señal",
+                "correcta": false
+            },
+            {
+                "id": "sen_061_r3",
+                "contestacion": "Prohibición de estacionar a la derecha",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_062",
+        "pregunta": "62. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img62.PNG",
+        "respuestas": [{
+                "id": "sen_062_r1",
+                "contestacion": "permitido estacionar a la izquierda hasta la próxima intersección",
+                "correcta": false
+            },
+            {
+                "id": "sen_062_r2",
+                "contestacion": "Prohibido estacionar a la derecha hasta la próxima intersección",
+                "correcta": false
+            },
+            {
+                "id": "sen_062_r3",
+                "contestacion": "Prohibido estacionar en el lado que se encuentra instalada la señal , en el sentido de la flecha desde el punto de instalación, hasta la próxima intersección.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_063",
+        "pregunta": "63. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img63.PNG",
+        "respuestas": [{
+                "id": "sen_063_r1",
+                "contestacion": "Estacionar a la derecha hasta la próxima intersección",
+                "correcta": false
+            },
+            {
+                "id": "sen_063_r2",
+                "contestacion": "Prohibido estacionar en el lado que se encuentra instalada la señal , en el sentido de la flecha desde el punto de instalación, hasta la próxima intersección.",
+                "correcta": true
+            },
+            {
+                "id": "sen_063_r3",
+                "contestacion": "Prohibición de estacionar a la izquierda hasta la próxima intersección",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_064",
+        "pregunta": "64. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img64.PNG",
+        "respuestas": [{
+                "id": "sen_064_r1",
+                "contestacion": "Prohibido estacionar en el lado que se encuentra instalada la señal, de intersección a intersección.",
+                "correcta": true
+            },
+            {
+                "id": "sen_064_r2",
+                "contestacion": "Estacionar a la derecha hasta la próxima intersección",
+                "correcta": false
+            },
+            {
+                "id": "sen_064_r3",
+                "contestacion": "Prohibición de estacionar a la izquierda",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_065",
+        "pregunta": "65. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img65.PNG",
+        "respuestas": [{
+                "id": "sen_065_r1",
+                "contestacion": "Estacionamiento tarifado",
+                "correcta": false
+            },
+            {
+                "id": "sen_065_r2",
+                "contestacion": "Prohibición de estacionar",
+                "correcta": false
+            },
+            {
+                "id": "sen_065_r3",
+                "contestacion": "Estacionamiento permitido",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_066",
+        "pregunta": "66. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img66.PNG",
+        "respuestas": [{
+                "id": "sen_066_r1",
+                "contestacion": "Estacionamiento tarifado durante los días y horarios señalados",
+                "correcta": true
+            },
+            {
+                "id": "sen_066_r2",
+                "contestacion": "Estacionamiento tarifado a excepción de los días y horarios definidos",
+                "correcta": false
+            },
+            {
+                "id": "sen_066_r3",
+                "contestacion": "Estacionamiento no tarifado",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_067",
+        "pregunta": "67. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img67.PNG",
+        "respuestas": [{
+                "id": "sen_067_r1",
+                "contestacion": "Estacionamiento Prohibido para personas con discapacidad",
+                "correcta": false
+            },
+            {
+                "id": "sen_067_r2",
+                "contestacion": "Estacionamiento reservado para personas con discapacidad",
+                "correcta": true
+            },
+            {
+                "id": "sen_067_r3",
+                "contestacion": "Estacionamiento reservado para vehículos grandes",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_068",
+        "pregunta": "68. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img68.PNG",
+        "respuestas": [{
+                "id": "sen_068_r1",
+                "contestacion": "Estacionamiento en paralelo reservado para vehículos grandes",
+                "correcta": false
+            },
+            {
+                "id": "sen_068_r2",
+                "contestacion": "Estacionamiento en paralelo reservado para personas con discapacidad",
+                "correcta": true
+            },
+            {
+                "id": "sen_068_r3",
+                "contestacion": "Estacionamiento en paralelo Prohibido para personas con discapacidad",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_069",
+        "pregunta": "69. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img69.PNG",
+        "respuestas": [{
+                "id": "sen_069_r1",
+                "contestacion": "Indica el área donde los buses no deben detenerse para tomar y/o dejar pasajeros",
+                "correcta": false
+            },
+            {
+                "id": "sen_069_r2",
+                "contestacion": "Indica la proximidad de una parada de buses a 100 metros",
+                "correcta": false
+            },
+            {
+                "id": "sen_069_r3",
+                "contestacion": "Indica el área donde los buses deben detenerse para tomar y/o dejar pasajeros",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_070",
+        "pregunta": "70. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img70.PNG",
+        "respuestas": [{
+                "id": "sen_070_r1",
+                "contestacion": "Prohibición de recoger y/o dejar pasajeros",
+                "correcta": true
+            },
+            {
+                "id": "sen_070_r2",
+                "contestacion": "Proximidad de parada de bus",
+                "correcta": false
+            },
+            {
+                "id": "sen_070_r3",
+                "contestacion": "Indica el área donde los buses deben detenerse para tomar y/o dejar pasajeros",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_071",
+        "pregunta": "71. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img71.PNG",
+        "respuestas": [{
+                "id": "sen_071_r1",
+                "contestacion": "Largo máximo de los vehículos que circulan por esa vía",
+                "correcta": true
+            },
+            {
+                "id": "sen_071_r2",
+                "contestacion": "Ancho máximo de los vehículos que circulan por esa vía",
+                "correcta": false
+            },
+            {
+                "id": "sen_071_r3",
+                "contestacion": "Ancho de la vía",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_072",
+        "pregunta": "72. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img72.PNG",
+        "respuestas": [{
+                "id": "sen_072_r1",
+                "contestacion": "Límite máximo de velocidad",
+                "correcta": true
+            },
+            {
+                "id": "sen_072_r2",
+                "contestacion": "Límite mínimo de velocidad",
+                "correcta": false
+            },
+            {
+                "id": "sen_072_r3",
+                "contestacion": "Ancho de la vía",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_073",
+        "pregunta": "73. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img73.PNG",
+        "respuestas": [{
+                "id": "sen_073_r1",
+                "contestacion": "Límite mínimo de velocidad",
+                "correcta": false
+            },
+            {
+                "id": "sen_073_r2",
+                "contestacion": "Límite máximo de velocidad",
+                "correcta": true
+            },
+            {
+                "id": "sen_073_r3",
+                "contestacion": "Ninguna de las anteriores",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_074",
+        "pregunta": "74. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img74.PNG",
+        "respuestas": [{
+                "id": "sen_074_r1",
+                "contestacion": "Prohibición de ingreso de vehículos de tracción humana",
+                "correcta": true
+            },
+            {
+                "id": "sen_074_r2",
+                "contestacion": "Prohibición de ingreso de maquinaria agrícola",
+                "correcta": false
+            },
+            {
+                "id": "sen_074_r3",
+                "contestacion": "Prohibición de ingreso de vehículos de tracción animal",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_075",
+        "pregunta": "75. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img75.PNG",
+        "respuestas": [{
+                "id": "sen_075_r1",
+                "contestacion": "Prohibición de ingreso de vehículos de tracción humana",
+                "correcta": false
+            },
+            {
+                "id": "sen_075_r2",
+                "contestacion": "Prohibición de ingreso de bicicletas",
+                "correcta": false
+            },
+            {
+                "id": "sen_075_r3",
+                "contestacion": "Prohibición de ingreso de motocicletas",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_076",
+        "pregunta": "76. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img76.PNG",
+        "respuestas": [{
+                "id": "sen_076_r1",
+                "contestacion": "Prohibición de ingreso y /o circulación de maquinaria agrícola",
+                "correcta": true
+            },
+            {
+                "id": "sen_076_r2",
+                "contestacion": "Prohibición de ingreso de motocicletas",
+                "correcta": false
+            },
+            {
+                "id": "sen_076_r3",
+                "contestacion": "Prohibición de ingreso de vehículos de tracción humana",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_077",
+        "pregunta": "77. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img77.PNG",
+        "respuestas": [{
+                "id": "sen_077_r1",
+                "contestacion": "Para regular el ingreso de vehículos de tracción humana",
+                "correcta": false
+            },
+            {
+                "id": "sen_077_r2",
+                "contestacion": "Para restringir y regular el peso máximo de los vehículos por eje en toneladas",
+                "correcta": true
+            },
+            {
+                "id": "sen_077_r3",
+                "contestacion": "Para restringir y regular el ancho máximo de los vehículos por eje en toneladas",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_078",
+        "pregunta": "78. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img78.PNG",
+        "respuestas": [{
+                "id": "sen_078_r1",
+                "contestacion": "Circular utilizando luces de estacionamiento",
+                "correcta": false
+            },
+            {
+                "id": "sen_078_r2",
+                "contestacion": "Circular con precaución sobre ese carril ya que es compartido con peatones y ciclistas",
+                "correcta": false
+            },
+            {
+                "id": "sen_078_r3",
+                "contestacion": "Carril exclusivo para peatones y ciclistas",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_079",
+        "pregunta": "79. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img79.PNG",
+        "respuestas": [{
+                "id": "sen_079_r1",
+                "contestacion": "Que el carril segregado exclusivo para ciclistas y peatones se termina",
+                "correcta": true
+            },
+            {
+                "id": "sen_079_r2",
+                "contestacion": "Que el carril segregado exclusivo para ciclistas y peatones se termina e inicia en la siguiente intersección",
+                "correcta": false
+            },
+            {
+                "id": "sen_079_r3",
+                "contestacion": "Ninguna de las anteriores",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_080",
+        "pregunta": "80. Las señales regulatorias: ¿Qué significan?",
+        "imagen": "../../../assets/imagen/img80.PNG",
+        "respuestas": [{
+                "id": "sen_080_r1",
+                "contestacion": "Son señales que determinan una prohibición,restricción u obligación",
+                "correcta": true
+            },
+            {
+                "id": "sen_080_r2",
+                "contestacion": "Son señales que indican un peligro",
+                "correcta": false
+            },
+            {
+                "id": "sen_080_r3",
+                "contestacion": "Son informativas y solo debe obedecerlas si es necesario",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_081",
+        "pregunta": "81. ¿Qué debe hacer al observar la siguiente señal regulatoria?",
+        "imagen": "../../../assets/imagen/img81.PNG",
+        "respuestas": [{
+                "id": "sen_081_r1",
+                "contestacion": "Ceder el paso solo a los peatones",
+                "correcta": false
+            },
+            {
+                "id": "sen_081_r2",
+                "contestacion": "Ceder el paso a los conductores y/o peatones",
+                "correcta": true
+            },
+            {
+                "id": "sen_081_r3",
+                "contestacion": "Ceder el paso solo a los conductores",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_082",
+        "pregunta": "82. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img82.PNG",
+        "respuestas": [{
+                "id": "sen_082_r1",
+                "contestacion": "Más adelante redondel",
+                "correcta": false
+            },
+            {
+                "id": "sen_082_r2",
+                "contestacion": "Más adelante intersección en “T”",
+                "correcta": true
+            },
+            {
+                "id": "sen_082_r3",
+                "contestacion": "Más adelante cruce de tren",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_083",
+        "pregunta": "83. Cuando observe esta señal: ¿Qué debe hacer?",
+        "imagen": "../../../assets/imagen/img83.PNG",
+        "respuestas": [{
+                "id": "sen_083_r1",
+                "contestacion": "Tener cuidado, adelante cruce de camiones",
+                "correcta": false
+            },
+            {
+                "id": "sen_083_r2",
+                "contestacion": "Descansar, más adelante área de descanso",
+                "correcta": false
+            },
+            {
+                "id": "sen_083_r3",
+                "contestacion": "Conducir con cuidado y estar atentos por vehículos que pueden salir por el empalme lateral izquierdo",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_084",
+        "pregunta": "84. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img84.PNG",
+        "respuestas": [{
+                "id": "sen_084_r1",
+                "contestacion": "Más adelante vía lateral",
+                "correcta": false
+            },
+            {
+                "id": "sen_084_r2",
+                "contestacion": "Más adelante cruce de vías",
+                "correcta": false
+            },
+            {
+                "id": "sen_084_r3",
+                "contestacion": "Más adelante intersección en “Y”",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_085",
+        "pregunta": "85. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img85.PNG",
+        "respuestas": [{
+                "id": "sen_085_r1",
+                "contestacion": "Más adelante vire en U",
+                "correcta": false
+            },
+            {
+                "id": "sen_085_r2",
+                "contestacion": "Aproximación a redondel",
+                "correcta": true
+            },
+            {
+                "id": "sen_085_r3",
+                "contestacion": "Más adelante zona de derrumbes",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_086",
+        "pregunta": "86. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img86.PNG",
+        "respuestas": [{
+                "id": "sen_086_r1",
+                "contestacion": "Más adelante pare, alto, detención",
+                "correcta": false
+            },
+            {
+                "id": "sen_086_r2",
+                "contestacion": "Más adelante ceda el paso en redondel",
+                "correcta": false
+            },
+            {
+                "id": "sen_086_r3",
+                "contestacion": "Aproximación a semáforo",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_087",
+        "pregunta": "87. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img87.PNG",
+        "respuestas": [{
+                "id": "sen_087_r1",
+                "contestacion": "Más adelante parterre termina",
+                "correcta": true
+            },
+            {
+                "id": "sen_087_r2",
+                "contestacion": "Más adelante angostamiento de vía",
+                "correcta": false
+            },
+            {
+                "id": "sen_087_r3",
+                "contestacion": "Más adelante parterre comienza",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_088",
+        "pregunta": "88. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img88.PNG",
+        "respuestas": [{
+                "id": "sen_088_r1",
+                "contestacion": "Más adelante parterre termina",
+                "correcta": false
+            },
+            {
+                "id": "sen_088_r2",
+                "contestacion": "Más adelante angostamiento de vía",
+                "correcta": false
+            },
+            {
+                "id": "sen_088_r3",
+                "contestacion": "Más adelante parterre comienza",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_089",
+        "pregunta": "89. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img89.PNG",
+        "respuestas": [{
+                "id": "sen_089_r1",
+                "contestacion": "Más adelante ancho limitado en la vía",
+                "correcta": true
+            },
+            {
+                "id": "sen_089_r2",
+                "contestacion": "Más adelante altura limitada en la vía",
+                "correcta": false
+            },
+            {
+                "id": "sen_089_r3",
+                "contestacion": "Más adelante vía con granillo",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_090",
+        "pregunta": "90. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img90.PNG",
+        "respuestas": [{
+                "id": "sen_090_r1",
+                "contestacion": "Más adelante calzada resbaladiza",
+                "correcta": true
+            },
+            {
+                "id": "sen_090_r2",
+                "contestacion": "Más adelante zona de derrumbe",
+                "correcta": false
+            },
+            {
+                "id": "sen_090_r3",
+                "contestacion": "Más adelante vía con gravilla",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_091",
+        "pregunta": "91. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img91.PNG",
+        "respuestas": [{
+                "id": "sen_091_r1",
+                "contestacion": "Más adelante calzada resbaladiza",
+                "correcta": false
+            },
+            {
+                "id": "sen_091_r2",
+                "contestacion": "Más adelante zona de derrumbe",
+                "correcta": true
+            },
+            {
+                "id": "sen_091_r3",
+                "contestacion": "Más adelante vía con gravilla",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_092",
+        "pregunta": "92. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img92.PNG",
+        "respuestas": [{
+                "id": "sen_092_r1",
+                "contestacion": "Más adelante calzada resbaladiza",
+                "correcta": true
+            },
+            {
+                "id": "sen_092_r2",
+                "contestacion": "Más adelante zona de derrumbe",
+                "correcta": false
+            },
+            {
+                "id": "sen_092_r3",
+                "contestacion": "Más adelante vía con granillo",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_093",
+        "pregunta": "93. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img93.PNG",
+        "respuestas": [{
+                "id": "sen_093_r1",
+                "contestacion": "Más adelante cruce de ganado",
+                "correcta": true
+            },
+            {
+                "id": "sen_093_r2",
+                "contestacion": "Más adelante cruce de peatones",
+                "correcta": false
+            },
+            {
+                "id": "sen_093_r3",
+                "contestacion": "Más adelante cruce de maquinaria agrícola",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_094",
+        "pregunta": "94. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img94.PNG",
+        "respuestas": [{
+                "id": "sen_094_r1",
+                "contestacion": "Más adelante desfile",
+                "correcta": false
+            },
+            {
+                "id": "sen_094_r2",
+                "contestacion": "Más adelante cruce de peatones",
+                "correcta": true
+            },
+            {
+                "id": "sen_094_r3",
+                "contestacion": "Más adelante área deportiva",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_095",
+        "pregunta": "95. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img95.PNG",
+        "respuestas": [{
+                "id": "sen_095_r1",
+                "contestacion": "Más adelante cruce de ganado",
+                "correcta": false
+            },
+            {
+                "id": "sen_095_r2",
+                "contestacion": "Más adelante cruce de camiones",
+                "correcta": false
+            },
+            {
+                "id": "sen_095_r3",
+                "contestacion": "Más adelante cruce de maquinaria agrícola",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_096",
+        "pregunta": "96. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img96.PNG",
+        "respuestas": [{
+                "id": "sen_096_r1",
+                "contestacion": "Más adelante circulación en doble vía (bidireccional)",
+                "correcta": true
+            },
+            {
+                "id": "sen_096_r2",
+                "contestacion": "Más adelante circulación en una vía",
+                "correcta": false
+            },
+            {
+                "id": "sen_096_r3",
+                "contestacion": "Más adelante vire a la derecha",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_097",
+        "pregunta": "97. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img97.PNG",
+        "respuestas": [{
+                "id": "sen_097_r1",
+                "contestacion": "Aproximación a cruce peatonal controlado con señal vertical",
+                "correcta": true
+            },
+            {
+                "id": "sen_097_r2",
+                "contestacion": "Aproximación a intersección",
+                "correcta": false
+            },
+            {
+                "id": "sen_097_r3",
+                "contestacion": "Aproximación a trabajos en la vía",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_098",
+        "pregunta": "98. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img98.PNG",
+        "respuestas": [{
+                "id": "sen_098_r1",
+                "contestacion": "Ancho máximo permitido",
+                "correcta": false
+            },
+            {
+                "id": "sen_098_r2",
+                "contestacion": "Largo máximo permitido",
+                "correcta": true
+            },
+            {
+                "id": "sen_098_r3",
+                "contestacion": "Cruce de camiones permitido",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_099",
+        "pregunta": "99. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img99.PNG",
+        "respuestas": [{
+                "id": "sen_099_r1",
+                "contestacion": "Túnel obstruido",
+                "correcta": false
+            },
+            {
+                "id": "sen_099_r2",
+                "contestacion": "Trabajos en el túnel",
+                "correcta": false
+            },
+            {
+                "id": "sen_099_r3",
+                "contestacion": "Aproximación a túnel",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_100",
+        "pregunta": "100. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img100.PNG",
+        "respuestas": [{
+                "id": "sen_100_r1",
+                "contestacion": "Angostamiento de vía.",
+                "correcta": false
+            },
+            {
+                "id": "sen_100_r2",
+                "contestacion": "Más adelante tiene un carril adicional en el mismo sentido",
+                "correcta": true
+            },
+            {
+                "id": "sen_100_r3",
+                "contestacion": "Empalmes",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_101",
+        "pregunta": "101. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img101.PNG",
+        "respuestas": [{
+                "id": "sen_101_r1",
+                "contestacion": "Más adelante curva abierta hacia la derecha",
+                "correcta": true
+            },
+            {
+                "id": "sen_101_r2",
+                "contestacion": "Más adelante curva cerrada hacia la derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_101_r3",
+                "contestacion": "Más adelante curva y contra curva",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_102",
+        "pregunta": "102. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img102.PNG",
+        "respuestas": [{
+                "id": "sen_102_r1",
+                "contestacion": "Más adelante curva cerrada hacia la izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_102_r2",
+                "contestacion": "Más adelante curva abierta hacia la izquierda",
+                "correcta": true
+            },
+            {
+                "id": "sen_102_r3",
+                "contestacion": "Más adelante curva y contra curva",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_103",
+        "pregunta": "103. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img103.PNG",
+        "respuestas": [{
+                "id": "sen_103_r1",
+                "contestacion": "Más adelante curva pronunciada a la derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_103_r2",
+                "contestacion": "Más adelante curva abierta a la derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_103_r3",
+                "contestacion": "Más adelante curva y contra curva cerradas a la derecha",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_104",
+        "pregunta": "104. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img104.PNG",
+        "respuestas": [{
+                "id": "sen_104_r1",
+                "contestacion": "Más adelante curva pronunciada a la izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_104_r2",
+                "contestacion": "Más adelante curva y contra curva cerradas a la izquierda",
+                "correcta": true
+            },
+            {
+                "id": "sen_104_r3",
+                "contestacion": "Más adelante curva abierta a la izquierda",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_105",
+        "pregunta": "105. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img105.PNG",
+        "respuestas": [{
+                "id": "sen_105_r1",
+                "contestacion": "Más adelante curva y contra curva abiertas a la izquierda",
+                "correcta": true
+            },
+            {
+                "id": "sen_105_r2",
+                "contestacion": "Más adelante curva pronunciada a la izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_105_r3",
+                "contestacion": "Más adelante curva abierta a la izquierda",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_106",
+        "pregunta": "106. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img106.PNG",
+        "respuestas": [{
+                "id": "sen_106_r1",
+                "contestacion": "Más adelante curva abierta a la derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_106_r2",
+                "contestacion": "Más adelante curva y contra curva abiertas a la derecha",
+                "correcta": true
+            },
+            {
+                "id": "sen_106_r3",
+                "contestacion": "Más adelante curva pronunciada a la derecha",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_107",
+        "pregunta": "107. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img107.PNG",
+        "respuestas": [{
+                "id": "sen_107_r1",
+                "contestacion": "Más adelante curva y contra curva cerradas a la izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_107_r2",
+                "contestacion": "Más adelante curva pronunciada a la izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_107_r3",
+                "contestacion": "Más adelante vía sinuosa a la izquierda",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_108",
+        "pregunta": "108. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img108.PNG",
+        "respuestas": [{
+                "id": "sen_108_r1",
+                "contestacion": "Más adelante vía sinuosa a la derecha",
+                "correcta": true
+            },
+            {
+                "id": "sen_108_r2",
+                "contestacion": "Más adelante curva pronunciada a la derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_108_r3",
+                "contestacion": "Más adelante curva y contra curva abiertas a la derecha",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_109",
+        "pregunta": "109. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img109.PNG",
+        "respuestas": [{
+                "id": "sen_109_r1",
+                "contestacion": "Prohibido virar en “U” a la izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_109_r2",
+                "contestacion": "Más adelante curva en “U” a la izquierda",
+                "correcta": true
+            },
+            {
+                "id": "sen_109_r3",
+                "contestacion": "Prohibido virar en “U” a la derecha",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_110",
+        "pregunta": "110. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img110.PNG",
+        "respuestas": [{
+                "id": "sen_110_r1",
+                "contestacion": "Prohibido virar en “U” a la izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_110_r2",
+                "contestacion": "Prohibido virar en “U” a la derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_110_r3",
+                "contestacion": "Más adelante curva en “U” a la derecha",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_111",
+        "pregunta": "111. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img111.PNG",
+        "respuestas": [{
+                "id": "sen_111_r1",
+                "contestacion": "Más adelante camino lateral",
+                "correcta": false
+            },
+            {
+                "id": "sen_111_r2",
+                "contestacion": "Más adelante empalmes contrarios consecutivos.",
+                "correcta": false
+            },
+            {
+                "id": "sen_111_r3",
+                "contestacion": "Más adelante incorporación de tránsito lateral izquierdo",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_112",
+        "pregunta": "112. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img112.PNG",
+        "respuestas": [{
+                "id": "sen_112_r1",
+                "contestacion": "Más adelante incorporación de tránsito lateral derecho",
+                "correcta": true
+            },
+            {
+                "id": "sen_112_r2",
+                "contestacion": "Más adelante camino lateral",
+                "correcta": false
+            },
+            {
+                "id": "sen_112_r3",
+                "contestacion": "Más adelante empalmes contrarios consecutivos",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_113",
+        "pregunta": "113. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img113.PNG",
+        "respuestas": [{
+                "id": "sen_113_r1",
+                "contestacion": "Más adelante camino lateral a la izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_113_r2",
+                "contestacion": "Más adelante empalmes laterales sucesivos contrarios, el primero a la izquierda",
+                "correcta": true
+            },
+            {
+                "id": "sen_113_r3",
+                "contestacion": "Más adelante incorporación de tránsito lateral izquierdo",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_114",
+        "pregunta": "114. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img114.PNG",
+        "respuestas": [{
+                "id": "sen_114_r1",
+                "contestacion": "Más adelante incorporación de tránsito lateral derecho",
+                "correcta": false
+            },
+            {
+                "id": "sen_114_r2",
+                "contestacion": "Más adelante camino lateral a la derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_114_r3",
+                "contestacion": "Más adelante empalmes laterales sucesivos contrarios, el primero a la derecha",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_115",
+        "pregunta": "115. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img115.PNG",
+        "respuestas": [{
+                "id": "sen_115_r1",
+                "contestacion": "Más adelante solo vehículos livianos",
+                "correcta": false
+            },
+            {
+                "id": "sen_115_r2",
+                "contestacion": "Más adelante vía compartida con ciclistas",
+                "correcta": true
+            },
+            {
+                "id": "sen_115_r3",
+                "contestacion": "Más adelante vía solo para ciclistas",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_116",
+        "pregunta": "116. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img116.PNG",
+        "respuestas": [{
+                "id": "sen_116_r1",
+                "contestacion": "Más adelante bandas transversales de alerta o de retumbo",
+                "correcta": true
+            },
+            {
+                "id": "sen_116_r2",
+                "contestacion": "Más adelante agua en la vía",
+                "correcta": false
+            },
+            {
+                "id": "sen_116_r3",
+                "contestacion": "Más adelante hondonada",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_117",
+        "pregunta": "117. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img117.PNG",
+        "respuestas": [{
+                "id": "sen_117_r1",
+                "contestacion": "Más adelante calzada irregular",
+                "correcta": false
+            },
+            {
+                "id": "sen_117_r2",
+                "contestacion": "Más adelante reductor de velocidad",
+                "correcta": true
+            },
+            {
+                "id": "sen_117_r3",
+                "contestacion": "Más adelante hondonada",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_118",
+        "pregunta": "118. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img118.PNG",
+        "respuestas": [{
+                "id": "sen_118_r1",
+                "contestacion": "Más adelante vía cerrada",
+                "correcta": false
+            },
+            {
+                "id": "sen_118_r2",
+                "contestacion": "Más adelante reductor de velocidad",
+                "correcta": false
+            },
+            {
+                "id": "sen_118_r3",
+                "contestacion": "Más adelante depresión",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_119",
+        "pregunta": "119. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img119.PNG",
+        "respuestas": [{
+                "id": "sen_119_r1",
+                "contestacion": "Más adelante pendiente peligrosa",
+                "correcta": false
+            },
+            {
+                "id": "sen_119_r2",
+                "contestacion": "Más adelante estrechamiento en la vía",
+                "correcta": false
+            },
+            {
+                "id": "sen_119_r3",
+                "contestacion": "Más adelante puente angosto",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_120",
+        "pregunta": "120. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img120.PNG",
+        "respuestas": [{
+                "id": "sen_120_r1",
+                "contestacion": "Más adelante pendiente peligrosa",
+                "correcta": false
+            },
+            {
+                "id": "sen_120_r2",
+                "contestacion": "Más adelante angostamiento en la vía",
+                "correcta": true
+            },
+            {
+                "id": "sen_120_r3",
+                "contestacion": "Más adelante puente angosto",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_121",
+        "pregunta": "121. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img121.PNG",
+        "respuestas": [{
+                "id": "sen_121_r1",
+                "contestacion": "Más adelante pendiente peligrosa",
+                "correcta": true
+            },
+            {
+                "id": "sen_121_r2",
+                "contestacion": "Más adelante angostamiento en la vía",
+                "correcta": false
+            },
+            {
+                "id": "sen_121_r3",
+                "contestacion": "Más adelante puente angosto",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_122",
+        "pregunta": "122. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img122.PNG",
+        "respuestas": [{
+                "id": "sen_122_r1",
+                "contestacion": "Cambio de trayectoria de la vía",
+                "correcta": true
+            },
+            {
+                "id": "sen_122_r2",
+                "contestacion": "Que la vía termina",
+                "correcta": false
+            },
+            {
+                "id": "sen_122_r3",
+                "contestacion": "Que la vía comienza",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_123",
+        "pregunta": "123. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img123.PNG",
+        "respuestas": [{
+                "id": "sen_123_r1",
+                "contestacion": "Obstrucción en la vía y que puede circular solo por el lado derecho",
+                "correcta": false
+            },
+            {
+                "id": "sen_123_r2",
+                "contestacion": "Obstrucción central en la vía y que puede circular por el lado derecho o izquierdo",
+                "correcta": true
+            },
+            {
+                "id": "sen_123_r3",
+                "contestacion": "Obstrucción en la vía y que puede circular solo por el lado izquierdo",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_124",
+        "pregunta": "124. ¿Cuál de las siguientes imágenes es una señal temporal de trabajo correcta:?",
+        "imagen": "../../../assets/imagen/img124.PNG",
+        "respuestas": [{
+                "id": "sen_124_r1",
+                "contestacion": "1",
+                "correcta": true
+            },
+            {
+                "id": "sen_124_r2",
+                "contestacion": "2",
+                "correcta": false
+            },
+            {
+                "id": "sen_124_r3",
+                "contestacion": "Ninguna de las anteriores",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_125",
+        "pregunta": "125. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img125.PNG",
+        "respuestas": [{
+                "id": "sen_125_r1",
+                "contestacion": "Aproximación a una curva abierta a la izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_125_r2",
+                "contestacion": "Aproximación a una curva cerrada a la izquierda",
+                "correcta": true
+            },
+            {
+                "id": "sen_125_r3",
+                "contestacion": "Aproximación a una contra curva a la izquierda",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_126",
+        "pregunta": "126. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img126.PNG",
+        "respuestas": [{
+                "id": "sen_126_r1",
+                "contestacion": "Aproximación a una curva abierta a la derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_126_r2",
+                "contestacion": "Aproximación a una contra curva a la derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_126_r3",
+                "contestacion": "Aproximación a una curva cerrada a la derecha",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_127",
+        "pregunta": "127. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img127.PNG",
+        "respuestas": [{
+                "id": "sen_127_r1",
+                "contestacion": "Aproximación a una intersección en forma de “T” hacia la izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_127_r2",
+                "contestacion": "Aproximación a una intersección en forma de “T” hacia la izquierda al finalizar la curva",
+                "correcta": true
+            },
+            {
+                "id": "sen_127_r3",
+                "contestacion": "Curva cerrada a la izquierda",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_128",
+        "pregunta": "128. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img128.PNG",
+        "respuestas": [{
+                "id": "sen_128_r1",
+                "contestacion": "Curva cerrada a la derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_128_r2",
+                "contestacion": "Aproximación a una intersección en forma de “T” hacia la izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_128_r3",
+                "contestacion": "Aproximación a una intersección en forma de “T” hacia la derecha al finalizar la curva",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_129",
+        "pregunta": "129. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img129.PNG",
+        "respuestas": [{
+                "id": "sen_129_r1",
+                "contestacion": "Aproximación a una curva cerrada a la izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_129_r2",
+                "contestacion": "Aproximación a un cruce de vías en la curva a la izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_129_r3",
+                "contestacion": "Aproximación a un empalme externo en la curva hacia la izquierda",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_130",
+        "pregunta": "130. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img130.PNG",
+        "respuestas": [{
+                "id": "sen_130_r1",
+                "contestacion": "Aproximación a un empalme externo en la curva hacia la derecha",
+                "correcta": true
+            },
+            {
+                "id": "sen_130_r2",
+                "contestacion": "Aproximación a un cruce de vías en la curva hacia la Derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_130_r3",
+                "contestacion": "Aproximación a una curva cerrada a la derecha",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_131",
+        "pregunta": "131. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img131.PNG",
+        "respuestas": [{
+                "id": "sen_131_r1",
+                "contestacion": "Aproximación a un empalme externo en la curva hacia la izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_131_r2",
+                "contestacion": "Aproximación a un empalme interno en la curva hacia la izquierda",
+                "correcta": true
+            },
+            {
+                "id": "sen_131_r3",
+                "contestacion": "Aproximación a un cruce de vías en la curva hacia la izquierda",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_132",
+        "pregunta": "132. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img132.PNG",
+        "respuestas": [{
+                "id": "sen_132_r1",
+                "contestacion": "Aproximación a un empalme externo en la curva hacia la derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_132_r2",
+                "contestacion": "Aproximación a un cruce de vías en la curva hacia la derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_132_r3",
+                "contestacion": "Aproximación a un empalme interno en la curva hacia la derechac",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_133",
+        "pregunta": "133. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img133.PNG",
+        "respuestas": [{
+                "id": "sen_133_r1",
+                "contestacion": "Aproximación a un cruce de vías al virar a la izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_133_r2",
+                "contestacion": "Aproximación a una curva cerrada a la izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_133_r3",
+                "contestacion": "Aproximación a una vía lateral derecha al virar a la izquierda en la curva",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_134",
+        "pregunta": "134. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img134.PNG",
+        "respuestas": [{
+                "id": "sen_134_r1",
+                "contestacion": "Aproximación a una vía lateral izquierda al virar a la derecha en la curva",
+                "correcta": true
+            },
+            {
+                "id": "sen_134_r2",
+                "contestacion": "Aproximación a un cruce de vías al virar a la derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_134_r3",
+                "contestacion": "Aproximación a una curva cerrada a la derecha",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_135",
+        "pregunta": "135. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img135.PNG",
+        "respuestas": [{
+                "id": "sen_135_r1",
+                "contestacion": "Aproximación a una vía lateral izquierda al virar a la derecha en la curva",
+                "correcta": false
+            },
+            {
+                "id": "sen_135_r2",
+                "contestacion": "Aproximación a un cruce de vías al virar a la derecha",
+                "correcta": true
+            },
+            {
+                "id": "sen_135_r3",
+                "contestacion": "Aproximación a una curva cerrada a la derecha",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_136",
+        "pregunta": "136. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img136.PNG",
+        "respuestas": [{
+                "id": "sen_136_r1",
+                "contestacion": "Aproximación a la derecha a una intersección en forma de “T”",
+                "correcta": false
+            },
+            {
+                "id": "sen_136_r2",
+                "contestacion": "Aproximación a cruce de tren a la derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_136_r3",
+                "contestacion": "Aproximación a una bifurcación a la derecha",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_137",
+        "pregunta": "137. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img137.PNG",
+        "respuestas": [{
+                "id": "sen_137_r1",
+                "contestacion": "Incorporación de un carril de circulación a la izquierda de la vía",
+                "correcta": true
+            },
+            {
+                "id": "sen_137_r2",
+                "contestacion": "Incorporación de un carril de circulación a la derecha de la vía",
+                "correcta": false
+            },
+            {
+                "id": "sen_137_r3",
+                "contestacion": "Ninguna de las anteriores",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_138",
+        "pregunta": "138. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img138.PNG",
+        "respuestas": [{
+                "id": "sen_138_r1",
+                "contestacion": "Incorporación de un carril de circulación a la izquierda de la vía",
+                "correcta": false
+            },
+            {
+                "id": "sen_138_r2",
+                "contestacion": "Incorporación de un carril de circulación a la derecha de la vía",
+                "correcta": true
+            },
+            {
+                "id": "sen_138_r3",
+                "contestacion": "Ninguna de las anteriores",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_139",
+        "pregunta": "139. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img139.PNG",
+        "respuestas": [{
+                "id": "sen_139_r1",
+                "contestacion": "Aproximación a un ensanche en la calzada al lado derecho",
+                "correcta": false
+            },
+            {
+                "id": "sen_139_r2",
+                "contestacion": "Aproximación a una curva a la izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_139_r3",
+                "contestacion": "Aproximación a un ensanche al lado izquierdo de la calzada",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_140",
+        "pregunta": "140. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img140.PNG",
+        "respuestas": [{
+                "id": "sen_140_r1",
+                "contestacion": "Aproximación a un ensanche al lado derecho de la calzada",
+                "correcta": true
+            },
+            {
+                "id": "sen_140_r2",
+                "contestacion": "Aproximación a un ensanche en la calzada al lado izquierdo",
+                "correcta": false
+            },
+            {
+                "id": "sen_140_r3",
+                "contestacion": "Aproximación a una curva a la derecha",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_141",
+        "pregunta": "141. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img141.PNG",
+        "respuestas": [{
+                "id": "sen_141_r1",
+                "contestacion": "Más adelante pendiente peligrosa",
+                "correcta": false
+            },
+            {
+                "id": "sen_141_r2",
+                "contestacion": "Más adelante ensanchamiento en la vía",
+                "correcta": true
+            },
+            {
+                "id": "sen_141_r3",
+                "contestacion": "Más adelante puente angosto",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_142",
+        "pregunta": "142. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img142.PNG",
+        "respuestas": [{
+                "id": "sen_142_r1",
+                "contestacion": "Bifurcación derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_142_r2",
+                "contestacion": "Aproximación a una intersección en T",
+                "correcta": false
+            },
+            {
+                "id": "sen_142_r3",
+                "contestacion": "Aproximación a un empalme lateral derecho",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_143",
+        "pregunta": "143. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img143.PNG",
+        "respuestas": [{
+                "id": "sen_143_r1",
+                "contestacion": "Aproximación a un ensanche en la calzada al lado derecho",
+                "correcta": false
+            },
+            {
+                "id": "sen_143_r2",
+                "contestacion": "Aproximación a una curva a la izquierda",
+                "correcta": false
+            },
+            {
+                "id": "sen_143_r3",
+                "contestacion": "Aproximación a un angostamiento al lado izquierdo de la calzada",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_144",
+        "pregunta": "144. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img144.PNG",
+        "respuestas": [{
+                "id": "sen_144_r1",
+                "contestacion": "Aproximación a un angostamiento al lado derecho de la calzada",
+                "correcta": true
+            },
+            {
+                "id": "sen_144_r2",
+                "contestacion": "Aproximación a un ensanche en la calzada al lado izquierdo",
+                "correcta": false
+            },
+            {
+                "id": "sen_144_r3",
+                "contestacion": "Aproximación a una curva a la derecha",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_145",
+        "pregunta": "145. ¿Qué significa esta señal?",
+        "imagen": "../../../assets/imagen/img145.PNG",
+        "respuestas": [{
+                "id": "sen_145_r1",
+                "contestacion": "Más adelante hospital, conduzca con cuidado",
+                "correcta": false
+            },
+            {
+                "id": "sen_145_r2",
+                "contestacion": "Más adelante cruce de vías",
+                "correcta": true
+            },
+            {
+                "id": "sen_145_r3",
+                "contestacion": "Más adelante ubicación de cementerio",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_146",
+        "pregunta": "146. Esta señal indica sobre la presencia de cámaras especiales ubicadas en intersecciones o en ciertos tramos de las vías que son utilizadas para:",
+        "imagen": "../../../assets/imagen/img146.PNG",
+        "respuestas": [{
+                "id": "sen_146_r1",
+                "contestacion": "Detectar vehículos de carga pesada y/o conductores que se pasen la luz roja, peajes, carriles exclusivos y/o que exceden los límites de velocidad",
+                "correcta": false
+            },
+            {
+                "id": "sen_146_r2",
+                "contestacion": "Detectar vehículos y/o conductores que se pasen la luz amarilla, peajes, carriles exclusivos y/o que exceden los límites de velocidad",
+                "correcta": false
+            },
+            {
+                "id": "sen_146_r3",
+                "contestacion": "Detectar vehículos y/o conductores que se pasen la luz roja, peajes, carriles exclusivos y/o que exceden los límites de velocidad",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_147",
+        "pregunta": "147. Esta señal se utiliza para indicar:",
+        "imagen": "../../../assets/imagen/img147.PNG",
+        "respuestas": [{
+                "id": "sen_147_r1",
+                "contestacion": "El cambio de rasante en el sentido de circulación que debe seguir el peatón",
+                "correcta": false
+            },
+            {
+                "id": "sen_147_r2",
+                "contestacion": "El cambio de rasante en el sentido de circulación que debe seguir el conductor",
+                "correcta": true
+            },
+            {
+                "id": "sen_147_r3",
+                "contestacion": "El cambio de rasante en el sentido contrario de circulación que debe seguir el conductor",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_148",
+        "pregunta": "148. Esta señal se utiliza cuando una calzada es cerrada al tránsito; en estos casos, también se debe utilizar:",
+        "imagen": "../../../assets/imagen/img148.PNG",
+        "respuestas": [{
+                "id": "sen_148_r1",
+                "contestacion": "Barreras que deje un espacio para el acceso",
+                "correcta": false
+            },
+            {
+                "id": "sen_148_r2",
+                "contestacion": "Barreras que cierren completamente el acceso",
+                "correcta": true
+            },
+            {
+                "id": "sen_148_r3",
+                "contestacion": "No se debe utilizar barreras, es suficiente con la señal",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_149",
+        "pregunta": "149. Esta señal se emplea para prevenir a los conductores sobre la proximidad a un tramo de vía en el cual se ha cerrado:",
+        "imagen": "../../../assets/imagen/img149.PNG",
+        "respuestas": [{
+                "id": "sen_149_r1",
+                "contestacion": "Un carril de circulación",
+                "correcta": false
+            },
+            {
+                "id": "sen_149_r2",
+                "contestacion": "Uno o varios carriles de circulación",
+                "correcta": true
+            },
+            {
+                "id": "sen_149_r3",
+                "contestacion": "Varios carriles de circulación",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_150",
+        "pregunta": "150. Esta señal se utiliza para indicar:",
+        "imagen": "../../../assets/imagen/img150.PNG",
+        "respuestas": [{
+                "id": "sen_150_r1",
+                "contestacion": "La ubicación y el lugar por el cual el flujo de tránsito debe continuar la calzada normal",
+                "correcta": false
+            },
+            {
+                "id": "sen_150_r2",
+                "contestacion": "Que el desvío se ha terminado y que el flujo del tránsito regresa por el desvío a la ruta original",
+                "correcta": false
+            },
+            {
+                "id": "sen_150_r3",
+                "contestacion": "La dirección y el lugar por el cual el flujo de tránsito debe dejar la calzada normal y desviarse por otras calles",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_151",
+        "pregunta": "151. ¿Qué indica esta señal de tránsito?",
+        "imagen": "../../../assets/imagen/img151.PNG",
+        "respuestas": [{
+                "id": "sen_151_r1",
+                "contestacion": "Señal con lugar de destino y mensaje de acciones en palabras",
+                "correcta": false
+            },
+            {
+                "id": "sen_151_r2",
+                "contestacion": "Señal con código de ruta, lugar de destino y mensaje de salida con distancia en kilómetros",
+                "correcta": false
+            },
+            {
+                "id": "sen_151_r3",
+                "contestacion": "Señal con lugar de destino y flecha de asignación de carril",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_152",
+        "pregunta": "152. ¿Qué indica esta señal de tránsito?",
+        "imagen": "../../../assets/imagen/img152.PNG",
+        "respuestas": [{
+                "id": "sen_152_r1",
+                "contestacion": "Una reducción en la vía",
+                "correcta": false
+            },
+            {
+                "id": "sen_152_r2",
+                "contestacion": "Límite de altura",
+                "correcta": false
+            },
+            {
+                "id": "sen_152_r3",
+                "contestacion": "Obstrucción en la vía",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_153",
+        "pregunta": "153. ¿Qué indica esta señal de tránsito?",
+        "imagen": "../../../assets/imagen/img153.PNG",
+        "respuestas": [{
+                "id": "sen_153_r1",
+                "contestacion": "La velocidad máxima en una zona donde se encuentran centros educativos",
+                "correcta": false
+            },
+            {
+                "id": "sen_153_r2",
+                "contestacion": "La proximidad a una zona donde se encuentran centros educativos",
+                "correcta": true
+            },
+            {
+                "id": "sen_153_r3",
+                "contestacion": "Ninguna de las anteriores",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_154",
+        "pregunta": "154. ¿Qué indica esta señal de tránsito?",
+        "imagen": "../../../assets/imagen/img154.PNG",
+        "respuestas": [{
+                "id": "sen_154_r1",
+                "contestacion": "La distancia de la zona escolar en kilómetros",
+                "correcta": false
+            },
+            {
+                "id": "sen_154_r2",
+                "contestacion": "La velocidad mínima en una zona escolar",
+                "correcta": false
+            },
+            {
+                "id": "sen_154_r3",
+                "contestacion": "La velocidad máxima en una zona escolar",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_155",
+        "pregunta": "155. ¿Qué indica esta señal de tránsito?",
+        "imagen": "../../../assets/imagen/img155.PNG",
+        "respuestas": [{
+                "id": "sen_155_r1",
+                "contestacion": "El inicio del paradero de una zona escolar",
+                "correcta": true
+            },
+            {
+                "id": "sen_155_r2",
+                "contestacion": "Parada de vehículos pesados",
+                "correcta": false
+            },
+            {
+                "id": "sen_155_r3",
+                "contestacion": "Zona permitida para familiares de estudiantes",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_156",
+        "pregunta": "156. ¿Qué indica esta señal de tránsito?",
+        "imagen": "../../../assets/imagen/img156.PNG",
+        "respuestas": [{
+                "id": "sen_156_r1",
+                "contestacion": "Puedo virar a la derecha",
+                "correcta": false
+            },
+            {
+                "id": "sen_156_r2",
+                "contestacion": "No puedo virar a la derecha",
+                "correcta": true
+            },
+            {
+                "id": "sen_156_r3",
+                "contestacion": "Puedo virar a la derecha con cuidado",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_157",
+        "pregunta": "157. En una intersección semaforizada, que significan las luces que se muestran en la imagen :",
+        "imagen": "../../../assets/imagen/img157.PNG",
+        "respuestas": [{
+                "id": "sen_157_r1",
+                "contestacion": "Que únicamente puedo ceder el paso al tráfico que viene de frente",
+                "correcta": false
+            },
+            {
+                "id": "sen_157_r2",
+                "contestacion": "Que puedo virar a la izquierda pero no continuar de frente",
+                "correcta": true
+            },
+            {
+                "id": "sen_157_r3",
+                "contestacion": "Que puedo circular en la dirección de la flecha y también de frente, con precaución",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_158",
+        "pregunta": "158. En una intersección semaforizada, que significan las luces que se muestran en la imagen :",
+        "imagen": "../../../assets/imagen/img158.PNG",
+        "respuestas": [{
+                "id": "sen_158_r1",
+                "contestacion": "Que únicamente puedo ceder el paso al tráfico que viene de frente",
+                "correcta": false
+            },
+            {
+                "id": "sen_158_r2",
+                "contestacion": "Que puedo virar a la derecha pero no continuar de frente",
+                "correcta": true
+            },
+            {
+                "id": "sen_158_r3",
+                "contestacion": "Que puedo circular en la dirección de la flecha y también de frente, con precaución",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_159",
+        "pregunta": "159. La luz amarilla intermitente en un semáforo significa:",
+        "respuestas": [{
+                "id": "sen_159_r1",
+                "contestacion": "Parar siempre y cuando lo pueda hacer con seguridad",
+                "correcta": false
+            },
+            {
+                "id": "sen_159_r2",
+                "contestacion": "Disminuir la velocidad y atravesar la intersección con mucha precaución",
+                "correcta": true
+            },
+            {
+                "id": "sen_159_r3",
+                "contestacion": "Parar, ceda el paso a todo el tráfico que cruza antes de atravesar la intersección",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_160",
+        "pregunta": "160. Cuando no haya un cruce peatonal y el peatón cruza su carril más adelante ¿Qué debe hacer usted?",
+        "respuestas": [{
+                "id": "sen_160_r1",
+                "contestacion": "Contacto visual, luego pasar al peatón",
+                "correcta": false
+            },
+            {
+                "id": "sen_160_r2",
+                "contestacion": "Disminuir la velocidad conforme pasa al peatón",
+                "correcta": false
+            },
+            {
+                "id": "sen_160_r3",
+                "contestacion": "Parar y dejar que el peatón termine de cruzar la calle",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_161",
+        "pregunta": "161. Si llega a una intersección regulada por semáforo que se encuentra en rojo y, al mismo tiempo, un agente de tránsito le indica que avance, ¿qué debe hacer usted?",
+        "respuestas": [{
+                "id": "sen_161_r1",
+                "contestacion": "Detenerse, porque la luz roja se lo está indicando",
+                "correcta": false
+            },
+            {
+                "id": "sen_161_r2",
+                "contestacion": "Avanzar, porque las instrucciones del agente de tránsito prevalecen sobre las señales del tránsito",
+                "correcta": true
+            },
+            {
+                "id": "sen_161_r3",
+                "contestacion": "Avanzar, sólo si está seguro que la luz roja está próxima a cambiar",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_162",
+        "pregunta": "162. ¿En cuál de las siguientes luces de semáforo debería siempre detener su vehículo?",
+        "respuestas": [{
+                "id": "sen_162_r1",
+                "contestacion": "Luces rojas continuas y luces rojas intermitentes",
+                "correcta": true
+            },
+            {
+                "id": "sen_162_r2",
+                "contestacion": "Luces rojas continuas, flechas rojas y luces amarillas intermitentes",
+                "correcta": false
+            },
+            {
+                "id": "sen_162_r3",
+                "contestacion": "Luces rojas continuas, luces rojas intermitentes y luces amarillas",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_163",
+        "pregunta": "163. Los ángulos de visión no cubiertos por los tres espejos retrovisores: central, en el interior del vehículo, lateral derecho e izquierdo y por la visión directa delantera seconocen como:",
+        "respuestas": [{
+                "id": "sen_163_r1",
+                "contestacion": "Punto ciego",
+                "correcta": true
+            },
+            {
+                "id": "sen_163_r2",
+                "contestacion": "Panorama de la situación de tránsito",
+                "correcta": false
+            },
+            {
+                "id": "sen_163_r3",
+                "contestacion": "Observar una forma más amplia de circulación por la vía",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "identificador": "sen_164",
+        "pregunta": "164. Si ve señales de construcción color naranja y conos en una autopista, usted debe:",
+        "respuestas": [{
+                "id": "sen_164_r1",
+                "contestacion": "Bajar la velocidad porque el carril se acaba más adelante",
+                "correcta": false
+            },
+            {
+                "id": "sen_164_r2",
+                "contestacion": "Cambiar de carril y mantenga su velocidad actual",
+                "correcta": false
+            },
+            {
+                "id": "sen_164_r3",
+                "contestacion": "Bajar la velocidad y tener precaución debido a que encontrará trabajadores y equipo más adelante",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "identificador": "sen_165",
+        "pregunta": "165. Las líneas en zig zag en el sentido del eje de la calzada, advierten que más adelante existe:",
+        "respuestas": [{
+                "id": "sen_165_r1",
+                "contestacion": "Una vía mal construida",
+                "correcta": false
+            },
+            {
+                "id": "sen_165_r2",
+                "contestacion": "Un Cruce Cebra",
+                "correcta": true
+            },
+            {
+                "id": "sen_165_r3",
+                "contestacion": "Un obstáculo peligroso",
+                "correcta": false
+            }
+        ]
+    }
+]

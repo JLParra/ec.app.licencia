@@ -1,0 +1,296 @@
+[{
+        "identificador": "coi_166",
+        "pregunta": "166. ¿En qué situación puede usted hacer uso de la bocina de su vehículo? ",
+
+        "respuestas": [
+            { "id": "coi_166_r1", "contestacion": "Para prevenir la ocurrencia de un siniestro", "correcta": false },
+            { "id": "coi_166_r2", "contestacion": "Cuando trata de prevenir a otros acerca de un peligro", "correcta": false },
+            { "id": "coi_166_r3", "contestacion": "Todas las anteriores", "correcta": true }
+        ]
+    }, {
+        "identificador": "coi_167",
+        "pregunta": "167. Si no se cancela el valor de las multas, el contraventor no podrá",
+        "respuestas": [
+            { "id": "coi_167_r1", "contestacion": "Renovar su licencia de conducir", "correcta": false },
+            { "id": "coi_167_r2", "contestacion": "Realizar la Revisión Técnica Vehicular y matricular su vehículo", "correcta": false },
+            { "id": "coi_167_r3", "contestacion": "Todas las anteriores", "correcta": true }
+        ]
+    }, {
+        "identificador": "coi_168",
+        "pregunta": "168. ¿Cómo se sanciona a los responsables de un siniestros de tránsito que no sean conductores (pasajeros, controladores, peatones, etc.)?",
+        "respuestas": [
+            { "id": "coi_168_r1", "contestacion": "Con las mismas penas que a un conductor responsable del siniestro", "correcta": false },
+            { "id": "coi_168_r2", "contestacion": "Con las mismas sanciones que un conductor, exceptuando las pérdidas de puntos", "correcta": true },
+            { "id": "coi_168_r3", "contestacion": "Con la mitad de las penas establecidas para un conductor responsable de un siniestro", "correcta": false }
+        ]
+    }, {
+        "identificador": "coi_169",
+        "pregunta": "169. ¿Cómo se sanciona a la persona que ocasiona un siniestro y huye del lugar de los hechos?",
+        "respuestas": [
+            { "id": "coi_169_r1", "contestacion": "Con el máximo de la pena correspondiente a la contravención cometida", "correcta": true },
+            { "id": "coi_169_r2", "contestacion": "Con el doble de la pena correspondiente a la contravención cometida", "correcta": false },
+            { "id": "coi_169_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "coi_170",
+        "pregunta": "170. ¿ Existe un beneficio para el conductor que no haya sido sancionado durante el tiempo de vigencia de la licencia de conducir y mantiene los treinta (30) puntos?",
+        "respuestas": [
+            { "id": "coi_170_r1", "contestacion": "Si, 30% en el pago del valor de la especie de la licencia de conducir", "correcta": false },
+            { "id": "coi_170_r2", "contestacion": "Si, 50 % en el pago del valor de la especie de la licencia de conducir", "correcta": true },
+            { "id": "coi_170_r3", "contestacion": "Ningún beneficio", "correcta": false }
+        ]
+    }, {
+        "identificador": "coi_171",
+        "pregunta": "171. ¿Qué sanción se aplican a quien conduzca un vehículo con nivel de alcohol por litro de sangre de 0,3 a 0,8 gramos?",
+        "respuestas": [
+            { "id": "coi_171_r1", "contestacion": "Treinta días de privación de libertad y retención del vehículo por veinticuatro horas", "correcta": false },
+            { "id": "coi_171_r2", "contestacion": "Cinco días de privación de libertad y retención del vehículo por veinticuatro horas", "correcta": true },
+            { "id": "coi_171_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "coi_172",
+        "pregunta": "172. La pena privativa de libertad por un tiempo de 15 días se aplica para:",
+        "respuestas": [
+            { "id": "coi_172_r1", "contestacion": "Quienes tengan un nivel de alcohol de 0,3 a 0,8 gramos por litro de sangre", "correcta": false },
+            { "id": "coi_172_r2", "contestacion": "Quienes tengan un nivel de alcohol de 0,8 hasta 1,2 gramos por litro de  sangre", "correcta": true },
+            { "id": "coi_172_r3", "contestacion": "Quienes superen un nivel de alcohol de 1,2 gramos por litro de sangre", "correcta": false }
+        ]
+    }, {
+        "identificador": "coi_173",
+        "pregunta": "173. La pena privativa de libertad por un tiempo de 30 días se aplica para:",
+        "respuestas": [
+            { "id": "coi_173_r1", "contestacion": "Quienes tengan un nivel de alcohol de 0,3 a 0,8 gramos por litro de sangre", "correcta": false },
+            { "id": "coi_173_r2", "contestacion": "Quienes tengan un nivel de alcohol de 0,8 hasta 1,2 gramos por litro de sangre", "correcta": false },
+            { "id": "coi_173_r3", "contestacion": "Quienes superen un nivel de alcohol de 1,2 gramos por litro de sangre", "correcta": true }
+        ]
+    }, {
+        "identificador": "coi_174",
+        "pregunta": "174. ¿Cuál es la sanción para el conductor que falta de obra a la autoridad o agente de tránsito?",
+        "respuestas": [
+            { "id": "coi_174_r1", "contestacion": "Quienes tengan un nivel de alcohol de 0,3 a 0,8 gramos por litro de sangre", "correcta": false },
+            { "id": "coi_174_r2", "contestacion": "Quienes tengan un nivel de alcohol de 0,8 hasta 1,2 gramos por litro de sangre", "correcta": false },
+            { "id": "coi_174_r3", "contestacion": "Quienes superen un nivel de alcohol de 1,2 gramos por litro de sangre", "correcta": true }
+        ]
+    }, {
+        "identificador": "coi_175",
+        "pregunta": "¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "respuestas": [
+            { "id": "coi_175_r1", "contestacion": "La o el conductor de un automotor que exceda los límites de velocidad fuera del rango moderado", "correcta": true },
+            { "id": "coi_175_r2", "contestacion": "La o el conductor de un automotor que no exceda los límites de velocidad fuera del rango moderado", "correcta": false },
+            { "id": "coi_175_r3", "contestacion": "La o el conductor de un automotor que conduzca dentro del rango moderado", "correcta": false }
+        ]
+    }, {
+        "identificador": "coi_176",
+        "pregunta": "¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "respuestas": [
+            { "id": "coi_176_r1", "contestacion": "La o el conductor que obstaculice el tránsito vehicular por daños mecánicos", "correcta": false },
+            { "id": "coi_176_r2", "contestacion": "La o el conductor que obstaculice el tránsito vehicular al quedarse sin combustible", "correcta": true },
+            { "id": "coi_176_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "coi_177",
+        "pregunta": "177. ¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "respuestas": [
+            { "id": "coi_177_r1", "contestacion": "La o el conductor que conduzca con licencia por caducar en 10 días.", "correcta": false },
+            { "id": "coi_177_r2", "contestacion": "La o el conductor que conduzca con licencia caducada", "correcta": true },
+            { "id": "coi_177_r3", "contestacion": "La o el conductor que conduzca con licencia por caducar en 5 días.", "correcta": false }
+        ]
+    }, {
+        "identificador": "coi_178",
+        "pregunta": "178. ¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "respuestas": [
+            { "id": "coi_178_r1", "contestacion": "La o el conductor que invada con su vehículo las vías exclusivas asignadas a los buses de transporte rápido, excepto que se trate de vehículos diplomáticos", "correcta": false },
+            { "id": "coi_178_r2", "contestacion": "La o el conductor que invada con su vehículo las vías exclusivas asignadas a los buses de transporte rápido, excepto que se trate de un caso de emergencia", "correcta": false },
+            { "id": "coi_178_r3", "contestacion": "La o el conductor que invada con su vehículo las vías exclusivas asignadas a los buses de transporte rápido", "correcta": true }
+        ]
+    }, {
+        "identificador": "coi_179",
+        "pregunta": "179. ¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "respuestas": [
+            { "id": "coi_179_r1", "contestacion": "La o el conductor de vehículos a motor que, ante las señales de alarma o toque de sirena de un vehículo de emergencia, acelere su vehículo", "correcta": false },
+            { "id": "coi_179_r2", "contestacion": "b. La o el conductor de vehículos a motor que, ante las señales de alarma o toque de sirena de un vehículo de emergencia, se detenga y obstaculice el paso.", "correcta": false },
+            { "id": "coi_179_r3", "contestacion": "La o el conductor de vehículos a motor que, ante las señales de alarma o toque de sirena de un vehículo de emergencia, no deje la vía libre", "correcta": true }
+        ]
+    }, {
+        "identificador": "coi_180",
+        "pregunta": "¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "respuestas": [
+            { "id": "coi_180_r1", "contestacion": "La o el conductor que en caso de desperfecto mecánico use y coloque adecuadamente los triángulos de seguridad.", "correcta": false },
+            { "id": "coi_180_r2", "contestacion": "La o el conductor que en caso de desperfecto mecánico no use o no coloque adecuadamente los triángulos de seguridad, conforme lo establecido en los  reglamentos de tránsito ", "correcta": true },
+            { "id": "coi_180_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "coi_181",
+        "pregunta": "¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "respuestas": [
+            { "id": "coi_181_r1", "contestacion": "La o el conductor que no haga uso del cinturón de seguridad permanentemente", "correcta": true },
+            { "id": "coi_181_r2", "contestacion": "La o el conductor que haga uso del cinturón de seguridad", "correcta": false },
+            { "id": "coi_181_r3", "contestacion": "La o el conductor que no haga uso del cinturón de seguridad únicamente en zonas urbanas", "correcta": false }
+        ]
+    }, {
+        "identificador": "coi_182",
+        "pregunta": "¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "respuestas": [
+            { "id": "coi_182_r1", "contestacion": "La o el conductor que no estacione en las vías asignadas para uso exclusivo de los ciclistas", "correcta": false },
+            { "id": "coi_182_r2", "contestacion": "La o el conductor que respete las vías asignadas para uso exclusivo de los ciclistas", "correcta": false },
+            { "id": "coi_182_r3", "contestacion": "La o el conductor que invada con su vehículo circulando o estacionándose, en las vías asignadas para uso exclusivo de los ciclistas", "correcta": true }
+        ]
+    }, {
+        "identificador": "coi_183",
+        "pregunta": "Aquel conductor que no haya sido sancionado en al menos un (1) año contabilizado desde la fecha de la citación de la última infracción sancionada, gozarán de:",
+        "respuestas": [
+            { "id": "coi_183_r1", "contestacion": "(2) DOS puntos adicionales en su licencia", "correcta": false },
+            { "id": "coi_183_r2", "contestacion": "(3) TRES puntos adicionales en su licencia", "correcta": false },
+            { "id": "coi_183_r3", "contestacion": "(4) TRES puntos adicionales en su licencia", "correcta": true }
+        ]
+    }, {
+        "identificador": "coi_184",
+        "pregunta": "¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "respuestas": [
+            { "id": "coi_184_r1", "contestacion": "La o el conductor que con su vehículo automotor o con los bienes que transporta, cause distracción a otros conductores", "correcta": false },
+            { "id": "coi_184_r2", "contestacion": "La o el conductor que con su vehículo automotor o con los bienes que transporta, cause daños o deterioro a la superficie de la vía pública", "correcta": true },
+            { "id": "coi_184_r3", "contestacion": "c. Ninguna de las anteriores.", "correcta": false }
+        ]
+    }, {
+        "identificador": "coi_185",
+        "pregunta": "Constituyen agravantes en las infracciones de tránsito, y por lo tanto sancionadas con el máximo de la pena correspondiente, conducir con:",
+        "respuestas": [
+            { "id": "coi_185_r1", "contestacion": "Licencia caducada, suspendida temporal o definitivamente.", "correcta": true },
+            { "id": "coi_185_r2", "contestacion": "Licencia con menos de 15 puntos", "correcta": false },
+            { "id": "coi_185_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "coi_186",
+        "pregunta": "La sanción, en caso de siniestro que produzca muerte y sea ocasionada por conductores en estado de embriaguez o bajo los efectos de sustancias estupefacientes, psicotrópicas o preparados que las contengan corresponde a: ",
+        "respuestas": [
+            { "id": "coi_186_r1", "contestacion": "Pena privativa de la libertad de doce a veinte años; ", "correcta": false },
+            { "id": "coi_186_r2", "contestacion": "Revocatoria definitiva de la licencia para conducir", "correcta": true },
+            { "id": "coi_186_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "coi_187",
+        "pregunta": "Según el Código Integral Penal vigente, conducir más horas de las permitidas por la Ley o conducir en malas condiciones físicas y ocasionar un siniestro de tránsito del que resulte la muerte de una o más personas, tiene una sanción de:",
+        "respuestas": [
+            { "id": "coi_187_r1", "contestacion": "Pena privativa de la libertad de 1 a 3 años", "correcta": true },
+            { "id": "coi_187_r2", "contestacion": "Pena privativa de la libertad de 6 a 11 meses", "correcta": false },
+            { "id": "coi_187_r3", "contestacion": "Pena privativa de la libertad de 3 a 5 años", "correcta": false }
+        ]
+    },
+
+    {
+        "identificador": "coi_187",
+        "pregunta": "187. Según el Código Integral Penal vigente, conducir más horas de las permitidas por la Ley o conducir en malas condiciones físicas y ocasionar un siniestro de tránsito del que resulte la muerte de una o más personas, tiene una sanción de:",
+        "respuestas": [
+            { "id": "coi_187_r1", "contestacion": "Pena privativa de la libertad de 1 a 3 años", "correcta": true },
+            { "id": "coi_187_r2", "contestacion": "Pena privativa de la libertad de 6 a 11 meses", "correcta": false },
+            { "id": "coi_187_r3", "contestacion": "Pena privativa de la libertad de 3 a 5 años", "correcta": false }
+        ]
+    }, {
+        "identificador": "coi_188",
+        "pregunta": " 188. La persona que conduzca un vehículo cuyas llantas se encuentren lisas o en mal estado, será sancionada con pena privativa de libertad de:",
+        "respuestas": [
+            { "id": "coi_188_r1", "contestacion": "Tres a cinco días", "correcta": false },
+            { "id": "coi_188_r2", "contestacion": "Cinco a quince días", "correcta": true },
+            { "id": "coi_188_r3", "contestacion": "Diez a 15 días", "correcta": false }
+        ]
+    }, {
+        "identificador": "coi_189",
+        "pregunta": " 189. Según el Código Integral Penal vigente, conducir a exceso de velocidad, y ocasionar un siniestro de tránsito del que resulte la muerte de una o más personas, tiene una sanción de:",
+        "respuestas": [
+            { "id": "coi_189_r1", "contestacion": "Pena privativa de la libertad de uno a tres años", "correcta": true },
+            { "id": "coi_189_r2", "contestacion": "Pena privativa de la libertad de 6 a 11 meses", "correcta": false },
+            { "id": "coi_189_r3", "contestacion": "Pena privativa de la libertad de 3 a 5 años", "correcta": false }
+        ]
+    }, {
+        "identificador": "coi_190",
+        "pregunta": " 190. ¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "respuestas": [
+            { "id": "coi_190_r1", "contestacion": "Quien conduzca un automotor nuevo, con placas provicionales", "correcta": false },
+            { "id": "coi_190_r2", "contestacion": "Quien conduzca un automotor sin placas de identificación, alteradas u ocultas, acorde a la Ley", "correcta": true },
+            { "id": "coi_190_r3", "contestacion": "Quien conduzca un automotor con placas duplicadas, otorgadas por la Autoridad competente.", "correcta": false }
+        ]
+    }, {
+        "identificador": "coi_191",
+        "pregunta": " 191. ¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "respuestas": [
+            { "id": "coi_191_r1", "contestacion": "Quien en caso de emergencia o calamidad pública, no sepa como reaccionar correctamente.", "correcta": false },
+            { "id": "coi_191_r2", "contestacion": "Quien en caso de emergencia o calamidad pública, preste la ayuda solicitada", "correcta": false },
+            { "id": "coi_191_r3", "contestacion": "Quien en caso de emergencia o calamidad pública, se niegue a prestar la ayuda solicitada", "correcta": true }
+        ]
+    }, {
+        "identificador": "coi_192",
+        "pregunta": " 192. ¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "respuestas": [
+            { "id": "coi_192_r1", "contestacion": "El comprador de un vehículo que no registre en el organismo de tránsito competente el traspaso de dominio del bien en 45 días de plazo, contado a partir de la fecha del respectivo contrato", "correcta": false },
+            { "id": "coi_192_r2", "contestacion": "El comprador de un vehículo que no registre en el organismo de tránsito competente el traspaso de dominio del bien en 30 días de plazo, contado a partir de la fecha del respectivo contrato", "correcta": true },
+            { "id": "coi_192_r3", "contestacion": "El comprador de un vehículo que no registre en el organismo de tránsito competente el traspaso de dominio del bien en 20 días de plazo, contado a partir de la fecha del respectivo contrato", "correcta": false }
+        ]
+    }, {
+        "identificador": "coi_193",
+        "pregunta": " 193. ¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "respuestas": [
+            { "id": "coi_193_r1", "contestacion": "La o el conductor que encienda las luces del vehículo en horas de la noche o conduzca en sitios oscuros como túneles, con las luces apagadas", "correcta": false },
+            { "id": "coi_193_r2", "contestacion": "La o el conductor que no encienda las luces del vehículo en horas de la noche o conduzca en sitios oscuros como túneles, con las luces apagadas", "correcta": true },
+            { "id": "coi_193_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "coi_194",
+        "pregunta": " 194. ¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "respuestas": [
+            { "id": "coi_194_r1", "contestacion": "La o el conductor que conduce sin mantener una distancia prudente de seguimiento respecto al vehículo de adelante", "correcta": true },
+            { "id": "coi_194_r2", "contestacion": "La o el conductor que conduce con una distancia prudente de seguimiento respecto al vehículo de adelante", "correcta": false },
+            { "id": "coi_194_r3", "contestacion": "La o el conductor que cede el paso y permite el adelantamiento de otros vehículos.", "correcta": false }
+        ]
+    }, {
+        "identificador": "coi_195",
+        "pregunta": "195. El contraventor responsable de una infracción que no ha cancelado el valor de las multas más los recargos correspondientes o ha suscrito el correspondiente convenio de pago ante la autoridad competente, no podrá:",
+        "respuestas": [
+            { "id": "coi_195_r1", "contestacion": "Renovar su licencia de conducir, realizar la revisión técnica vehicular, ni matricular el vehículo", "correcta": true },
+            { "id": "coi_195_r2", "contestacion": "Vender el vehículo con el que cometió la infracción", "correcta": false },
+            { "id": "coi_195_r3", "contestacion": "Todas las anteriores", "correcta": false }
+        ]
+    },
+    {
+        "identificador": "coi_196",
+        "pregunta": "196. Cuando se trate de una contravención por mal estacionamiento, y el Agente Civil de Tránsito no pueda ubicar a su conductor se procederá a:",
+        "respuestas": [
+            { "id": "coi_196_r1", "contestacion": "Esperar a que llegue el conductor", "correcta": false },
+            { "id": "coi_196_r2", "contestacion": "Colocar en alguna parte visible de su vehículo el adhesivo correspondiente", "correcta": true },
+            { "id": "coi_196_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+        ]
+    },
+    {
+        "identificador": "coi_197",
+        "pregunta": "197. Para la persona que conduzca un vehículo bajo los efectos de sustancias estupefacientes, psicotrópicas o preparados que las contengan, como medida preventiva se aprehenderá el vehículo por el tiempo de:",
+        "respuestas": [
+            { "id": "coi_197_r1", "contestacion": "Veinticuatro horas", "correcta": true },
+            { "id": "coi_197_r2", "contestacion": "Cuarenta y ocho hora", "correcta": false },
+            { "id": "coi_197_r3", "contestacion": "Setenta y seis horas", "correcta": false }
+        ]
+    }, {
+        "identificador": "coi_198",
+        "pregunta": "198. La persona que conduzca un vehículo bajo los efectos de sustancias estupefacientes, psicotrópicas o preparados que las contengan, será sancionada con privación de la libertad del conductor por un tiempo de:",
+        "respuestas": [
+            { "id": "coi_198_r1", "contestacion": "Quince días", "correcta": false },
+            { "id": "coi_198_r2", "contestacion": "Treinta días", "correcta": true },
+            { "id": "coi_198_r3", "contestacion": "Sesenta días", "correcta": false }
+        ]
+    },
+    {
+        "identificador": "coi_199",
+        "pregunta": "199.¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "respuestas": [
+            { "id": "coi_199_r1", "contestacion": "La o el conductor de un vehículo automotor que no circule con personas en los estribos o pisaderas, baldes de camionetas, en zonas urbanas", "correcta": false },
+            { "id": "coi_199_r2", "contestacion": "La o el conductor de un vehículo automotor que no circule con personas en los estribos o pisaderas, baldes de camionetas, parachoques o colgados de las carrocerías de los vehículos", "correcta": false },
+            { "id": "coi_199_r3", "contestacion": "La o el conductor de un vehículo automotor que circule con personas en los estribos o pisaderas, baldes de camionetas, parachoques o colgados de las carrocerías de los vehículos", "correcta": true }
+        ]
+    }, {
+        "identificador": "coi_200",
+        "pregunta": "200. ¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "respuestas": [
+            { "id": "coi_200_r1", "contestacion": "La o el conductor de un vehículo particular que tenga vidrios con películas antisolares oscuras, polarizados o cualquier tipo de adhesivo y que no tenga la debida autorización", "correcta": true },
+            { "id": "coi_200_r2", "contestacion": "La o el conductor de un vehículo particular que tenga vidrios con películas antisolares oscuras, polarizados o cualquier tipo de adhesivo y que tenga la debida autorización", "correcta": false },
+            { "id": "coi_200_r3", "contestacion": "La o el conductor de un vehículo particular que tenga vidrios con películas antisolares oscuras, polarizados o cualquier tipo de adhesivo y que tenga un certificado médico.", "correcta": false }
+        ]
+    }
+]

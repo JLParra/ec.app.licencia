@@ -1,0 +1,400 @@
+[{
+        "identificador": "lia_001",
+        "pregunta": "1. Al viajar en una motocicleta: ¿Qué persona debe utilizar el casco homologado de seguridad?",
+
+        "respuestas": [
+            { "id": "lia_001_r1", "contestacion": "Conductor", "correcta": false },
+            { "id": "lia_001_r2", "contestacion": "Pasajero", "correcta": false },
+            { "id": "lia_001_r3", "contestacion": "Conductor y pasajero", "correcta": true }
+        ]
+    }, {
+        "identificador": "lia_002",
+        "pregunta": "2. ¿Cuál de los siguientes enunciados es una prohibición para los motociclistas?",
+
+        "respuestas": [
+            { "id": "lia_002_r1", "contestacion": "Transitar en forma paralela, adelantar a otros vehículos por la derecha o entre vehículos que transiten por sus respectivos carriles", "correcta": true },
+            { "id": "lia_002_r2", "contestacion": "Utilizar siempre el carril libre a la izquierda del vehículo al sobrepasar", "correcta": false },
+            { "id": "lia_002_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "lia_003",
+        "pregunta": "3. ¿Cuál de los siguientes enunciados es un deber de los motociclistas?",
+
+        "respuestas": [
+            { "id": "lia_003_r1", "contestacion": "Transitar por la derecha de las vías a distancia no mayor de un (1) metro de la acera u orilla y nunca utilizar las vías exclusivas para servicio público", "correcta": true },
+            { "id": "lia_003_r2", "contestacion": "Sujetarse a cualquier otro vehículo que transite por la vía pública o viajar cerca de otro carruaje de mayor tamaño que lo oculte de la vista de los conductores que transiten en sentido contrario", "correcta": false },
+            { "id": "lia_003_r3", "contestacion": "Todas las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "lia_004",
+        "pregunta": "4. ¿Cómo debe circular cuando conduce una motocicleta?",
+
+        "respuestas": [
+            { "id": "lia_004_r1", "contestacion": "Usando siempre las luces direccionales, de acuerdo con lo estipulado para vehículos automotores", "correcta": false },
+            { "id": "lia_004_r2", "contestacion": "Respetando las señales, normas de tránsito y límites de velocidad", "correcta": false },
+            { "id": "lia_004_r3", "contestacion": "Todas las anteriores", "correcta": true }
+        ]
+    }, {
+        "identificador": "lia_005",
+        "pregunta": "5. Qué NO debe hacer cuando conduce una motocicleta?",
+
+        "respuestas": [
+            { "id": "lia_005_r1", "contestacion": "Llevar cualquier tipo de carga que dificulte su visibilidad, equilibrio, adecuada operación o que constituya un peligro para sí o para otros usuarios en la vía pública", "correcta": false },
+            { "id": "lia_005_r2", "contestacion": "Circular sobre las aceras, áreas destinadas al uso exclusivo de peatones y por aquellas vías en donde las autoridades competentes lo prohíban", "correcta": false },
+            { "id": "lia_005_r3", "contestacion": "Todas las anteriores", "correcta": true }
+        ]
+    }, {
+        "identificador": "lia_006",
+        "pregunta": "6. La posibilidad de lesiones mortales se puede disminuir, cuando: ",
+
+        "respuestas": [
+            { "id": "lia_006_r1", "contestacion": "Utiliza en todo momento el casco de seguridad homologado", "correcta": true },
+            { "id": "lia_006_r2", "contestacion": "Utiliza en todo momento cualquier tipo de casco", "correcta": false },
+            { "id": "lia_006_r3", "contestacion": "No utiliza el casco", "correcta": false }
+        ]
+    }, {
+        "identificador": "lia_007",
+        "pregunta": "7. ¿Cuál de los siguientes enunciados corresponden a una contravención de tránsito?",
+
+        "respuestas": [
+            { "id": "lia_007_r1", "contestacion": "La o el conductor y el acompañante, en caso de haberlo, de motocicletas, motonetas, bicimotos, tricar y cuadrones que utilicen adecuadamente cascos no homologados", "correcta": false },
+            { "id": "lia_007_r2", "contestacion": "La o el conductor y el acompañante, en caso de haberlo, de motocicletas, motonetas,bicimotos, tricar y cuadrones que no utilicen adecuadamente casco de seguridad homologados", "correcta": true },
+            { "id": "lia_007_r3", "contestacion": "La o el conductor y el acompañante, en caso de haberlo, de motocicletas, motonetas, bicimotos, tricar y cuadrones que no utilicen adecuadamente cascos de seguridad.", "correcta": false }
+        ]
+    }, {
+        "identificador": "lia_008",
+        "pregunta": "8. Utilizar guantes adecuados al conducir su motocicleta le permite:",
+
+        "respuestas": [
+            { "id": "lia_008_r1", "contestacion": "Un mejor agarre y ayudan a proteger las manos en caso de un accidente", "correcta": true },
+            { "id": "lia_008_r2", "contestacion": "Prevenir quemaduras por exposición al sol", "correcta": false },
+            { "id": "lia_008_r3", "contestacion": "Protección en caso de lluvia", "correcta": false }
+        ]
+    }, {
+        "identificador": "lia_009",
+        "pregunta": "9. Si al conducir una motocicleta, la visibilidad se ve afectada por la niebla o la lluvia, ¿Usted qué debe hacer?",
+
+        "respuestas": [
+            { "id": "lia_009_r1", "contestacion": "Retirar el casco para mejorar la visibilidad", "correcta": false },
+            { "id": "lia_009_r2", "contestacion": "Reducir la velocidad y observar las líneas de demarcación del pavimento, ya que serán una buena referencia", "correcta": true },
+            { "id": "lia_009_r3", "contestacion": "Acelerar y disminuir la distancia al vehículo de adelante para contar con una guía", "correcta": false }
+        ]
+    }, {
+        "identificador": "lia_010",
+        "pregunta": "10. ¿Qué medida deben tomar los conductores de motocicletas para ser vistos por los demás conductores en la vía?",
+
+        "respuestas": [
+            { "id": "lia_010_r1", "contestacion": "Vestir chalecos o chaquetas con cintas retroreflectivas", "correcta": true },
+            { "id": "lia_010_r2", "contestacion": "Encender las luces altas de la motocicleta para advertir su presencia", "correcta": false },
+            { "id": "lia_010_r3", "contestacion": "Conducir entre carriles", "correcta": false }
+        ]
+    }, {
+        "identificador": "lia_011",
+        "pregunta": "11. Cuando un motociclista sufre un accidente: ¿Qué es lo que nunca debe hacer?",
+
+        "respuestas": [
+            { "id": "lia_011_r1", "contestacion": "Quitarse el casco", "correcta": true },
+            { "id": "lia_011_r2", "contestacion": "Utilizar el celular para llamar a un familiar", "correcta": false },
+            { "id": "lia_011_r3", "contestacion": "De manera inminente no soltar la motocicleta", "correcta": false }
+        ]
+    }, {
+        "identificador": "lia_012",
+        "pregunta": "12. En una vía urbana, ¿Cuál es el límite máximo de velocidad en el que debe circular una motocicleta?",
+
+        "respuestas": [
+            { "id": "lia_012_r1", "contestacion": "40 km/h", "correcta": false },
+            { "id": "lia_012_r2", "contestacion": "50 km/h", "correcta": true },
+            { "id": "lia_012_r3", "contestacion": "60 km/h", "correcta": false }
+        ]
+    }, {
+        "identificador": "lia_013",
+        "pregunta": "13. En una vía urbana, ¿A que velocidad se considera, que una motocicleta está circulando dentro del rango moderado?",
+        "respuestas": [
+            { "id": "lia_013_r1", "contestacion": "40 km/h hasta 50 Km/h", "correcta": false },
+            { "id": "lia_013_r2", "contestacion": "50 km/h hasta 60 Km/h", "correcta": true },
+            { "id": "lia_013_r3", "contestacion": "60 km/h hasta 70 Km/h", "correcta": false }
+        ]
+    }, {
+        "identificador": "lia_014",
+        "pregunta": "14. En una vía urbana, ¿A que velocidad se considera, que una motocicleta está circulando fuera del rango moderado?",
+        "respuestas": [
+            { "id": "lia_014_r1", "contestacion": "Más de 50 Km/h", "correcta": false },
+            { "id": "lia_014_r2", "contestacion": "Más de 60 Km/h", "correcta": true },
+            { "id": "lia_014_r3", "contestacion": "Más de 70 Km/h", "correcta": false }
+        ]
+    }, {
+        "identificador": "lia_015",
+        "pregunta": "15. En una vía perimetral, ¿Cuál es el límite máximo de velocidad en el que debe circular una motocicleta?",
+        "respuestas": [
+            { "id": "lia_015_r1", "contestacion": "90 km/h", "correcta": true },
+            { "id": "lia_015_r2", "contestacion": "95 Km/h", "correcta": false },
+            { "id": "lia_015_r3", "contestacion": "100 km/h", "correcta": false }
+        ]
+    }, {
+        "identificador": "lia_016",
+        "pregunta": "16. En una vía perimetral, ¿A que velocidad se considera, que una motocicleta está circulando dentro del rango moderado?",
+        "respuestas": [
+            { "id": "lia_016_r1", "contestacion": "90 km/h hasta 100 Km/h", "correcta": false },
+            { "id": "lia_016_r2", "contestacion": "90 km/h hasta 110 Km/h", "correcta": false },
+            { "id": "lia_016_r3", "contestacion": "90 km/h hasta 120 Km/h", "correcta": true }
+        ]
+    }, {
+        "identificador": "lia_017",
+        "pregunta": "17. En una vía perimetral, ¿A que velocidad se considera, que una motocicleta está circulando fuera del rango moderado?",
+        "respuestas": [
+            { "id": "lia_017_r1", "contestacion": "Más de 100 Km/h", "correcta": false },
+            { "id": "lia_017_r2", "contestacion": "Más de 110 Km/h", "correcta": false },
+            { "id": "lia_017_r3", "contestacion": "Más de 120 Km/h", "correcta": true }
+        ]
+
+    }, {
+        "identificador": "lia_018",
+        "pregunta": "18. En una vía recta, ¿Cuál es el límite máximo de velocidad en el que debe circular una  motocicleta?",
+        "respuestas": [
+            { "id": "lia_018_r1", "contestacion": "90 km/h", "correcta": false },
+            { "id": "lia_018_r2", "contestacion": "100 km/h", "correcta": true },
+            { "id": "lia_018_r3", "contestacion": "110 km/h", "correcta": false }
+        ]
+    }, {
+        "identificador": "lia_019",
+        "pregunta": "19. En una vía recta, ¿A que velocidad se considera, que una motocicleta está circulando dentro del rango moderado?",
+        "respuestas": [
+            { "id": "lia_019_r1", "contestacion": "100 km/h hasta 110 Km/h", "correcta": false },
+            { "id": "lia_019_r2", "contestacion": "100 km/h hasta 125 Km/h", "correcta": false },
+            { "id": "lia_019_r3", "contestacion": "100 km/h hasta 135 Km/h", "correcta": true }
+        ]
+    }, {
+        "identificador": "lia_020",
+        "pregunta": "20. En una vía recta, ¿A que velocidad se considera, que una motocicleta está circulando fuera del rango moderado?",
+        "respuestas": [
+            { "id": "lia_020_r1", "contestacion": "Más de 120 Km/h", "correcta": false },
+            { "id": "lia_020_r2", "contestacion": "Más de 130 Km/h", "correcta": false },
+            { "id": "lia_020_r3", "contestacion": "Más de 135 Km/h", "correcta": true }
+        ]
+
+    }, {
+        "identificador": "lia_021",
+        "pregunta": "21. En curvas, ¿Cuál es el límite máximo de velocidad en el que debe circular una motocicleta?",
+        "respuestas": [
+            { "id": "lia_021_r1", "contestacion": "50 Km/h", "correcta": false },
+            { "id": "lia_021_r2", "contestacion": "60 Km/h", "correcta": true },
+            { "id": "lia_021_r3", "contestacion": "70 Km/h", "correcta": false }
+        ]
+
+    }, {
+        "identificador": "lia_022",
+        "pregunta": "22. ¿A que velocidad se considera, que una motocicleta está circulando en curva dentro del rango moderado?",
+        "respuestas": [
+            { "id": "lia_022_r1", "contestacion": "60 Km/h hasta 65 Km/h", "correcta": false },
+            { "id": "lia_022_r2", "contestacion": "60 Km/h hasta 70 Km/h", "correcta": false },
+            { "id": "lia_022_r3", "contestacion": "60 Km/h hasta 75 Km/h", "correcta": true }
+        ]
+    },
+    {
+        "identificador": "lia_023",
+        "pregunta": "23. En curvas, ¿A que velocidad se considera, que una motocicleta está circulando fuera del rango moderado?",
+        "respuestas": [
+            { "id": "lia_023_r1", "contestacion": "Más de 65 Km/h", "correcta": false },
+            { "id": "lia_023_r2", "contestacion": "Más de 70 Km/h", "correcta": false },
+            { "id": "lia_023_r3", "contestacion": "Más de 75 Km/h", "correcta": true }
+        ]
+    },
+    {
+        "identificador": "lia_024",
+        "pregunta": "24. ¿Cuál de los siguientes requisitos se necesita para acceder a licencias de conducir tipo A1 y A?",
+        "respuestas": [
+            { "id": "lia_024_r1", "contestacion": "Ser mayor de edad", "correcta": true },
+            { "id": "lia_024_r2", "contestacion": "Tener 16 años", "correcta": false },
+            { "id": "lia_024_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+        ]
+    },
+    {
+        "identificador": "lia_025",
+        "pregunta": "25. ¿Qué tipo de licencia no profesional es aquella destinada para conducción de vehículos motorizados como: ciclomotores, motocicletas, tricar y cuadrones?",
+        "respuestas": [
+            { "id": "lia_025_r1", "contestacion": "Tipo A", "correcta": true },
+            { "id": "lia_025_r2", "contestacion": "Tipo B", "correcta": false },
+            { "id": "lia_025_r3", "contestacion": "Tipo F", "correcta": false }
+        ]
+    }, {
+        "identificador": "lia_026",
+        "pregunta": "26. ¿Al momento de comprar una motocicleta, junto con la entrega del vehículo ¿Qué otro artículo debe entregarle la casa comercial?",
+        "respuestas": [
+            { "id": "lia_026_r1", "contestacion": "Garantía y seguro", "correcta": false },
+            { "id": "lia_026_r2", "contestacion": "Casco homologado certificado", "correcta": true },
+            { "id": "lia_026_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "lia_027",
+        "pregunta": "27. ¿Cual de los siguientes enunciados corresponden a una contravención de tránsito?",
+        "respuestas": [
+            { "id": "lia_027_r1", "contestacion": "La persona que conduzca sin haber obtenido licencia de conducir", "correcta": true },
+            { "id": "lia_027_r2", "contestacion": "La persona que conduzca con la licencia de conducir vigente", "correcta": false },
+            { "id": "lia_027_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+        ]
+    },
+    {
+        "identificador": "lia_028",
+        "pregunta": "28. ¿Cuántas personas deben transitar como máximo en una motocicleta?",
+        "respuestas": [
+            { "id": "lia_028_r1", "contestacion": "Cuatro: el conductor y tres acompañantes", "correcta": false },
+            { "id": "lia_028_r2", "contestacion": "Dos: el conductor y un acompañante", "correcta": true },
+            { "id": "lia_028_r3", "contestacion": "Tres: el conductor, un menor de edad y un adulto", "correcta": false }
+        ]
+    }, {
+        "identificador": "lia_029",
+        "pregunta": "29. ¿Cuál es la principal causa de muerte en los conductores de motocicleta?",
+        "respuestas": [
+            { "id": "lia_029_r1", "contestacion": "Lesiones en las piernas", "correcta": false },
+            { "id": "lia_029_r2", "contestacion": "Lesiones en el abdomen", "correcta": false },
+            { "id": "lia_029_r3", "contestacion": "Lesiones en la cabeza", "correcta": true }
+        ]
+    },
+    {
+        "identificador": "lia_030",
+        "pregunta": "30. Para el otorgamiento de la licencia de conducir tipo A por primera vez es necesario:",
+        "respuestas": [
+            { "id": "lia_030_r1", "contestacion": "Haber aprobado el curso a cargo de las escuelas de conducción", "correcta": false },
+            { "id": "lia_030_r2", "contestacion": "Conocimiento del Manual de Biciusuarios", "correcta": false },
+            { "id": "lia_030_r3", "contestacion": "Todas las anteriores", "correcta": true }
+        ]
+    },
+    {
+        "identificador": "lia_031",
+        "pregunta": "31. Previo a iniciar la conducción de la motocicleta debe asegurarse de:",
+        "respuestas": [
+            { "id": "lia_031_r1", "contestacion": "Ajustar los espejos para tener un adecuado ángulo de visión de parte del carril de su costado y detrás de usted", "correcta": true },
+            { "id": "lia_031_r2", "contestacion": "Verificar el nivel de combustible de su motocicleta", "correcta": false },
+            { "id": "lia_031_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+        ]
+    },
+    {
+        "identificador": "lia_032",
+        "pregunta": "32. Al viajar en la motocicleta, la ubicación correcta del pasajero/a es:",
+        "respuestas": [
+            { "id": "lia_032_r1", "contestacion": "Detrás del conductor y en ningún momento entre el conductor y el manubrio", "correcta": true },
+            { "id": "lia_032_r2", "contestacion": "Entre el conductor y el manubrio", "correcta": false },
+            { "id": "lia_032_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "lia_033",
+        "pregunta": "33. ¿Una motocicleta debe tener los dos espejos retrovisores?",
+        "respuestas": [
+            { "id": "lia_033_r1", "contestacion": "Sólo cuando se transita en la zona urbana", "correcta": false },
+            { "id": "lia_033_r2", "contestacion": "Sólo cuando se transita en avenidas o autopistas", "correcta": false },
+            { "id": "lia_033_r3", "contestacion": "Siempre", "correcta": true }
+        ]
+    }, {
+        "identificador": "lia_034",
+        "pregunta": "34. ¿Cuáles son los tipos de frenos regularmente encontrados en las motocicletas?",
+        "respuestas": [
+            { "id": "lia_034_r1", "contestacion": "De disco y ABS", "correcta": false },
+            { "id": "lia_034_r2", "contestacion": "De tambor y resortes", "correcta": false },
+            { "id": "lia_034_r3", "contestacion": "De disco y de tambor", "correcta": true }
+        ]
+
+    }, {
+        "identificador": "lia_035",
+        "pregunta": "35. ¿Qué neumático regularmente se desgasta más rápido en una motocicleta y por ende requiere un control periódico?",
+        "respuestas": [
+            { "id": "lia_035_r1", "contestacion": "Los dos neumáticos", "correcta": false },
+            { "id": "lia_035_r2", "contestacion": "El neumático delantero", "correcta": false },
+            { "id": "lia_035_r3", "contestacion": "El neumático trasero", "correcta": true }
+        ]
+    },
+    {
+        "identificador": "lia_036",
+        "pregunta": "36. ¿En qué circunstancias los motociclistas deben llevar puesto el casco homologado de seguridad?",
+        "respuestas": [
+            { "id": "lia_036_r1", "contestacion": "En la noche", "correcta": false },
+            { "id": "lia_036_r2", "contestacion": "En clima frío", "correcta": false },
+            { "id": "lia_036_r3", "contestacion": "Siempre", "correcta": true }
+        ]
+    },
+    {
+        "identificador": "lia_037",
+        "pregunta": "37. ¿Es correcto conducir escuchando música con auriculares (audífonos)?",
+        "respuestas": [
+            { "id": "lia_037_r1", "contestacion": "Sí, cuando se circula por carreteras", "correcta": false },
+            { "id": "lia_037_r2", "contestacion": "Si, solo cuando se circula por áreas urbanas", "correcta": false },
+            { "id": "lia_037_r3", "contestacion": "No, porque dificultan una correcta audición del entorno", "correcta": true }
+        ]
+    },
+    {
+        "identificador": "lia_038",
+        "pregunta": "38. ¿Es correcto conducir escuchando música con auriculares (audífonos)?",
+        "respuestas": [
+            { "id": "lia_038_r1", "contestacion": "Acelerar para eliminar el tambaleo", "correcta": false },
+            { "id": "lia_038_r2", "contestacion": "Sujetar el manubrio con firmeza y desacelerar gradualmente", "correcta": true },
+            { "id": "lia_038_r3", "contestacion": "Bajar marchas", "correcta": false }
+        ]
+    }, {
+        "identificador": "lia_039",
+        "pregunta": "39. ¿Cuál es la protección que brinda el casco al conductor y pasajero de la motocicleta?",
+        "respuestas": [
+            { "id": "lia_039_r1", "contestacion": "Reducen el ruido provocado por los vehículos que circulan alrededor", "correcta": false },
+            { "id": "lia_039_r2", "contestacion": "Reducen las lesiones en el cuello porque absorben el impacto inicial en un siniestro", "correcta": true },
+            { "id": "lia_039_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "lia_040",
+        "pregunta": "40. Cuándo otro vehículo le está adelantando, ¿Qué acción debe tomar?",
+        "respuestas": [
+            { "id": "lia_040_r1", "contestacion": "Reducir la velocidad y moverse al lado izquierdo del carril", "correcta": false },
+            { "id": "lia_040_r2", "contestacion": "Reducir la velocidad y moverse al lado derecho del carril", "correcta": false },
+            { "id": "lia_040_r3", "contestacion": "Mantener su velocidad y permanecer en la parte central de su carril", "correcta": true }
+        ]
+    }, {
+        "identificador": "lia_041",
+        "pregunta": "41. Cuanto mayor es la inclinación para tomar una curva con la motocicleta:",
+        "respuestas": [
+            { "id": "lia_041_r1", "contestacion": "Mayor es la adherencia del neumático", "correcta": false },
+            { "id": "lia_041_r2", "contestacion": "Mayor es la fuerza del frenado", "correcta": false },
+            { "id": "lia_041_r3", "contestacion": "Menor será la adherencia y la fuerza de frenado", "correcta": true }
+        ]
+
+    }, {
+        "identificador": "lia_042",
+        "pregunta": "42. En la motocicleta, la rueda delantera es:",
+        "respuestas": [
+            { "id": "lia_042_r1", "contestacion": "La rueda motriz, siempre", "correcta": false },
+            { "id": "lia_042_r2", "contestacion": "La rueda motriz o directriz, dependiendo del fabricante", "correcta": false },
+            { "id": "lia_042_r3", "contestacion": "La rueda directriz, siempre", "correcta": true }
+        ]
+
+    }, {
+        "identificador": "lia_043",
+        "pregunta": "43. Los conductores de motocicletas y similares deberán abstenerse de:",
+        "respuestas": [
+            { "id": "lia_043_r1", "contestacion": "Adelantar a otros vehículos por el lado derecho del carril", "correcta": false },
+            { "id": "lia_043_r2", "contestacion": "Transitar junto a vehículos, sobre la línea divisoria de carriles", "correcta": false },
+            { "id": "lia_043_r3", "contestacion": "Todas las anteriores", "correcta": true }
+        ]
+    },
+    {
+        "identificador": "lia_044",
+        "pregunta": "44. Si el casco homologado sufre un daño: ¿Debe cambiarlo por uno nuevo?",
+        "respuestas": [
+            { "id": "lia_044_r1", "contestacion": "No, solo debe revisarlo", "correcta": false },
+            { "id": "lia_044_r2", "contestacion": "No, dependiendo del daño se lo puede reparar", "correcta": false },
+            { "id": "lia_044_r3", "contestacion": "Sí, siempre", "correcta": true }
+        ]
+    },
+    {
+        "identificador": "lia_045",
+        "pregunta": "45. Si se carga mucho peso en la parte posterior de la motocicleta, ¿Qué efecto causaría?",
+        "respuestas": [
+            { "id": "lia_045_r1", "contestacion": "Elevación en la rueda delantera, por lo que se perderá adherencia y direccionalidad", "correcta": true },
+            { "id": "lia_045_r2", "contestacion": "Elevación en la rueda posterior, por lo que se perderá adherencia y direccionalidad", "correcta": false },
+            { "id": "lia_045_r3", "contestacion": "Elevación en la rueda delantera, por lo que se mejorará adherencia y direccionalidad", "correcta": false }
+        ]
+    }, {
+        "identificador": "lia_046",
+        "pregunta": "46. ¿Las ráfagas de viento producidas por vehículos de gran tamaño que circulan en la vía junto a la motocicleta, pueden afectar el control de la misma?",
+        "respuestas": [
+            { "id": "lia_046_r1", "contestacion": "No, nunca", "correcta": false },
+            { "id": "lia_046_r2", "contestacion": "Si, solo cuando se circula al límite máximo de velocidad", "correcta": false },
+            { "id": "lia_046_r3", "contestacion": "Si, siempre", "correcta": true }
+        ]
+    }
+]

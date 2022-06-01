@@ -1,0 +1,266 @@
+[{
+        "identificador": "byf_001",
+        "pregunta": "1. ¿A quién se otorga la licencia tipo F?",
+
+        "respuestas": [
+            { "id": "byf_001_r1", "contestacion": "a. A las personas mayores de edad que conducen vehículos comerciales", "correcta": false },
+            { "id": "byf_001_r2", "contestacion": "b. A las personas de 16 años que no cumplen la mayoría de edad", "correcta": false },
+            { "id": "byf_001_r3", "contestacion": "c. A las personas mayores de edad con discapacidad", "correcta": true }
+        ]
+    }, {
+        "identificador": "byf_002",
+        "pregunta": "2. ¿Está permitido que los niños viajen en un vehículo, en cualquier asiento, sin ocupar el asiento de seguridad o car seat ?",
+
+        "respuestas": [
+            { "id": "byf_002_r1", "contestacion": "a. No, en ninguna circunstancia", "correcta": true },
+            { "id": "byf_002_r2", "contestacion": "b. Sí, siempre que usted pueda ver sin problemas hacia atrás", "correcta": false },
+            { "id": "byf_002_r3", "contestacion": "c. No, a menos que los demás asientos estén ocupados", "correcta": false }
+        ]
+    }, {
+        "identificador": "byf_003",
+        "pregunta": "3. ¿Cuál es la manera más segura para llevar a un niño en el vehículo?",
+
+        "respuestas": [
+            { "id": "byf_003_r1", "contestacion": "a. En la falda de un adulto que va con su cinturón de seguridad", "correcta": false },
+            { "id": "byf_003_r2", "contestacion": "b. En cualquier asiento, siempre que lleve puesto el cinturón de seguridad para adultos", "correcta": false },
+            { "id": "byf_003_r3", "contestacion": "c. En el asiento trasero, en una silla de seguridad", "correcta": true }
+        ]
+    }, {
+        "identificador": "byf_004",
+        "pregunta": "4. En una vía urbana, ¿cuál es el límite máximo de velocidad en el que debe circular un vehículo considerado liviano?",
+
+        "respuestas": [
+            { "id": "byf_004_r1", "contestacion": "a. 40 Km/h", "correcta": false },
+            { "id": "byf_004_r2", "contestacion": "b. 50 Km/h", "correcta": true },
+            { "id": "byf_004_r3", "contestacion": "c. 60 Km/h", "correcta": false }
+        ]
+    }, {
+        "identificador": "byf_005",
+        "pregunta": "5. En una vía urbana, ¿A qué velocidad se considera que un vehículo liviano está circulando dentro del rango moderado?",
+
+        "respuestas": [
+            { "id": "byf_005_r1", "contestacion": "a. 40 Km/h hasta 50 Km/h", "correcta": false },
+            { "id": "byf_005_r2", "contestacion": "b. 50 Km/h hasta 60 Km/h", "correcta": true },
+            { "id": "byf_005_r3", "contestacion": "c. 60 Km/h hasta 70 Km/h", "correcta": false }
+        ]
+    }, {
+        "identificador": "byf_006",
+        "pregunta": "6. ¿Cuál es la razón principal por la que la distancia mínima entre el conductor y el volante debe ser de 25 cm?",
+
+        "respuestas": [
+            { "id": "byf_006_r1", "contestacion": "a. Porque al sentarse a mayor distancia no tendría suficiente visibilidad", "correcta": false },
+            { "id": "byf_006_r2", "contestacion": "b. Porque es la distancia de acción del airbag al explotar", "correcta": true },
+            { "id": "byf_006_r3", "contestacion": "c. Ninguna de las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "byf_007",
+        "pregunta": "7. En una vía perimetral, ¿cuál es el límite máximo de velocidad en el que debe circular un vehículo considerado liviano?",
+
+        "respuestas": [
+            { "id": "byf_007_r1", "contestacion": "a. 80 Km/h", "correcta": false },
+            { "id": "byf_007_r2", "contestacion": "b. 90 Km/h", "correcta": true },
+            { "id": "byf_007_r3", "contestacion": "c. 95 Km/h", "correcta": false }
+        ]
+    }, {
+        "identificador": "byf_008",
+        "pregunta": "8. En una vía perimetral, ¿A qué velocidad se considera que un vehículo liviano está circulando dentro del rango moderado?",
+
+        "respuestas": [
+            { "id": "byf_008_r1", "contestacion": "a. 90 km/h hasta 100 Km/h", "correcta": false },
+            { "id": "byf_008_r2", "contestacion": "b. 90 Km/h hasta 110 Km/h", "correcta": false },
+            { "id": "byf_008_r3", "contestacion": "c. 90 Km/h hasta 120 Km/h", "correcta": true }
+        ]
+    }, {
+        "identificador": "byf_009",
+        "pregunta": "9. ¿Para quién es obligatorio el uso del cinturón de seguridad?",
+
+        "respuestas": [
+            { "id": "byf_009_r1", "contestacion": "a. Solamente para el conductor", "correcta": false },
+            { "id": "byf_009_r2", "contestacion": "b. Solamente para los pasajeros", "correcta": false },
+            { "id": "byf_009_r3", "contestacion": "c. Para todos los ocupantes del vehículo", "correcta": true }
+        ]
+    }, {
+        "identificador": "byf_010",
+        "pregunta": "10. En vías rectas, ¿cuál es el límite máximo de velocidad en el que debe circular un vehículo considerado liviano?",
+
+        "respuestas": [
+            { "id": "byf_010_r1", "contestacion": "a. 80 Km/h", "correcta": false },
+            { "id": "byf_010_r2", "contestacion": "b. 90 Km/h", "correcta": false },
+            { "id": "byf_010_r3", "contestacion": "c. 100 Km/h", "correcta": true }
+        ]
+    }, {
+        "identificador": "byf_011",
+        "pregunta": "11. En vías rectas, ¿A qué velocidad se considera que un vehículo liviano está circulando dentro del rango moderado?",
+
+        "respuestas": [
+            { "id": "byf_011_r1", "contestacion": "100 Km/h hasta 125 Km/h", "correcta": false },
+            { "id": "byf_011_r2", "contestacion": "b. 100 km/h hasta 130 km/h", "correcta": false },
+            { "id": "byf_011_r3", "contestacion": "c. 100 km/h hasta 135 Km/h", "correcta": true }
+        ]
+    }, {
+        "identificador": "byf_012",
+        "pregunta": "12. ¿Cuál de las siguientes opciones corresponden a un derecho de las personas con discapacidad?",
+
+        "respuestas": [
+            { "id": "byf_012_r1", "contestacion": "a. Abstenerse de transitar por la vía pública cuando el vehículo no cuenta aún con los distintivos correspondientes ", "correcta": false },
+            { "id": "byf_012_r2", "contestacion": "b. Contar con infraestructura y señalización vial adecuadas a sus necesidades que garanticen su seguridad", "correcta": true },
+            { "id": "byf_012_r3", "contestacion": "c. Ninguna de las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "byf_013",
+        "pregunta": "13. En carreteras, en curvas, ¿cuál es el límite máximo de velocidad en el que debe circular un vehículo considerado liviano?",
+        "respuestas": [
+            { "id": "byf_013_r1", "contestacion": "a. 50 Km/h", "correcta": false },
+            { "id": "byf_013_r2", "contestacion": "b. 60 Km/h", "correcta": true },
+            { "id": "byf_013_r3", "contestacion": "c. 70 Km/h", "correcta": false }
+        ]
+    }, {
+        "identificador": "byf_014",
+        "pregunta": "14. En carreteras, en curvas, ¿A qué velocidad se considera que un vehículo liviano está circulando dentro del rango moderado?",
+        "respuestas": [
+            { "id": "byf_014_r1", "contestacion": "a. 60 Km/h hasta 65 Km/h", "correcta": false },
+            { "id": "byf_014_r2", "contestacion": "b. 60 Km/h hasta 70 Km/h", "correcta": false },
+            { "id": "byf_014_r3", "contestacion": "c. 60 Km/h hasta 75 Km/h", "correcta": true }
+        ]
+    }, {
+        "identificador": "byf_015",
+        "pregunta": "15. El freno de mano actúa sobre las ruedas:",
+        "respuestas": [
+            { "id": "byf_015_r1", "contestacion": "a. Delanteras", "correcta": false },
+            { "id": "byf_015_r2", "contestacion": "b. Posteriores", "correcta": true },
+            { "id": "byf_015_r3", "contestacion": "c. Todas las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "byf_016",
+        "pregunta": "16. ¿Qué requisitos se debe cumplir para obtener por primera vez la licencia de categoría no profesional tipo B?",
+        "respuestas": [
+            { "id": "byf_016_r1", "contestacion": "a. Aprobación de un curso de conducción de una escuela de conducción", "correcta": false },
+            { "id": "byf_016_r2", "contestacion": "b. Rendición y aprobación de pruebas psicosensométricas y teóricas", "correcta": false },
+            { "id": "byf_016_r3", "contestacion": "c. Todas las anteriores", "correcta": true }
+        ]
+    }, {
+        "identificador": "byf_017",
+        "pregunta": "17. ¿Qué tiempo de vigencia tienen las licencias no profesional tipo B?",
+        "respuestas": [
+            { "id": "byf_017_r1", "contestacion": "a. 4 años", "correcta": false },
+            { "id": "byf_017_r2", "contestacion": "b. 6 años", "correcta": false },
+            { "id": "byf_017_r3", "contestacion": "c. 5 años", "correcta": true }
+        ]
+
+    }, {
+        "identificador": "byf_018",
+        "pregunta": "18. ¿Cuántas veces al año debe realizarse la Revisión Técnica Vehicular a un automotor particular?",
+        "respuestas": [
+            { "id": "byf_018_r1", "contestacion": "a. Una vez", "correcta": true },
+            { "id": "byf_018_r2", "contestacion": "b. Dos veces (semestral)", "correcta": false },
+            { "id": "byf_018_r3", "contestacion": "c. Ninguna de las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "byf_019",
+        "pregunta": "19. El conductor con licencia tipo B, ¿puede llevar pasajeros en el balde de una camioneta?",
+        "respuestas": [
+            { "id": "byf_019_r1", "contestacion": "a. Si", "correcta": false },
+            { "id": "byf_019_r2", "contestacion": "b. No, nunca", "correcta": true },
+            { "id": "byf_019_r3", "contestacion": "c. Sí, sólo si están dentro del área urbana", "correcta": false }
+        ]
+    }, {
+        "identificador": "byf_020",
+        "pregunta": "20. ¿Cuál de las siguientes NO es una licencia de conducir de categoría profesional?",
+        "respuestas": [
+            { "id": "byf_020_r1", "contestacion": "a. Tipo A1", "correcta": false },
+            { "id": "byf_020_r2", "contestacion": "b. Tipo F", "correcta": true },
+            { "id": "byf_020_r3", "contestacion": "c. Tipo C", "correcta": false }
+        ]
+
+    }, {
+        "identificador": "byf_021",
+        "pregunta": "21. ¿Cuándo una Licencia de conducir puede ser anulada?",
+        "respuestas": [
+            { "id": "byf_021_r1", "contestacion": "a. Cuando los exámenes correspondientes determinen la incapacidad física mental y psicológica de su titular.", "correcta": false },
+            { "id": "byf_021_r2", "contestacion": "b. Cuando esté caducada.", "correcta": false },
+            { "id": "byf_021_r3", "contestacion": "c. Cuando se detecte que éstas han sido otorgadas mediante un acto viciado por defectos de forma o falta de requisitos de fondo.", "correcta": true }
+        ]
+
+
+
+    }, {
+        "identificador": "byf_022",
+        "pregunta": "22. ¿Por qué los niños no deben viajar en la parte delantera de un vehículo?",
+        "respuestas": [
+            { "id": "byf_022_r1", "contestacion": "a. Para precautelar la seguridad de los niños", "correcta": true },
+            { "id": "byf_022_r2", "contestacion": "b. Porque el conductor puede ser sancionado", "correcta": false },
+            { "id": "byf_022_r3", "contestacion": "c. Porque les molesta el ruido del motor", "correcta": false }
+        ]
+    },
+    {
+        "identificador": "byf_023",
+        "pregunta": "23. ¿Constituyen contravenciones de tránsito aquellas que sean detectadas y notificadas por medios electrónicos y tecnológicos?",
+        "respuestas": [
+            { "id": "byf_023_r1", "contestacion": "a. Sí, solo si se muestra el rostro del presunto infractor", "correcta": false },
+            { "id": "byf_023_r2", "contestacion": "b. Sí, siempre", "correcta": true },
+            { "id": "byf_023_r3", "contestacion": "c. No", "correcta": false }
+        ]
+    },
+    {
+        "identificador": "byf_024",
+        "pregunta": "24. ¿Qué normas de seguridad deben cumplir los pasajeros menores de 12 años?",
+        "respuestas": [
+            { "id": "byf_024_r1", "contestacion": "a. Deben ir sentados en el asiento posterior del vehículo", "correcta": false },
+            { "id": "byf_024_r2", "contestacion": "b. Deben utilizar el asiento de seguridad o car seat adecuado", "correcta": false },
+            { "id": "byf_024_r3", "contestacion": "c. Todas las anteriores", "correcta": true }
+        ]
+    },
+    {
+        "identificador": "byf_025",
+        "pregunta": "25. ¿Cuáles son los derechos de las personas con discapacidad?",
+        "respuestas": [
+            { "id": "byf_025_r1", "contestacion": "a. Ser transportados en vehículos adecuados para sus necesidades específicas", "correcta": true },
+            { "id": "byf_025_r2", "contestacion": "b. Ser tratados con los mismos derechos de todas las personas", "correcta": false },
+            { "id": "byf_025_r3", "contestacion": "c. Ser atendidos únicamente si presentan el carnet del CONADIS", "correcta": false }
+        ]
+    }, {
+        "identificador": "byf_026",
+        "pregunta": "26. ¿Qué seguridad brinda la carrocería deformable?",
+        "respuestas": [
+            { "id": "byf_026_r1", "contestacion": "a. Una mayor seguridad para los ocupantes del vehículo en el momento de una colisión", "correcta": true },
+            { "id": "byf_026_r2", "contestacion": "b. Una menor destrucción del vehículo en el momento de una colisión", "correcta": false },
+            { "id": "byf_026_r3", "contestacion": "c. Un menor peso total del vehículo", "correcta": false }
+        ]
+    }, {
+        "identificador": "byf_027",
+        "pregunta": "27. Según la normativa vigente ¿Cómo se define al conductor no profesional?",
+        "respuestas": [
+            { "id": "byf_027_r1", "contestacion": "a. Aquel que se encuentra legalmente autorizado para conducir vehículos a motor de hasta 3500 Kg de peso y 2.55 metros de ancho, sin percibir retribución económica alguna", "correcta": true },
+            { "id": "byf_027_r2", "contestacion": "b. Aquel que se encuentra legalmente autorizado para conducir vehículos a motor de hasta 3000 Kg de peso y 2.55 metros de ancho, sin percibir retribución económica alguna", "correcta": false },
+            { "id": "byf_027_r3", "contestacion": "c. Aquel que se encuentra legalmente autorizado para conducir vehículos a motor de hasta 3500 Kg de peso y 2.65 metros de ancho, sin percibir retribución económica alguna", "correcta": false }
+        ]
+    },
+    {
+        "identificador": "byf_028",
+        "pregunta": "28. ¿Qué tipo de vehículos puede conducir una persona que posee licencia tipo B?",
+        "respuestas": [
+            { "id": "byf_028_r1", "contestacion": "a. Automóviles y camionetas con acoplados de hasta 1,55 toneladas de carga útil o casas rodantes A", "correcta": false },
+            { "id": "byf_028_r2", "contestacion": "b. Automóviles y camionetas con acoplados de hasta 1,65 toneladas de carga útil o casas rodantes", "correcta": false },
+            { "id": "byf_028_r3", "contestacion": "c. Automóviles y camionetas con acoplados de hasta 1,75 toneladas de carga útil o casas rodantes", "correcta": true }
+
+
+        ]
+    }, {
+        "identificador": "byf_029",
+        "pregunta": "29. El ajuste del asiento debe:",
+        "respuestas": [
+            { "id": "byf_029_r1", "contestacion": "a. Facilitar el acceso a los mandos y disponer de buena visibilidad", "correcta": true },
+            { "id": "byf_029_r2", "contestacion": "b. Ser lo más alto posible para ver mejor hacia delante", "correcta": false },
+            { "id": "byf_029_r3", "contestacion": "c. Estar lo más adelante posible para poder acelerar mejor", "correcta": false }
+        ]
+    },
+    {
+        "identificador": "byf_030",
+        "pregunta": "30. ¿Qué tipo de sanción se aplica a la licencia de un conductor que es detenido por conducir un automotor durante el cometimiento de un delito?",
+        "respuestas": [
+            { "id": "byf_030_r1", "contestacion": "a. Suspensión de la licencia por el tiempo que dure la condena", "correcta": true },
+            { "id": "byf_030_r2", "contestacion": "b. Suspensión de la licencia por seis meses", "correcta": false },
+            { "id": "byf_030_r3", "contestacion": "c. Suspensión de la licencia por un año", "correcta": false }
+        ]
+    }
+]

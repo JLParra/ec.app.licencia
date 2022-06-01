@@ -1,0 +1,1059 @@
+[{
+    "identificador": "reg_201",
+    "pregunta": "201. El trayecto que recorre un vehículo desde el momento en que el conductor advierte un peligro hasta que el vehículo se detiene totalmente, se conoce como:",
+    "respuestas": [
+        { "id": "reg_201_r1", "contestacion": "Velocidad excesiva", "correcta": false },
+        { "id": "reg_201_r2", "contestacion": "Distancia de frenado", "correcta": true },
+        { "id": "reg_201_r3", "contestacion": "Precaución al manejar", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_202",
+    "pregunta": "202. La alcoholemia se la conoce como:",
+    "respuestas": [
+        { "id": "reg_202_r1", "contestacion": "La pérdida de la conciencia", "correcta": false },
+        { "id": "reg_202_r2", "contestacion": "El porcentaje de alcohol contenido en la sangre", "correcta": true },
+        { "id": "reg_202_r3", "contestacion": "El cansancio de una persona en la conducción", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_203",
+    "pregunta": "203. En un siniestro de tránsito el uso del cinturón de seguridad en velocidades altas podría reducir el número de fallecidos en un:",
+    "respuestas": [
+        { "id": "reg_203_r1", "contestacion": "40%", "correcta": true },
+        { "id": "reg_203_r2", "contestacion": "50%", "correcta": false },
+        { "id": "reg_203_r3", "contestacion": "60%", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_204",
+    "pregunta": "204. En un siniestro de tránsito el uso del cinturón de seguridad en velocidades bajas podría reducir el número de fallecidos en un:",
+    "respuestas": [
+        { "id": "reg_204_r1", "contestacion": "40%", "correcta": false },
+        { "id": "reg_204_r2", "contestacion": "75%", "correcta": false },
+        { "id": "reg_204_r3", "contestacion": "60%", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_205",
+    "pregunta": "205. ¿Cuál es la diferencia entre un siniestro y un accidente de tránsito?",
+    "respuestas": [
+        { "id": "reg_205_r1", "contestacion": "El siniestro es causal, mientras que el accidente es un hecho que puede prevenirse", "correcta": false },
+        { "id": "reg_205_r2", "contestacion": "El siniestro es un hecho que puede prevenirse, mientras que el accidente es causal", "correcta": true },
+        { "id": "reg_205_r3", "contestacion": "Todas las anteriores", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_206",
+    "pregunta": "206. La revisión técnica vehicular realizada en cualquier parte del territorio nacional será:",
+    "respuestas": [
+        { "id": "reg_206_r1", "contestacion": "Válida para transitar únicamente en la ciudad donde realizó la misma", "correcta": false },
+        { "id": "reg_206_r2", "contestacion": "Suficiente y válida para transitar libremente en todo el territorio ecuatoriano", "correcta": true },
+        { "id": "reg_206_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_207",
+    "pregunta": "207. ¿Qué se entiende por vía pública?",
+    "respuestas": [
+        { "id": "reg_207_r1", "contestacion": "El lugar por donde circulan los vehículos", "correcta": false },
+        { "id": "reg_207_r2", "contestacion": "Es cualquier espacio común por donde transitan los peatones, o circulan los vehículos motorizados no motorizados", "correcta": true },
+        { "id": "reg_207_r3", "contestacion": "El lugar por donde circulan los peatones", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_208",
+    "pregunta": "208. ¿Qué distancia debe existir entre dos vehículos que circulan uno detrás del otro?",
+    "respuestas": [
+        { "id": "reg_208_r1", "contestacion": "Distancia prudencial de 1 metro que le permita maniobrar", "correcta": false },
+        { "id": "reg_208_r2", "contestacion": "Distancia prudencial mínima de 3 metros, que le permita detenerse con seguridad ante cualquier emergencia", "correcta": true },
+        { "id": "reg_208_r3", "contestacion": "Una distancia central adecuada que no comprometa su seguridad y la de los demás usuarios de la vía pública", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_209",
+    "pregunta": "209. ¿Cuáles son actores de la circulación vial?",
+    "respuestas": [
+        { "id": "reg_209_r1", "contestacion": "Peatón, biciusuario, conductor, pasajeros", "correcta": true },
+        { "id": "reg_209_r2", "contestacion": "Los vehículos", "correcta": false },
+        { "id": "reg_209_r3", "contestacion": "La Autoridades de ANT y GADs.", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_210",
+    "pregunta": "210. ¿Cuáles son los efectos probables en la conducción luego de haber ingerido alcohol?",
+    "respuestas": [
+        { "id": "reg_210_r1", "contestacion": "Las reacciones serán más rápidas", "correcta": false },
+        { "id": "reg_210_r2", "contestacion": "La capacidad de concentración aumenta", "correcta": false },
+        { "id": "reg_210_r3", "contestacion": "Pérdida transitoria o manifiesta disminución de las facultades físicas y mentales normales, que disminuye las capacidades para conducir cualquier tipo de vehículo", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_211",
+    "pregunta": "211. Está conduciendo y ve un vehículo de emergencia con luces intermitentes detrás de usted. ¿Qué debería hacer?",
+    "respuestas": [
+        { "id": "reg_211_r1", "contestacion": "Adelantar al vehículo", "correcta": false },
+        { "id": "reg_211_r2", "contestacion": "Ceder el derecho de vía conduciendo al lado derecho de la calzada", "correcta": true },
+        { "id": "reg_211_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_212",
+    "pregunta": "212. Si desea adelantar a un vehículo, ¿qué debe tomar en cuenta?",
+    "respuestas": [
+        { "id": "reg_212_r1", "contestacion": "La velocidad del vehículo al que desea adelantar", "correcta": false },
+        { "id": "reg_212_r2", "contestacion": "Asegurarse de que existe el espacio suficiente para adelantar", "correcta": true },
+        { "id": "reg_212_r3", "contestacion": "La distancia del vehículo que viene en sentido contrario", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_213",
+    "pregunta": "213. Si otro vehículo le quiere adelantar, ¿Qué debe hacer?",
+    "respuestas": [
+        { "id": "reg_213_r1", "contestacion": "Conservar su derecha", "correcta": false },
+        { "id": "reg_213_r2", "contestacion": "No aumentar la velocidad de su vehículo", "correcta": false },
+        { "id": "reg_213_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_214",
+    "pregunta": "214. ¿Qué es un cruce cebra?",
+    "respuestas": [
+        { "id": "reg_214_r1", "contestacion": "Un espacio autorizado para estacionarse", "correcta": false },
+        { "id": "reg_214_r2", "contestacion": "Zona de seguridad de cruce peatonal", "correcta": true },
+        { "id": "reg_214_r3", "contestacion": "Zona de rebasamiento", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_215",
+    "pregunta": "215. ¿En qué sitios se prohíbe estacionar?",
+    "respuestas": [
+        { "id": "reg_215_r1", "contestacion": "Espacio exclusivo para personas con discapacidad o mujeres embarazadas", "correcta": false },
+        { "id": "reg_215_r2", "contestacion": "Puertas de garaje o zonas de circulación peatonal", "correcta": false },
+        { "id": "reg_215_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_216",
+    "pregunta": "216. ¿Que constituye la boleta de citación?",
+    "respuestas": [
+        { "id": "reg_216_r1", "contestacion": "Título de crédito contra el conductor o propietario del vehículo", "correcta": false },
+        { "id": "reg_216_r2", "contestacion": "Documento sin validez legal", "correcta": false },
+        { "id": "reg_216_r3", "contestacion": "Ninguna de las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_217",
+    "pregunta": "217. Los vehículos en sus desplazamiento mantendrán una distancia de seguridad mínima respecto a biciusuarios, motociclistas y carretas de:",
+    "respuestas": [
+        { "id": "reg_217_r1", "contestacion": "1.5 metros", "correcta": true },
+        { "id": "reg_217_r2", "contestacion": "2 metros", "correcta": false },
+        { "id": "reg_217_r3", "contestacion": "2.5 metros", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_218",
+    "pregunta": "218. En las carreteras los conductores cambiarán de luz intensa a baja, en los siguientes casos:",
+    "respuestas": [
+        { "id": "reg_218_r1", "contestacion": "Cuando circulen aproximadamente a 200 metros de un vehículo que viene en sentido contrario;", "correcta": false },
+        { "id": "reg_218_r2", "contestacion": "Cuando un vehículo que viene en sentido contrario realice el cambio de luces de intensa a baja", "correcta": false },
+        { "id": "reg_218_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_219",
+    "pregunta": "219 En que horarios todos los vehículos deberán llevar sus luces encendidas:",
+    "respuestas": [
+        { "id": "reg_219_r1", "contestacion": "Entre las 18h00 y las 06h00 del día siguiente", "correcta": false },
+        { "id": "reg_219_r2", "contestacion": "Entre las 06h00 y las 18h00 si las condiciones atmosféricas (neblina, lluvia,) lo exigen.", "correcta": false },
+        { "id": "reg_219_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_220",
+    "pregunta": "220 El conductor que se aproxime a un puente o calzada angosta en donde la circulación permita el paso de un solo vehículo:",
+    "respuestas": [
+        { "id": "reg_220_r1", "contestacion": "Tendrá preferencia de vía el vehículo que entre primero al puente o paso", "correcta": true },
+        { "id": "reg_220_r2", "contestacion": "Tendrá preferencia de vía el vehículo más pequeño", "correcta": false },
+        { "id": "reg_220_r3", "contestacion": "Todas las anteriores", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_221",
+    "pregunta": "221 ¿Qué fenómeno se produce por la pérdida de contacto de las llantas con la calzada por conducir a alta velocidad en lluvia?",
+    "respuestas": [
+        { "id": "reg_221_r1", "contestacion": "Hidroplaneamiento", "correcta": true },
+        { "id": "reg_221_r2", "contestacion": "Resbalón", "correcta": false },
+        { "id": "reg_221_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_222",
+    "pregunta": "222 Los niños menores de 12 años podrán viajar en:",
+    "respuestas": [
+        { "id": "reg_222_r1", "contestacion": "En el asiento delantero con cinturón de seguridad", "correcta": false },
+        { "id": "reg_222_r2", "contestacion": "En el asiento delantero sin cinturón de seguridad", "correcta": false },
+        { "id": "reg_222_r3", "contestacion": "En los asientos posteriores tomando las medidas de seguridad reglamentariamente establecidas", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_223",
+    "pregunta": "223 ¿En qué casos las bermas podrán ser usadas por los vehículos?",
+    "respuestas": [
+        { "id": "reg_223_r1", "contestacion": "Detenciones de carácter emergente", "correcta": true },
+        { "id": "reg_223_r2", "contestacion": "Dejar o recoger pasajeros", "correcta": false },
+        { "id": "reg_223_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_224",
+    "pregunta": "224 Todo vehículo que circule en una vía determinada para “contraflujo” deberá obligatoriamente:",
+    "respuestas": [
+        { "id": "reg_224_r1", "contestacion": "Circular con luces bajas durante todo su trayecto", "correcta": true },
+        { "id": "reg_224_r2", "contestacion": "Circular con luces de parqueo durante todo su trayecto", "correcta": false },
+        { "id": "reg_224_r3", "contestacion": "Circular con luces altas durante todo su trayecto", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_225",
+    "pregunta": "225 En las contravenciones por medios electrónicos no se impondrá una sanción pecuniaria al propietario del vehículo:",
+    "respuestas": [
+        { "id": "reg_225_r1", "contestacion": "Sin que previamente haya sido notificado de la sanción", "correcta": false },
+        { "id": "reg_225_r2", "contestacion": "Cuando en ejercicio de su defensa haya ganado una impugnación", "correcta": false },
+        { "id": "reg_225_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_226",
+    "pregunta": "226 ¿En cuál de los siguientes casos es obligatorio el uso de luces direccionales, antes de realizar un viraje?",
+    "respuestas": [
+        { "id": "reg_226_r1", "contestacion": "Si el conductor lo desea", "correcta": false },
+        { "id": "reg_226_r2", "contestacion": "Si está el Agente Civil presente", "correcta": false },
+        { "id": "reg_226_r3", "contestacion": "Siempre", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_227",
+    "pregunta": "227 Es obligación de los peatones cruzar la calzada por:",
+    "respuestas": [
+        { "id": "reg_227_r1", "contestacion": "Los parterres", "correcta": false },
+        { "id": "reg_227_r2", "contestacion": "Las zonas peatonales o cruces cebra", "correcta": true },
+        { "id": "reg_227_r3", "contestacion": "Los borde de la acera", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_228",
+    "pregunta": "228 ¿Cómo se llama al examen que permite determinar la cantidad de alcohol en aire expirado?",
+    "respuestas": [
+        { "id": "reg_228_r1", "contestacion": "Examen psicométrico", "correcta": false },
+        { "id": "reg_228_r2", "contestacion": "Examen sensométrico", "correcta": false },
+        { "id": "reg_228_r3", "contestacion": "Examen de alcohotest", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_229",
+    "pregunta": "229 ¿Qué sucede en el caso de que una misma contravención de tránsito estipule dos sanciones diferentes?",
+    "respuestas": [
+        { "id": "reg_229_r1", "contestacion": "El agente de tránsito emitirá la citación que corresponda a la más grave", "correcta": true },
+        { "id": "reg_229_r2", "contestacion": "El agente de tránsito emitirá la citación que corresponda a la más leve", "correcta": false },
+        { "id": "reg_229_r3", "contestacion": "El agente de tránsito solicitará procedimiento a la central de radio patrullas", "correcta": false }
+    ]
+
+}, {
+    "identificador": "reg_230",
+    "pregunta": "230 ¿Qué consecuencias tiene la negativa de un conductor a practicarse cualquier tipo de examen para verificar su estado de embriaguez?",
+    "respuestas": [
+        { "id": "reg_230_r1", "contestacion": "El agente de tránsito debe retener el vehículo", "correcta": false },
+        { "id": "reg_230_r2", "contestacion": "El agente de tránsito presumirá la sobriedad del conductor y lo dejará partir", "correcta": false },
+        { "id": "reg_230_r3", "contestacion": "El agente de tránsito informará que su negativa será considerada como presunción de encontrarse en el máximo grado de intoxicación, y por ende se procederá con su detención", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_231",
+    "pregunta": "231 ¿Cuál de los siguientes NO es un objetivo de la Revisión Técnica Vehicular?",
+    "respuestas": [
+        { "id": "reg_231_r1", "contestacion": "Reducir la falla mecánica", "correcta": false },
+        { "id": "reg_231_r2", "contestacion": "Realizar un censo vehicular", "correcta": true },
+        { "id": "reg_231_r3", "contestacion": "Mejorar la seguridad vial", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_232",
+    "pregunta": "232 ¿Cuál de los siguientes NO es un objetivo de la Revisión Técnica Vehicular?",
+    "respuestas": [
+        { "id": "reg_232_r1", "contestacion": "Prueba de suspensión y frenado", "correcta": false },
+        { "id": "reg_232_r2", "contestacion": "Prueba de luces y gases", "correcta": false },
+        { "id": "reg_232_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_233",
+    "pregunta": "233 Cuando el peatón sea el presunto autor de un delito de tránsito en donde resulte muertos o lesionados con incapacidad física o enfermedad de más de 30 días, será:",
+    "respuestas": [
+        { "id": "reg_233_r1", "contestacion": "Aprehendido y puesto a órdenes del juez de tránsito competente.", "correcta": true },
+        { "id": "reg_233_r2", "contestacion": "Exento de cualquier responsabilidad", "correcta": false },
+        { "id": "reg_233_r3", "contestacion": "Considerado como testigo fundamental en la parte procesal", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_234",
+    "pregunta": "234 Todos los vehículos motorizados deberán disponer de:",
+    "respuestas": [
+        { "id": "reg_234_r1", "contestacion": "Extintor de incendios con capacidad mínima de 10 kg.", "correcta": false },
+        { "id": "reg_234_r2", "contestacion": "Llantas de emergencia en condiciones operables, llave de ruedas y gata", "correcta": false },
+        { "id": "reg_234_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_235",
+    "pregunta": "235 En donde está prohibido a los conductores estacionar su vehículo:",
+    "respuestas": [
+        { "id": "reg_235_r1", "contestacion": "En doble columna, respecto de otros ya estacionados, junto a la acera o cuneta en la carretera;", "correcta": false },
+        { "id": "reg_235_r2", "contestacion": "Sobre o junto a un parterre central o isla de seguridad", "correcta": false },
+        { "id": "reg_235_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_236",
+    "pregunta": "236 En relación a las llantas, ¿Cuándo se prohíbe la circulación de un vehículo?:",
+    "respuestas": [
+        { "id": "reg_236_r1", "contestacion": "Cuando las llantas se encuentran en mal estado", "correcta": false },
+        { "id": "reg_236_r2", "contestacion": "Cuya banda de rodadura de la llanta tenga un labrado inferior a 1.6mm.", "correcta": false },
+        { "id": "reg_236_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_237",
+    "pregunta": "237 Las sillas especiales para el traslado en vehículo de niños deben ir de acuerdo a:",
+    "respuestas": [
+        { "id": "reg_237_r1", "contestacion": "Tamaño del asiento del vehículo", "correcta": false },
+        { "id": "reg_237_r2", "contestacion": "Edades y pesos específicos.", "correcta": true },
+        { "id": "reg_237_r3", "contestacion": "Todas las anteriores", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_238",
+    "pregunta": "238 Para el traslado de niños, niñas y adolescentes, los vehículos de transporte escolar estarán sujetos a:",
+    "respuestas": [
+        { "id": "reg_238_r1", "contestacion": "Uso de señales y distintivos que permitan su debida, identificación y dispositivos homologados de seguridad infantil y cinturones de seguridad según el tipo de pasajeros", "correcta": false },
+        { "id": "reg_238_r2", "contestacion": "Respetar los límites de velocidad y condiciones de manejo.", "correcta": false },
+        { "id": "reg_238_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_239",
+    "pregunta": "239 El transporte según su matrícula se clasifica en:",
+    "respuestas": [
+        { "id": "reg_239_r1", "contestacion": "De uso particular, de uso público, de uso estatal u oficial", "correcta": false },
+        { "id": "reg_239_r2", "contestacion": "De uso diplomático, vehículos de internación temporal, vehículos agrícolas y camineros", "correcta": false },
+        { "id": "reg_239_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_240",
+    "pregunta": "240 En las intersecciones con redondeles, todo conductor debe:",
+    "respuestas": [
+        { "id": "reg_240_r1", "contestacion": "Ceder el paso a los vehículos que se encuentran circulando dentro del mismo.", "correcta": true },
+        { "id": "reg_240_r2", "contestacion": "Adelantar el vehículo que se encuentran circulando dentro del mismo.", "correcta": false },
+        { "id": "reg_240_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_241",
+    "pregunta": "241 Los vehículos que no aprueben las pruebas correspondientes a la revisión y control vehicular serán prohibidos de:",
+    "respuestas": [
+        { "id": "reg_241_r1", "contestacion": "Circular y serán retirados en caso de hacerlo sin haberlas aprobado", "correcta": true },
+        { "id": "reg_241_r2", "contestacion": "Vender el vehículo", "correcta": false },
+        { "id": "reg_241_r3", "contestacion": "Todas de las anteriores", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_242",
+    "pregunta": "242 Un vehículo debe tener obligatoriamente las siguientes luces:",
+    "respuestas": [
+        { "id": "reg_242_r1", "contestacion": "Posición, cruce, carretera, freno, marcha atrás y neblineros", "correcta": false },
+        { "id": "reg_242_r2", "contestacion": "Altas, bajas, medias, direccionales, freno, marcha atrás.", "correcta": true },
+        { "id": "reg_242_r3", "contestacion": "De emergencia, y de alumbramiento", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_243",
+    "pregunta": "243 Las personas con discapacidad podrán obtener su certificado y licencia de conductor especial previo a:",
+    "respuestas": [
+        { "id": "reg_243_r1", "contestacion": "Aprobación del examen de conducción y examen médico que determine la incapacidad física", "correcta": true },
+        { "id": "reg_243_r2", "contestacion": "Curso de conducción", "correcta": false },
+        { "id": "reg_243_r3", "contestacion": "Todas las anteriores", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_244",
+    "pregunta": "244 ¿En cuál de los siguientes casos se prohíbe a los conductores estacionar su vehículo?",
+    "respuestas": [
+        { "id": "reg_244_r1", "contestacion": "Frente a recintos militares y policiales", "correcta": false },
+        { "id": "reg_244_r2", "contestacion": "En doble columna, respecto de otros ya estacionados, junto a la acera o cuneta en la carretera", "correcta": false },
+        { "id": "reg_244_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_245",
+    "pregunta": "245 Cuando es correcto ingresar a un redondel:",
+    "respuestas": [
+        { "id": "reg_245_r1", "contestacion": "Cuando todo el tráfico que se encuentra circulando haya salido del redondel", "correcta": false },
+        { "id": "reg_245_r2", "contestacion": "Después de haber parado y seleccionado el cambio de marcha correcto", "correcta": false },
+        { "id": "reg_245_r3", "contestacion": "Cuando tenga suficiente espacio de apertura en el tráfico del redondel y no haya posibilidad de colisionar", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_246",
+    "pregunta": "246 ¿Qué debe contener el parte policial por infracciones de tránsito?",
+    "respuestas": [
+        { "id": "reg_246_r1", "contestacion": "Detalle del número de puntos de la licencia al momento de cometer la infracción", "correcta": false },
+        { "id": "reg_246_r2", "contestacion": "Relación detallada y minuciosa del hecho y sus circunstancias, incluyendo croquis y fotografías", "correcta": true },
+        { "id": "reg_246_r3", "contestacion": "Todas las anteriores", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_247",
+    "pregunta": "247 ¿Para qué sirven los seguros de niños en los vehículos?",
+    "respuestas": [
+        { "id": "reg_247_r1", "contestacion": "Aseguran las hebillas de los cinturones de seguridad", "correcta": false },
+        { "id": "reg_247_r2", "contestacion": "Bloquean las ventanas traseras manteniéndolas cerradas", "correcta": false },
+        { "id": "reg_247_r3", "contestacion": "Impiden que las puertas puedan abrirse desde el interior", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_248",
+    "pregunta": "248 Si usted sufre un desperfecto en su vehículo y tiene que inmovilizarlo al lado derecho de la calzada: ¿Debe poner los triángulos de seguridad?",
+    "respuestas": [
+        { "id": "reg_248_r1", "contestacion": "No, porque el vehículo está al lado derecho de la calzada", "correcta": false },
+        { "id": "reg_248_r2", "contestacion": "Sí, en todo momento", "correcta": true },
+        { "id": "reg_248_r3", "contestacion": "Sí, por las noches", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_249",
+    "pregunta": "249 ¿Es permitido estacionarnos sobre un cruce peatonal marcado?",
+    "respuestas": [
+        { "id": "reg_249_r1", "contestacion": "No", "correcta": true },
+        { "id": "reg_249_r2", "contestacion": "Sí, pero solo por emergencia", "correcta": false },
+        { "id": "reg_249_r3", "contestacion": "Sí, pero no por más de 2 minutos", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_250",
+    "pregunta": "250 El dispositivo de seguridad pasiva que reduce el desplazamiento de la cabeza hacia atrás para evitar el fenómeno de látigo sobre el cuello, se conoce como:",
+    "respuestas": [
+        { "id": "reg_250_r1", "contestacion": "Apoya cabeza", "correcta": true },
+        { "id": "reg_250_r2", "contestacion": "Cinturón de seguridad", "correcta": false },
+        { "id": "reg_250_r3", "contestacion": "Airbag", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_251",
+    "pregunta": "251 ¿Cómo se conoce al dispositivo de seguridad pasiva incluida en algunos vehículos, el cual se acciona en milisegundos al producirse un impacto?",
+    "respuestas": [
+        { "id": "reg_251_r1", "contestacion": "Apoya cabeza", "correcta": false },
+        { "id": "reg_251_r2", "contestacion": "Cinturón de seguridad", "correcta": false },
+        { "id": "reg_251_r3", "contestacion": "Airbag o bolsa de aire", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_252",
+    "pregunta": "252 La vía de varios carriles separados con parterre central sin cruces a nivel con acceso regulado y estacionamiento prohibido: ¿Cómo se llama?",
+    "respuestas": [
+        { "id": "reg_252_r1", "contestacion": "Avenida", "correcta": false },
+        { "id": "reg_252_r2", "contestacion": "Autopista", "correcta": true },
+        { "id": "reg_252_r3", "contestacion": "Pasaje", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_253",
+    "pregunta": "253 La vía pública urbana, generalmente dividida por islas de seguridad y compuesta de dos o más calzadas en las que existen uno o más carriles de circulación, se llama:",
+    "respuestas": [
+        { "id": "reg_253_r1", "contestacion": "Avenida", "correcta": true },
+        { "id": "reg_253_r2", "contestacion": "Autopista", "correcta": false },
+        { "id": "reg_253_r3", "contestacion": "Pasaje", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_254",
+    "pregunta": "254 Los vehículos A y B llegan al mismo tiempo a una intersección en cruz por diferentes lados ¿Cuál tiene derecho de vía?",
+    "imagen": "../../../assets/imagen/img254.PNG",
+    "respuestas": [
+        { "id": "reg_254_r1", "contestacion": "Cualquiera de los dos", "correcta": false },
+        { "id": "reg_254_r2", "contestacion": "El vehículo que se aproxima a la izquierda", "correcta": false },
+        { "id": "reg_254_r3", "contestacion": "El vehículo que se aproxima a la derecha", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_255",
+    "pregunta": "255. El Servicio Público Para Pago de Accidentes de Tránsito - SPPAT es obligatorio para:",
+    "respuestas": [
+        { "id": "reg_255_r1", "contestacion": "Vehículos de propiedad pública", "correcta": false },
+        { "id": "reg_255_r2", "contestacion": "Vehículos de propiedad privada", "correcta": false },
+        { "id": "reg_255_r3", "contestacion": "Todos los vehículos a motor sin restricción de ninguna naturaleza", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_256",
+    "pregunta": "256. ¿Qué implica conducir con prudencia a pesar de las acciones incorrectas de otros conductores y de las condiciones adversas del clima y las vías, practicando normas de seguridad para no provocar un siniestro de tránsito?",
+    "respuestas": [
+        { "id": "reg_256_r1", "contestacion": "Conducción a la defensiva", "correcta": true },
+        { "id": "reg_256_r2", "contestacion": "Conducir con rapidez", "correcta": false },
+        { "id": "reg_256_r3", "contestacion": "Cumplir con las normas de tránsito", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_257",
+    "pregunta": "257. ¿Qué implica la prevención de siniestros?",
+    "respuestas": [
+        { "id": "reg_257_r1", "contestacion": "Reconocer el peligro", "correcta": false },
+        { "id": "reg_257_r2", "contestacion": "Saber qué hacer y actuar a tiempo", "correcta": false },
+        { "id": "reg_257_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_258",
+    "pregunta": "258. ¿Qué es la movilidad activa?",
+    "respuestas": [
+        { "id": "reg_258_r1", "contestacion": "Es aquella que depende del movimiento fluido del tránsito, incluye el transport público", "correcta": false },
+        { "id": "reg_258_r2", "contestacion": "Es aquella que depende del movimiento físico de las personas, incluye la caminata y el uso de la bicicleta", "correcta": true },
+        { "id": "reg_258_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_259",
+    "pregunta": "259. ¿Cuáles son los beneficios del uso de vehículos de cero emisiones?",
+    "respuestas": [
+        { "id": "reg_259_r1", "contestacion": "Estar exento de las medidas de restricción a la circulación vehicular en cualquiera de las modalidades que la autoridad de tránsito local o nacional disponga", "correcta": false },
+        { "id": "reg_259_r2", "contestacion": "Tener gratuidad en el uso de espacios de parqueo público tarifado", "correcta": false },
+        { "id": "reg_259_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_260",
+    "pregunta": "260. ¿Cuáles son los deberes de los biciusuarios?",
+    "respuestas": [
+        { "id": "reg_260_r1", "contestacion": "Circular por carriles seguros en vías de media y alta velocidad", "correcta": false },
+        { "id": "reg_260_r2", "contestacion": "No circular por aceras o lugares destinados al tránsito exclusivo de peatones", "correcta": false },
+        { "id": "reg_260_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_261",
+    "pregunta": "261 ¿Cuáles son derechos de los biciusuarios?",
+    "respuestas": [
+        { "id": "reg_261_r1", "contestacion": "A tener vías de circulación preferente de las bicicletas en el área urbana, con determinación de recorrido, que favorezcan e impulsen el desarrollo de ciclo paseos.", "correcta": false },
+        { "id": "reg_261_r2", "contestacion": "Disponer vías de circulación privilegiada dentro de las ciudades y en carreteras, como ciclovías y espacios similares", "correcta": false },
+        { "id": "reg_261_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_262",
+    "pregunta": "262 ¿Cuáles son los derechos y preferencias de personas con discapacidad, movilidad reducida y grupos vulnerables?",
+    "respuestas": [
+        { "id": "reg_262_r1", "contestacion": "En las intersecciones, pasos peatonales, cruces cebra y donde no existan semáforos,  gozarán de derecho de paso sobre las personas y vehículos", "correcta": false },
+        { "id": "reg_262_r2", "contestacion": "Que los usuarios viales, incluyendo a conductores cedan el paso y se mantengan detenidos hasta que se concluya el cruce", "correcta": false },
+        { "id": "reg_262_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_263",
+    "pregunta": "263 ¿Cuáles son las obligaciones de los peatones en la vía pública?",
+    "respuestas": [
+        { "id": "reg_263_r1", "contestacion": "Solicitar transporte o pedir ayuda a los automovilistas en lugares apropiados prohibidos", "correcta": false },
+        { "id": "reg_263_r2", "contestacion": "Cruzar las calles por los cruces cebra o pasos elevados o deprimidos, de no existir paso cebra cruzar por las esquinas de las intersecciones", "correcta": true },
+        { "id": "reg_263_r3", "contestacion": "Cruzar la calle por la parte anterior y posterior de los automotores que se hayan detenido momentáneamente", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_264",
+    "pregunta": "264 ¿Cuáles son derechos de los peatones?",
+    "respuestas": [
+        { "id": "reg_264_r1", "contestacion": "Tener libre circulación sobre las aceras y zonas peatonales exclusivas", "correcta": false },
+        { "id": "reg_264_r2", "contestacion": "Disponer de las vías públicas libres de obstáculos y no invadidas", "correcta": false },
+        { "id": "reg_264_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_265",
+    "pregunta": "265 ¿Qué comportamientos deben tener los usuarios de las vías?",
+    "respuestas": [
+        { "id": "reg_265_r1", "contestacion": "Mantener el uso del cinturón de seguridad de manera obligatoria para todos los  ocupantes de automotores", "correcta": false },
+        { "id": "reg_265_r2", "contestacion": "No entorpecer la circulación, ni causar peligro, perjuicio o molestias innecesarias a las personas o daños a los bienes", "correcta": false },
+        { "id": "reg_265_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_266",
+    "pregunta": "266 Los vehículos detenidos por siniestros de tránsito serán trasladados a:?",
+    "respuestas": [
+        { "id": "reg_266_r1", "contestacion": "Centros de Retención Vehicular", "correcta": true },
+        { "id": "reg_266_r2", "contestacion": "Oficinas de los organismos encargados del control del tránsito", "correcta": false },
+        { "id": "reg_266_r3", "contestacion": "Todas las anteriores", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_267",
+    "pregunta": "267 ¿Cuáles son los objetivos de la educación vial?",
+    "respuestas": [
+        { "id": "reg_267_r1", "contestacion": "Reducir de forma sistemática los siniestros de tránsito", "correcta": false },
+        { "id": "reg_267_r2", "contestacion": "Formar y capacitar a las personas en general para el uso correcto de todos los medios de transporte terrestre", "correcta": false },
+        { "id": "reg_267_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_268",
+    "pregunta": "268 ¿Qué es el SPPAT?",
+    "respuestas": [
+        { "id": "reg_268_r1", "contestacion": "Sistema Público para Pago de Accidentes de Tránsito", "correcta": true },
+        { "id": "reg_268_r2", "contestacion": "Servicio Público Para Atención de Tránsito", "correcta": false },
+        { "id": "reg_268_r3", "contestacion": "Servicio para Pago de Pensiones de Agentes Civiles de Tránsito", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_269",
+    "pregunta": "269 ¿Cuándo se puede aplicar la recuperación voluntaria de puntos a la licencia de conducir?",
+    "respuestas": [
+        { "id": "reg_269_r1", "contestacion": "Cuando el conductor cuente con 15 puntos a su licencia de conducir o menos", "correcta": true },
+        { "id": "reg_269_r2", "contestacion": "Cuando el conductor cuente con 10 puntos a su licencia de conducir o menos", "correcta": false },
+        { "id": "reg_269_r3", "contestacion": "Todas las anteriores", "correcta": false }
+    ]
+
+}, {
+    "identificador": "reg_270",
+    "pregunta": "270 La movilidad activa incluye:",
+    "respuestas": [
+        { "id": "reg_270_r1", "contestacion": "El uso de vehículos durante el fin de semana", "correcta": false },
+        { "id": "reg_270_r2", "contestacion": "Caminata y uso de bicicleta", "correcta": true },
+        { "id": "reg_270_r3", "contestacion": "Todas las anteriores", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_271",
+    "pregunta": "271 La matrícula vehicular constituye:",
+    "respuestas": [
+        { "id": "reg_271_r1", "contestacion": "El documento habilitante para circular en las vías del país", "correcta": false },
+        { "id": "reg_271_r2", "contestacion": "Título de propiedad del vehículo", "correcta": false },
+        { "id": "reg_271_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_272",
+    "pregunta": "272 La matriculación vehicular realizada en cualquier parte del territorio nacional será:",
+    "respuestas": [
+        { "id": "reg_272_r1", "contestacion": "Válida para transitar únicamente en la ciudad donde realizo la misma", "correcta": false },
+        { "id": "reg_272_r2", "contestacion": "Suficiente y válida para transitar libremente en todo el territorio ecuatoriano", "correcta": true },
+        { "id": "reg_272_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_273",
+    "pregunta": "273 Toda persona víctima de siniestro de tránsito ocurrido en el territorio nacional tiene derecho a:",
+    "respuestas": [
+        { "id": "reg_273_r1", "contestacion": "Acceder al servicio que se preste a través del Sistema Público para Pago de Accidentes de Tránsito", "correcta": false },
+        { "id": "reg_273_r2", "contestacion": "A que el Estado asuma los gastos de las personas víctimas de siniestro de tránsito", "correcta": false },
+        { "id": "reg_273_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_274",
+    "pregunta": "274 Si el monto total de los perjuicios causados en un siniestro de tránsito, no son cubiertos en su totalidad, el saldo correspondiente seguirá constituyendo responsabilidad de:",
+    "respuestas": [
+        { "id": "reg_274_r1", "contestacion": "El causante del siniestro", "correcta": true },
+        { "id": "reg_274_r2", "contestacion": "La víctima", "correcta": false },
+        { "id": "reg_274_r3", "contestacion": "El agente civil que levantó el parte policial", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_275",
+    "pregunta": "275. En el Ecuador, el control del tránsito depende de las siguientes instituciones:",
+    "respuestas": [
+        { "id": "reg_275_r1", "contestacion": "Ejército – Policía Nacional – Comisión de Tránsito del Ecuador", "correcta": false },
+        { "id": "reg_275_r2", "contestacion": "Policía Nacional - Comisión de Tránsito del Ecuador – Ministerio de Transporte y Obras Públicas", "correcta": false },
+        { "id": "reg_275_r3", "contestacion": "Comisión de Tránsito del Ecuador – Policía Nacional - Gobiernos Autónomos Descentralizados con Competencia en Tránsito.", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_276",
+    "pregunta": "276. Las infracciones de tránsito son acciones u omisiones:",
+    "respuestas": [
+        { "id": "reg_276_r1", "contestacion": "Dolosas", "correcta": false },
+        { "id": "reg_276_r2", "contestacion": "Culposas", "correcta": true },
+        { "id": "reg_276_r3", "contestacion": "Ambas", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_277",
+    "pregunta": "277. La condición del transporte terrestre de personas y bienes que garantiza el derecho que tienen los ciudadanos a su movilización y de sus bienes, corresponde a:",
+    "respuestas": [
+        { "id": "reg_277_r1", "contestacion": "Accesibilidad", "correcta": true },
+        { "id": "reg_277_r2", "contestacion": "Comodidad", "correcta": false },
+        { "id": "reg_277_r3", "contestacion": "Continuidad", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_278",
+    "pregunta": "278. Cuidar en todo momento su propia seguridad y la de los demás, es una obligación del:",
+    "respuestas": [
+        { "id": "reg_278_r1", "contestacion": "Peatón, Biciusuario", "correcta": false },
+        { "id": "reg_278_r2", "contestacion": "Conductor", "correcta": false },
+        { "id": "reg_278_r3", "contestacion": "Todos los actores viales", "correcta": true }
+    ]
+
+}, {
+    "identificador": "reg_279",
+    "pregunta": "279. ¿Cuál es la vigencia de las licencias de conducir para conductores profesionales y no profesionales?",
+    "respuestas": [
+        { "id": "reg_279_r1", "contestacion": "Tres años", "correcta": false },
+        { "id": "reg_279_r2", "contestacion": "Cinco años", "correcta": true },
+        { "id": "reg_279_r3", "contestacion": "Dos años", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_280",
+    "pregunta": "280. ¿Qué tipos de licencias de conducir se someten al sistema de puntaje?",
+    "respuestas": [
+        { "id": "reg_280_r1", "contestacion": "Las de tipo profesional", "correcta": false },
+        { "id": "reg_280_r2", "contestacion": "Especiales", "correcta": false },
+        { "id": "reg_280_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_281",
+    "pregunta": "281. De las siguientes autoridades, ¿Cuál puede anular, revocar o suspender las licencias de conducir?",
+    "respuestas": [
+        { "id": "reg_281_r1", "contestacion": "Los jueces de tránsito", "correcta": false },
+        { "id": "reg_281_r2", "contestacion": "Autoridades de Tránsito competentes", "correcta": false },
+        { "id": "reg_281_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_282",
+    "pregunta": "282. Las personas que paguen las multas de tránsito al término de 20 días, serán beneficiarias de:",
+    "respuestas": [
+        { "id": "reg_282_r1", "contestacion": "20 % de reducción del monto de la multa respectiva", "correcta": false },
+        { "id": "reg_282_r2", "contestacion": "15 % de reducción del monto de la multa respectiva", "correcta": false },
+        { "id": "reg_282_r3", "contestacion": "50 % de reducción del monto de la multa respectiva", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_283",
+    "pregunta": "283. ¿Cuándo se suspenden las licencias de conducir?",
+    "respuestas": [
+        { "id": "reg_283_r1", "contestacion": "Cuando los exámenes correspondientes determinen la incapacidad física o mental de su titular para conducir vehículos", "correcta": false },
+        { "id": "reg_283_r2", "contestacion": "Cuando se hubieren otorgado a través de un acto viciado por defectos de forma o sin los requisitos de fondo esenciales para su validez", "correcta": false },
+        { "id": "reg_283_r3", "contestacion": "Cuando no se superen las pruebas establecidas para la renovación de licencias", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_284",
+    "pregunta": "284. ¿En cuánto tiempo se puede impugnar una notificación del cometimiento de una contravención que se ha detectado por medios electrónicos y/o tecnológicos?",
+    "respuestas": [
+        { "id": "reg_284_r1", "contestacion": "Tres días a partir de la fecha de incidente", "correcta": false },
+        { "id": "reg_284_r2", "contestacion": "Tres días a partir de la notificación de la falta", "correcta": true },
+        { "id": "reg_284_r3", "contestacion": "No es impugnable debido a la certeza del medio tecnológico", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_285",
+    "pregunta": "285. La Agencia Nacional de Regulación y Control del Transporte Terrestre, Tránsito y Seguridad Vial, es el ente encargado de:",
+    "respuestas": [
+        { "id": "reg_285_r1", "contestacion": "Formular y ejecutar políticas públicas, para la transformación del patrón de especialización industrial", "correcta": false },
+        { "id": "reg_285_r2", "contestacion": "Regular, planificar y controlar el transporte terrestre, tránsito y seguridad vial en el territorio nacional", "correcta": true },
+        { "id": "reg_285_r3", "contestacion": "Ejercer la rectoría, regulación, planificación, coordinación, control y gestión de la Salud Pública ecuatoriana", "correcta": false }
+    ]
+
+}, {
+    "identificador": "reg_286",
+    "pregunta": "286. Las y los ciudadanos que conduzcan portando una licencia extranjera que no consten en la base de datos nacional deberán:",
+    "respuestas": [
+        { "id": "reg_286_r1", "contestacion": "Cancelar las obligaciones provenientes del cometimiento de infracciones de tránsito dentro del territorio nacional, en las entidades competentes.", "correcta": true },
+        { "id": "reg_286_r2", "contestacion": "Solicitar a un Agente Civil de Tránsito el registro respectivo", "correcta": false },
+        { "id": "reg_286_r3", "contestacion": "todas las anteriores", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_287",
+    "pregunta": "287. Los exámenes teóricos que rindan los aspirantes a la obtención, renovación y recategorización de las licencias de conducir, serán:",
+    "respuestas": [
+        { "id": "reg_287_r1", "contestacion": "De conocimientos generales", "correcta": false },
+        { "id": "reg_287_r2", "contestacion": "Aleatorios y pertinentes a la materia de Transporte Terrestre, Tránsito y Seguridad Vial.", "correcta": true },
+        { "id": "reg_287_r3", "contestacion": "De señales de tránsito", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_288",
+    "pregunta": "288. Los vehículos de las entidades de seguridad y emergencia en cumplimiento de su misión específica podrán:",
+    "respuestas": [
+        { "id": "reg_288_r1", "contestacion": "Estacionarse o detenerse en la medida necesaria en cualquier vía", "correcta": false },
+        { "id": "reg_288_r2", "contestacion": "Circular a la velocidad conveniente y aún invadir las calles de una sola vía", "correcta": false },
+        { "id": "reg_288_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_289",
+    "pregunta": "289. Todos los vehículos deberán tener cinturones de seguridad para",
+    "respuestas": [
+        { "id": "reg_289_r1", "contestacion": "Para los pasajeros", "correcta": false },
+        { "id": "reg_289_r2", "contestacion": "Para el conductor", "correcta": false },
+        { "id": "reg_289_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_290",
+    "pregunta": "290. Uno de los objetivos de la Ley de Transporte Terrestre Tránsito y Seguridad Vial, es:",
+    "respuestas": [
+        { "id": "reg_289_r1", "contestacion": "Definir sus principios, garantizar el derecho a la educación superior de calidad que propenda a la excelencia", "correcta": false },
+        { "id": "reg_289_r2", "contestacion": "Contribuir al desarrollo del País a través de la formulación de políticas, regulaciones, planes, programas y proyectos, que garanticen el buen vivir", "correcta": false },
+        { "id": "reg_289_r3", "contestacion": "El establecimiento de programas de capacitación y difusión para conductores, peatones, pasajeros y autoridades, en materia de seguridad vial, para la creación de una cultura y conciencia vial responsable y solidaria", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_291",
+    "pregunta": "291. La tipificación y juzgamiento de las infracciones al tránsito, los procedimientos y sanciones administrativas y judiciales es un objetivo del:",
+    "respuestas": [
+        { "id": "reg_291_r1", "contestacion": "Código Orgánico Administrativo", "correcta": false },
+        { "id": "reg_291_r2", "contestacion": "Código Orgánico de Organización Territorial", "correcta": false },
+        { "id": "reg_291_r3", "contestacion": "Código Orgánico Integral Penal", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_292",
+    "pregunta": "292. ¿Con cuántos puntos son otorgadas las licencias de conducir y qué vigencia tienen?",
+    "respuestas": [
+        { "id": "reg_292_r1", "contestacion": "Cuarenta puntos con vigencia de cinco años", "correcta": false },
+        { "id": "reg_292_r2", "contestacion": "Treinta puntos para su plazo regular de vigencia de seis años", "correcta": false },
+        { "id": "reg_292_r3", "contestacion": "Treinta puntos para su plazo regular de vigencia de cinco años", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_293",
+    "pregunta": "293. El sistema de reducción de puntaje aplicado a las licencias de conducir se aplica cuando:",
+    "respuestas": [
+        { "id": "reg_293_r1", "contestacion": "Se reprueba los exámenes de las escuelas de conducción", "correcta": false },
+        { "id": "reg_293_r2", "contestacion": "Se reprueba los exámenes de la Agencia Nacional de Tránsito", "correcta": false },
+        { "id": "reg_293_r3", "contestacion": "Se comete una contravención de tránsito de primera y segunda clase", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_294",
+    "pregunta": "294. Como parte del curso de capacitación para la obtención de la licencia de conducir o para su renovación, será obligatorio conocer:",
+    "respuestas": [
+        { "id": "reg_294_r1", "contestacion": "El Manual del Respeto al Biciusuario", "correcta": true },
+        { "id": "reg_294_r2", "contestacion": "El Manual de buenos modales", "correcta": false },
+        { "id": "reg_294_r3", "contestacion": "Todas las anteriores", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_295",
+    "pregunta": "295. Las contravenciones detectadas por medios electrónicos y/o tecnológicos podrán ser notificadas por:",
+    "respuestas": [
+        { "id": "reg_295_r1", "contestacion": "Por cualquier medio electrónico y/o tecnológico y podrán ser impugnadas en el término de tres días, contados a partir de la notificación", "correcta": true },
+        { "id": "reg_295_r2", "contestacion": "Solo por el Agente Civil de Tránsito de forma presencial", "correcta": false },
+        { "id": "reg_295_r3", "contestacion": "Todas las anteriores", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_296",
+    "pregunta": "296. El Estado garantizará los medios necesarios para que las personas puedan elegir libremente el medio y la forma de trasladarse a fin de acceder a los bienes y servicios, con los límites establecidos",
+    "respuestas": [
+        { "id": "reg_296_r1", "contestacion": "Sí, siempre", "correcta": true },
+        { "id": "reg_296_r2", "contestacion": "No", "correcta": false },
+        { "id": "reg_296_r3", "contestacion": "Sí, solo en ocasiones especiales", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_297",
+    "pregunta": "297. ¿Qué contenido audiovisual deben transmitir en los medios de transporte público?",
+    "respuestas": [
+        { "id": "reg_297_r1", "contestacion": "Música y películas de acción y violencia", "correcta": false },
+        { "id": "reg_297_r2", "contestacion": "Turismo, cultura de paz, inclusión, no discriminación, y buenas prácticas de comportamiento en el espacio público", "correcta": true },
+        { "id": "reg_297_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_298",
+    "pregunta": "298. ¿De quién es la responsabilidad de realizar el proceso de traspaso de dominio del vehículo?",
+    "respuestas": [
+        { "id": "reg_298_r1", "contestacion": "El notario", "correcta": false },
+        { "id": "reg_298_r2", "contestacion": "El vendedor", "correcta": false },
+        { "id": "reg_298_r3", "contestacion": "El comprador", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_299",
+    "pregunta": "299. ¿Quién es el encargado de garantizar el acceso al servicio de transporte terrestre, sin distinción de ninguna naturaleza, conforme a lo establecido en la Constitución de la República y las leyes pertinentes?",
+    "respuestas": [
+        { "id": "reg_299_r1", "contestacion": "Lo Gobiernos Autónomos Descentralizados", "correcta": false },
+        { "id": "reg_299_r2", "contestacion": "El Estado", "correcta": true },
+        { "id": "reg_299_r3", "contestacion": "La Agencia Nacional de Tránsito", "correcta": false }
+    ]
+
+}, {
+    "identificador": "reg_300",
+    "pregunta": "300. ¿Qué ventajas presentan los automóviles híbridos?",
+    "respuestas": [
+        { "id": "reg_300_r1", "contestacion": "Cambios de aceites cada año y menos mantenimientos", "correcta": false },
+        { "id": "reg_300_r2", "contestacion": "Menor consumo de combustible y menos contaminación", "correcta": true },
+        { "id": "reg_300_r3", "contestacion": "Repuestos más económicos y más fáciles de conseguir", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_301",
+    "pregunta": "301. ¿Qué ocurre en los casos de infracciones de tránsito donde no haya sido posible determinar la identidad del conductor?",
+    "respuestas": [
+        { "id": "reg_301_r1", "contestacion": "No se aplicará rebaja de puntos en la licencia", "correcta": false },
+        { "id": "reg_301_r2", "contestacion": "Se aplicará la sanción pecuniaria que recaerá sobre el propietario del vehículo.", "correcta": false },
+        { "id": "reg_301_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_302",
+    "pregunta": "302. ¿Quiénes serán los encargados de la capacitación para la recuperación de puntos en las licencias de conducir?",
+    "respuestas": [
+        { "id": "reg_302_r1", "contestacion": "Escuelas de conducción e instituciones de educación superior con especialización en transporte terrestre, tránsito y seguridad vial debidamente autorizadas", "correcta": true },
+        { "id": "reg_302_r2", "contestacion": "La Agencia Nacional del Tránsito", "correcta": false },
+        { "id": "reg_302_r3", "contestacion": "Todas las anteriores", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_303",
+    "pregunta": "303. ¿Quiénes serán los encargados de la capacitación para la recuperación de puntos en las licencias de conducir?",
+    "respuestas": [
+        { "id": "reg_302_r1", "contestacion": "Escuelas de conducción e instituciones de educación superior con especialización en transporte terrestre, tránsito y seguridad vial debidamente autorizadas", "correcta": false },
+        { "id": "reg_302_r2", "contestacion": "La Agencia Nacional del Tránsito", "correcta": false },
+        { "id": "reg_302_r3", "contestacion": "Todas las anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_304",
+    "pregunta": "304. ¿Con que finalidad se creó el Sistema Público para Pago de Accidentes de Tránsito (SPPAT):",
+    "respuestas": [
+        { "id": "reg_304_r1", "contestacion": "Para garantizar la protección de las personas que se trasladan de un lugar a otro por la red vial del territorio ecuatoriano.", "correcta": true },
+        { "id": "reg_304_r2", "contestacion": "Para garantizar la protección de los vehículos que se trasladan de un lugar a otro por la red vial del territorio ecuatoriano.", "correcta": false },
+        { "id": "reg_304_r3", "contestacion": "Ninguna de las anteriores.", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_305",
+    "pregunta": "305. ¿El SPPAT sustituye las responsabilidades civiles originadas por los causantes de los accidentes?",
+    "respuestas": [
+        { "id": "reg_305_r1", "contestacion": "NO", "correcta": true },
+        { "id": "reg_305_r2", "contestacion": "SI", "correcta": false },
+        { "id": "reg_305_r3", "contestacion": "Solo si el causante del siniestro fallece", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_306",
+    "pregunta": "306. De acuerdo a la normativa, ¿dónde tienen derecho a circular los ciclistas?",
+    "respuestas": [
+        { "id": "reg_306_r1", "contestacion": "Únicamente en las sendas especiales destinadas al uso de bicicletas", "correcta": false },
+        { "id": "reg_306_r2", "contestacion": "En las aceras, con cuidado respectivo a los peatones", "correcta": false },
+        { "id": "reg_306_r3", "contestacion": "En las vías de circulación privilegiada dentro de las ciudades y en las carreteras, como ciclovías y espacios similares.", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_307",
+    "pregunta": "307. En un estacionamiento cuesta arriba, ¿cómo debe parquear su vehículo?",
+    "respuestas": [
+        { "id": "reg_307_r1", "contestacion": "Girar las ruedas hacia el bordillo", "correcta": false },
+        { "id": "reg_307_r2", "contestacion": "Girar las ruedas hacia fuera del bordillo", "correcta": false },
+        { "id": "reg_307_r3", "contestacion": "Dejar las ruedas en posición recta", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_308",
+    "pregunta": "308. ¿Qué permite la carrocería deformable?",
+    "respuestas": [
+        { "id": "reg_308_r1", "contestacion": "Una mayor seguridad para el ocupante del vehículo en el momento de una colisión", "correcta": true },
+        { "id": "reg_308_r2", "contestacion": "Un menor peso total del vehículo", "correcta": false },
+        { "id": "reg_308_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_309",
+    "pregunta": "309. ¿Cuál puede ser la consecuencia de realizar maniobras temerarias y/o bruscas al conducir?",
+    "respuestas": [
+        { "id": "reg_309_r1", "contestacion": "Causar confusión a los demás conductores", "correcta": false },
+        { "id": "reg_309_r2", "contestacion": "Causar siniestros fatales", "correcta": true },
+        { "id": "reg_309_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_310",
+    "pregunta": "310. ¿Cuál es el concepto cuando una persona sabe conducir y se evidencia que conoce las leyes y técnicas que le permiten controlar el vehículo y conducirlo?",
+    "respuestas": [
+        { "id": "reg_310_r1", "contestacion": "Relación sujeto - comunidad", "correcta": false },
+        { "id": "reg_310_r2", "contestacion": "Relación comunidad", "correcta": false },
+        { "id": "reg_310_r3", "contestacion": "Relación sujeto – vehículo", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_311",
+    "pregunta": "311. Estar atento, observando las actitudes de los usuarios de la vía pública y mantener el control pleno del vehículo, significa:",
+    "respuestas": [
+        { "id": "reg_311_r1", "contestacion": "Conducir a la defensiva", "correcta": false },
+        { "id": "reg_311_r2", "contestacion": "Conducir con seguridad", "correcta": true },
+        { "id": "reg_311_r3", "contestacion": "Cumplir con la Ley", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_312",
+    "pregunta": "312. El exceso de velocidad podría ocasionar:",
+    "respuestas": [
+        { "id": "reg_312_r1", "contestacion": "Pérdida de control del vehículo", "correcta": false },
+        { "id": "reg_312_r2", "contestacion": "Siniestros de tránsito", "correcta": false },
+        { "id": "reg_312_r3", "contestacion": "Todas la anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_313",
+    "pregunta": "313. ¿Para conducción nocturna segura que se debería considerar?",
+    "respuestas": [
+        { "id": "reg_313_r1", "contestacion": "Revisar que las llantas estén en buen estado", "correcta": false },
+        { "id": "reg_313_r2", "contestacion": "Revisar el sistema eléctrico y las luces frontales alineadas", "correcta": true },
+        { "id": "reg_313_r3", "contestacion": "Poner luces altas", "correcta": false }
+    ]
+
+}, {
+    "identificador": "reg_314",
+    "pregunta": "314. Cuando en una vía el descenso es muy prolongado, ¿cómo debe conducir su vehículo?",
+    "respuestas": [
+        { "id": "reg_314_r1", "contestacion": "Utilizando todo el tiempo el freno", "correcta": false },
+        { "id": "reg_314_r2", "contestacion": "Utilizando una marcha de velocidad más corta", "correcta": true },
+        { "id": "reg_314_r3", "contestacion": "Utilizar el embrague", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_315",
+    "pregunta": "315. ¿Qué sucede cuando usted circula por una vía de lastre?",
+    "respuestas": [
+        { "id": "reg_315_r1", "contestacion": "La inconsistencia del camino hace totalmente inestable la circulación", "correcta": true },
+        { "id": "reg_315_r2", "contestacion": "Se desinflan las llantas", "correcta": false },
+        { "id": "reg_315_r3", "contestacion": "Se adhieren las llantas al piso", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_316",
+    "pregunta": "316. ¿Qué factores afectan las condiciones físicas al conducir?",
+    "respuestas": [
+        { "id": "reg_316_r1", "contestacion": "Una vía en mal estado", "correcta": false },
+        { "id": "reg_316_r2", "contestacion": "El cansancio, las bebidas alcohólicas, uso del teléfono celular, medicamentos y drogas", "correcta": true },
+        { "id": "reg_316_r3", "contestacion": "El exceso de tráfico en las vías", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_317",
+    "pregunta": "317. En un pavimento mojado, influye el estado de las llantas en la distancia de frenado del vehículo:",
+    "respuestas": [
+        { "id": "reg_317_r1", "contestacion": "No, la distancia de frenado depende sólo de la velocidad", "correcta": false },
+        { "id": "reg_317_r2", "contestacion": "Sí, a mayor desgaste de las llantas menor es dicha distancia", "correcta": false },
+        { "id": "reg_317_r3", "contestacion": "Sí, porque el mayor o menor desgaste de las llantas, entre otros factores, determinará que dicha distancia sea mayor o menor", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_318",
+    "pregunta": "318. ¿En qué lugar no podría causar daño u obstrucción a otros usuarios de la vía para estacionar su vehículo en caso de emergencia?",
+    "respuestas": [
+        { "id": "reg_318_r1", "contestacion": "Frente a una entrada de autos de una propiedad", "correcta": false },
+        { "id": "reg_318_r2", "contestacion": "En una curva pronunciada", "correcta": false },
+        { "id": "reg_318_r3", "contestacion": "En un espacio delimitado para estacionar sobre el lado derecho de la berma", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_319",
+    "pregunta": "319. Si está conduciendo en una carretera a la velocidad máxima permitida y el conductor que viene detrás está tratando de adelantarlo, ¿Qué haría usted?",
+    "respuestas": [
+        { "id": "reg_319_r1", "contestacion": "Le hace señales al conductor de atrás para que lo adelante, cuando sea seguro hacerlo", "correcta": false },
+        { "id": "reg_319_r2", "contestacion": "Acelera para alejarse del conductor de atrás", "correcta": false },
+        { "id": "reg_319_r3", "contestacion": "Mantiene la velocidad y permite el adelantamiento", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_320",
+    "pregunta": "320. Cuando conduce, ¿qué documentos está obligado a portar usted siempre en su vehículo?",
+    "respuestas": [
+        { "id": "reg_320_r1", "contestacion": "La matrícula del vehículo", "correcta": false },
+        { "id": "reg_320_r2", "contestacion": "La licencia de conducir", "correcta": false },
+        { "id": "reg_320_r3", "contestacion": "Todos los anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_321",
+    "pregunta": "321. ¿En qué lugares las indicaciones de los agentes de tránsito prevalecen sobre dispositivos reguladores y señales de tránsito?",
+    "respuestas": [
+        { "id": "reg_321_r1", "contestacion": "Únicamente en las vías dentro del perímetro urbano", "correcta": false },
+        { "id": "reg_321_r2", "contestacion": "Únicamente en las vías fuera del perímetro urbano", "correcta": false },
+        { "id": "reg_321_r3", "contestacion": "En todas las vías del país", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_322",
+    "pregunta": "322. Si un bus escolar que va delante de usted y está detenido con luces rojas intermitentes. Usted debe:, ",
+    "respuestas": [
+        { "id": "reg_322_r1", "contestacion": "Detenerse mientras las luces rojas sigan encendidas", "correcta": true },
+        { "id": "reg_322_r2", "contestacion": "Bajar la velocidad y adelantar con cuidado", "correcta": false },
+        { "id": "reg_322_r3", "contestacion": "Detenerse y luego continuar cuando piense que los niños han bajado del autobús", "correcta": false }
+    ]
+
+}, {
+    "identificador": "reg_323",
+    "pregunta": "323. Cuando cambie de carril en una autopista, usted debe:",
+    "respuestas": [
+        { "id": "reg_323_r1", "contestacion": "Asumir que hay suficiente espacio para su vehículo si enciende las luces direccionales primero", "correcta": false },
+        { "id": "reg_323_r2", "contestacion": "Bajar la velocidad antes de empezar a cambiar de carril", "correcta": false },
+        { "id": "reg_323_r3", "contestacion": "Encender las luces direccionales al menos por 5 segundos", "correcta": true }
+    ]
+
+}, {
+    "identificador": "reg_324",
+    "pregunta": "324. La posición del asiento del conductor debe verificarse o ajustarse:",
+    "respuestas": [
+        { "id": "reg_324_r1", "contestacion": "No es necesario ajustarla siempre", "correcta": false },
+        { "id": "reg_324_r2", "contestacion": "Cuando se estacione en una pendiente", "correcta": false },
+        { "id": "reg_324_r3", "contestacion": "Cada vez que se prepare para conducir, antes de encender el motor", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_325",
+    "pregunta": "325. El denominado triángulo fundamental de seguridad activa se denomina al conjunto de:",
+    "respuestas": [
+        { "id": "reg_325_r1", "contestacion": "Frenos, llantas y dirección", "correcta": false },
+        { "id": "reg_325_r2", "contestacion": "Llantas, frenos y escape", "correcta": false },
+        { "id": "reg_325_r3", "contestacion": "Frenos, llantas y amortiguadores", "correcta": true }
+    ]
+
+}, {
+    "identificador": "reg_326",
+    "pregunta": "326. ¿En qué momento se debe utilizar el triángulo de seguridad?",
+    "respuestas": [
+        { "id": "reg_326_r1", "contestacion": "Cuando el vehículo se encuentra detenido en la calzada por un desperfecto mecánico", "correcta": true },
+        { "id": "reg_326_r2", "contestacion": "Cuando el vehículo se encuentra estacionado en un paso cebra", "correcta": false },
+        { "id": "reg_326_r3", "contestacion": "Cuando el vehículo se encuentra estacionado en zonas de parqueo tarifado", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_327",
+    "pregunta": "327. ¿Puede un niño viajar en los brazos de un adulto?",
+    "respuestas": [
+        { "id": "reg_327_r1", "contestacion": "No, nunca", "correcta": true },
+        { "id": "reg_327_r2", "contestacion": "Sí, si el viaje es en la ciudad", "correcta": false },
+        { "id": "reg_327_r3", "contestacion": "Sí, es más seguro", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_328",
+    "pregunta": "328. ¿Qué significan las tachas (ojos de gato) rojas al costado de la vía?",
+    "respuestas": [
+        { "id": "reg_328_r1", "contestacion": "Estacionamiento", "correcta": false },
+        { "id": "reg_328_r2", "contestacion": "Precaución", "correcta": false },
+        { "id": "reg_328_r3", "contestacion": "Peligro, no deben ser cruzadas", "correcta": true }
+    ]
+}, {
+    "identificador": "reg_329",
+    "pregunta": "329. ¿Qué significan las tachas (ojos de gato) blancas al costado de la vía?",
+    "respuestas": [
+        { "id": "reg_329_r1", "contestacion": "Separación de carriles de circulación", "correcta": false },
+        { "id": "reg_329_r2", "contestacion": "Separación de calzada y berma", "correcta": true },
+        { "id": "reg_329_r3", "contestacion": "Separación de calzada y parterre", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_330",
+    "pregunta": "330. ¿Qué significan las tachas (ojos de gato) amarillas al costado de la vía?",
+    "respuestas": [
+        { "id": "reg_330_r1", "contestacion": "Precaución", "correcta": true },
+        { "id": "reg_330_r2", "contestacion": "Peligro", "correcta": false },
+        { "id": "reg_330_r3", "contestacion": "Estacionamiento", "correcta": false }
+    ]
+}, {
+    "identificador": "reg_331",
+    "pregunta": "331. ¿Qué referencia debe tomarse en cuenta para regular la altura del apoya cabeza?",
+    "respuestas": [
+        { "id": "reg_330_r1", "contestacion": "A la altura del nivel de los ojos", "correcta": true },
+        { "id": "reg_330_r2", "contestacion": "El tamaño del asiento", "correcta": false },
+        { "id": "reg_330_r3", "contestacion": "La comodidad del conductor", "correcta": false }
+    ]
+}]

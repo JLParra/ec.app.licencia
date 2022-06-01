@@ -1,0 +1,67 @@
+[{
+    "identificador": "mec_332",
+    "pregunta": "332. ¿Qué se define como fatiga de los frenos?",
+    "respuestas": [
+        { "id": "mec_332_r1", "contestacion": "Endurecimiento de los frenos", "correcta": false },
+        { "id": "mec_332_r2", "contestacion": "Reducción del efecto de los frenos", "correcta": true },
+        { "id": "mec_332_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
+    ]
+}, {
+    "identificador": "mec_333",
+    "pregunta": "333. ¿De qué artefactos deberán disponer todos los vehículos motorizados?",
+    "respuestas": [
+        { "id": "mec_333_r1", "contestacion": "Caja de herramienta básica", "correcta": false },
+        { "id": "mec_333_r2", "contestacion": "Triángulos de Seguridad", "correcta": false },
+        { "id": "mec_333_r3", "contestacion": "Todos los anteriores", "correcta": true }
+    ]
+}, {
+    "identificador": "mec_334",
+    "pregunta": "334. ¿Qué provoca la emisión de ruidos anormales al frenar?",
+    "respuestas": [
+        { "id": "mec_334_r1", "contestacion": "El exceso de peso en el automotor", "correcta": false },
+        { "id": "mec_334_r2", "contestacion": "El desgaste de zapatas y pastillas", "correcta": true },
+        { "id": "mec_334_r3", "contestacion": "Falta de lubricación en los frenos", "correcta": false }
+    ]
+
+}, {
+    "identificador": "mec_335",
+    "pregunta": "335. El mantenimiento preventivo es aquel donde:",
+    "respuestas": [
+        { "id": "mec_335_r1", "contestacion": "Se reparan las diferentes partes del vehículo en el momento en que dejan de funcionar o empiezan a fallar", "correcta": false },
+        { "id": "mec_335_r2", "contestacion": "Se siguen las instrucciones del fabricante, que se detallan en el manual de usuario por tipo de servicio y los espacios de tiempo en que deben realizarse las operaciones de mantenimiento", "correcta": true },
+        { "id": "mec_335_r3", "contestacion": "Se realizan diagnósticos o mediciones que permiten predecir si es necesario realizar correcciones o ajustes antes de que ocurra una falla", "correcta": false }
+    ]
+}, {
+    "identificador": "mec_336",
+    "pregunta": "336. Realizar un adecuado mantenimiento correctivo, permite:",
+    "respuestas": [
+        { "id": "mec_336_r1", "contestacion": "Realizar diagnósticos o mediciones que me permitirán predecir si es necesario realizar correcciones o ajustes antes que ocurra una falla", "correcta": false },
+        { "id": "mec_336_r2", "contestacion": "Reparar las diferentes partes del vehículo en el momento en que dejan de funcionar o empiezan a fallar", "correcta": true },
+        { "id": "mec_336_r3", "contestacion": "Llevar un registro de servicio y los espacios de tiempo en que deben realizarse las operaciones de mantenimiento", "correcta": false }
+    ]
+
+}, {
+    "identificador": "mec_337",
+    "pregunta": "337. El sistema que permite detener el vehículo a voluntad del conductor se llama:",
+    "respuestas": [
+        { "id": "mec_337_r1", "contestacion": "Sistema de cambios", "correcta": false },
+        { "id": "mec_337_r2", "contestacion": "Sistema de encendido", "correcta": false },
+        { "id": "mec_337_r3", "contestacion": "Sistema de frenos", "correcta": true }
+    ]
+}, {
+    "identificador": "mec_338",
+    "pregunta": "338. El sistema de frenos que evita que las ruedas se bloqueen y exista patinaje se llama:",
+    "respuestas": [
+        { "id": "mec_338_r1", "contestacion": "ABC", "correcta": false },
+        { "id": "mec_338_r2", "contestacion": "ABS", "correcta": true },
+        { "id": "mec_338_r3", "contestacion": "ARS", "correcta": false }
+    ]
+}, {
+    "identificador": "mec_339",
+    "pregunta": "339. ¿Cómo puede notar que hay un calentamiento excesivo de los frenos?",
+    "respuestas": [
+        { "id": "mec_339_r1", "contestacion": "Cuando hay que presionar más fuerte el pedal para frenar", "correcta": true },
+        { "id": "mec_339_r2", "contestacion": "Cuando al presionar el pedal éste se va al fondo con facilidad", "correcta": false },
+        { "id": "mec_339_r3", "contestacion": "Cuando al presionar el pedal siente una sensación blanda", "correcta": false }
+    ]
+}]
