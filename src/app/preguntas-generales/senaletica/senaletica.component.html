@@ -1,0 +1,78 @@
+<br>
+<div *ngIf="finish" id="arriba">
+    <h4 class="alert-heading">Respuestas</h4>
+
+    <div class="alert alert-success" role="alert" *ngIf="Correctas > 0">
+        <h4 class="alert-heading">Correctas {{Correctas}} de {{preguntasSeleccionadas.length}}</h4>
+    </div>
+    <div class="alert alert-danger" role="alert" *ngIf="Incorrectas.length">
+        <h4 class="alert-heading">Incorrectas {{Incorrectas.length}} de {{preguntasSeleccionadas.length}}</h4>
+        <hr>
+
+        <div class="accordion" id="accordionExample">
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingOne">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                        Respuestas correctas
+                    </button>
+                </h2>
+                <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample" style="">
+                    <div class="accordion-body">
+
+                        <div *ngFor="let pregunta of Incorrectas">
+                            <p class="mb-2"> <strong>{{ pregunta.pregunta | json }}</strong></p>
+                            <img [src]="pregunta.imagen" alt="" class="small-flag mb-1">
+                            <div *ngFor="let respuesta of pregunta.respuestas">
+                                <p class="mb-0" *ngIf="respuesta.correcta"><strong>Respuesta correcta:</strong> {{respuesta.contestacion}}
+                                </p>
+                            </div>
+                            <br>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+
+<div class="mt-2" *ngFor="let pregunta of preguntasSeleccionadas">
+
+    <h4 class="mb-3">{{ pregunta.pregunta | json }}</h4>
+    <div class="row g-0">
+        <div class="col-sm-6 col-md-8">
+            <div *ngFor="let respuesta of pregunta.respuestas">
+                <div class="form-check ">
+
+                    <input class="form-check-input" type="radio" [name]="pregunta.identificador" [checked]="false" id="respuesta.id" [value]="respuesta.id" (change)="seleccionar($event)">
+                    <label class="form-check-label">
+                        {{respuesta.contestacion | json}}
+                    </label>
+                </div>
+            </div>
+        </div>
+        <div class="col-6 col-md-4">
+            <img [src]="pregunta.imagen" alt="" class="small-flag">
+            <!-- <img src="../../../assets/imagen/img19.PNG" alt="" class="small-flag"> -->
+        </div>
+    </div>
+
+
+    <hr>
+
+
+</div>
+
+<div class="justify-content-evenly .px-2">
+
+
+</div>
+
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-6 col-sm-6 col-md-4"> <button class="btn btn-danger" (click)="finalizar()">Finalizar</button></div>
+        <div class="col-6 col-sm-6 col-md-4"> <button (click)="cargarPreguntas()" class="btn btn-primary me-2">Empezar</button></div>
+    </div>
+</div>
