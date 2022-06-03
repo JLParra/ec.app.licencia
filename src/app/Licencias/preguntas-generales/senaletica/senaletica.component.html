@@ -1,5 +1,5 @@
 <br>
-<div *ngIf="finish" id="arriba">
+<div *ngIf="finish">
     <app-mensaje [preguntasSeleccionadas]="preguntasSeleccionadas" [contador]="Correctas" [Incorrectas]="Incorrectas"></app-mensaje>
 </div>
 
@@ -8,7 +8,7 @@
 </div>
 
 
-<div class="container">
+<div class="container" *ngIf="preguntasSeleccionadas.length > 0">
     <div class="row justify-content-center">
         <div class="col-6 col-sm-6 col-md-4"> <button class="btn btn-danger" (click)="finalizar()">Finalizar</button></div>
         <div class="col-6 col-sm-6 col-md-4"> <button (click)="cargarPreguntas()" class="btn btn-primary me-2">Empezar</button></div>

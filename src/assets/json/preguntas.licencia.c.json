@@ -1,0 +1,293 @@
+[{
+        "identificador": "lic_001",
+        "pregunta": "1. En una vía urbana, ¿cuál es el límite máximo de velocidad en el que debe circular un vehículo liviano?",
+        "respuestas": [
+            { "id": "lia_001_r1", "contestacion": "a. 40 Km/h", "correcta": false },
+            { "id": "lia_001_r2", "contestacion": "b. 50 Km/h", "correcta": true },
+            { "id": "lia_001_r3", "contestacion": "c. 60 Km/h", "correcta": false }
+        ]
+    },
+    {
+        "identificador": "lic_002",
+        "pregunta": "2. En una vía urbana, ¿A que velocidad se considera que un vehículo liviano está circulando dentro del rango moderado?",
+        "respuestas": [
+            { "id": "lic_002_r1", "contestacion": "a. 40 Km/h", "correcta": false },
+            { "id": "lic_002_r2", "contestacion": "b. 50 Km/h", "correcta": true },
+            { "id": "lic_002_r3", "contestacion": "c. 60 Km/h", "correcta": false }
+        ]
+    }, {
+        "identificador": "lic_003",
+        "pregunta": "3. En una vía perimetral, ¿cuál es el límite máximo de velocidad en el que debe circular un vehículo liviano?",
+        "respuestas": [
+            { "id": "lic_003_r1", "contestacion": "a. 80 Km/h", "correcta": false },
+            { "id": "lic_003_r2", "contestacion": "b. 90 Km/h", "correcta": true },
+            { "id": "lic_003_r3", "contestacion": "c. 95 Km/h", "correcta": false }
+        ]
+    }, {
+        "identificador": "lic_004",
+        "pregunta": "4. En una vía perimetral, ¿A que velocidad se considera que un vehículo liviano está circulando dentro del rango moderado?",
+        "respuestas": [
+            { "id": "lic_004_r1", "contestacion": "a. 90 km/h hasta 100 Km/h", "correcta": false },
+            { "id": "lic_004_r2", "contestacion": "b. 90 Km/h hasta 110 Km/h", "correcta": false },
+            { "id": "lic_004_r3", "contestacion": "c. 90 Km/h hasta 120 Km/h", "correcta": true }
+        ]
+    }, {
+        "identificador": "lic_005",
+        "pregunta": "5. En vías rectas, ¿cuál es el límite máximo de velocidad en el que debe circular un vehículo liviano?",
+        "respuestas": [
+            { "id": "lic_005_r1", "contestacion": "a. 80 Km/h", "correcta": false },
+            { "id": "lic_005_r2", "contestacion": "b. 90 Km/h", "correcta": false },
+            { "id": "lic_005_r3", "contestacion": "c. 100 Km/h", "correcta": true }
+        ]
+    }, {
+        "identificador": "lic_006",
+        "pregunta": "6. En vías rectas, ¿A que velocidad se considera que un vehículo liviano está circulando dentro del rango moderado?",
+        "respuestas": [
+            { "id": "lic_006_r1", "contestacion": "a. 100 Km/h hasta 125 Km/h", "correcta": false },
+            { "id": "lic_006_r2", "contestacion": "b. 100 km/h hasta 130 km/h", "correcta": false },
+            { "id": "lic_006_r3", "contestacion": "c. 100 km/h hasta 135 Km/h", "correcta": true }
+        ]
+    }, {
+        "identificador": "lic_007",
+        "pregunta": "7. En curvas, ¿cuál es el límite máximo de velocidad en el que debe circular un vehículo liviano?",
+        "respuestas": [
+            { "id": "lic_007_r1", "contestacion": "a. 50 Km/h", "correcta": false },
+            { "id": "lic_007_r2", "contestacion": "b. 60 Km/h", "correcta": true },
+            { "id": "lic_007_r3", "contestacion": "c. 70 Km/h", "correcta": false }
+        ]
+    }, {
+        "identificador": "lic_008",
+        "pregunta": "8. En curvas, ¿cuál es el límite máximo de velocidad en el que debe circular un vehículo liviano?",
+        "respuestas": [
+            { "id": "lic_008_r1", "contestacion": "a. 60 Km/h hasta 65 Km/h", "correcta": false },
+            { "id": "lic_008_r2", "contestacion": "b. 60 Km/h hasta 70 Km/h", "correcta": false },
+            { "id": "lic_008_r3", "contestacion": "c. 60 Km/h hasta 75 Km/h", "correcta": true }
+        ]
+    }, {
+        "identificador": "lic_009",
+        "pregunta": "9. ¿De los siguientes enunciados cual corresponde a una Contravención de Tránsito?",
+        "respuestas": [
+            { "id": "lic_009_r1", "contestacion": "a. La o el conductor de transporte por cuenta propia o comercial que cumpla el número de pasajeros o volumen de carga de capacidad del automotor", "correcta": false },
+            { "id": "lic_009_r2", "contestacion": "b. La o el conductor de transporte por cuenta propia o comercial que exceda el número de pasajeros o volumen de carga de capacidad del automotor", "correcta": true },
+            { "id": "lic_009_r3", "contestacion": "c. La o el conductor de transporte por cuenta propia o comercial que conduzca un vehículo debidamente homologado", "correcta": false }
+        ]
+    }, {
+        "identificador": "lic_010",
+        "pregunta": "10. ¿De los siguientes enunciados cual corresponde a una Contravención de Tránsito?",
+        "respuestas": [
+            { "id": "lic_010_r1", "contestacion": "a. La o el conductor de un taxi, que utilice el taxímetro debidamente homologado", "correcta": false },
+            { "id": "lic_010_r2", "contestacion": "b. La o el conductor de un taxi, que ubique el taxímetro en el lugar especificado por los Organismos de Control de Tránsito", "correcta": false },
+            { "id": "lic_010_r3", "contestacion": "c. La o el conductor de un taxi, que no utilice el taxímetro las veinticuatro horas, altere su funcionamiento o no lo ubique en un lugar visible al usuario", "correcta": true }
+        ]
+    }, {
+        "identificador": "lic_011",
+        "pregunta": "11. ¿De los siguientes enunciados cual corresponde a una Contravención de Tránsito?",
+        "respuestas": [
+            { "id": "lic_011_r1", "contestacion": "a. Es un servicio de transporte que satisface las necesidades propias de transporte de sus propietarios, sin fines de lucro mediante el uso de su(s) propio(s) vehículo(s), o vehículo(s) alquilado(s)", "correcta": false },
+            { "id": "lic_011_r2", "contestacion": "b. Es un servicio que satisface necesidades de movilización de personas o bienes, dentro del ámbito de las actividades comerciales exclusivas de las personas naturales y/o jurídicas, mediante el uso de su(s) propio(s) vehículo(s), o vehículo(s) alquilado(s) ", "correcta": true },
+            { "id": "lic_011_r3", "contestacion": "c. Es un servicio de transporte que satisface a terceras personas y/o bienes, de un lugar a otro, dentro del ámbito legal pertinente mediante el uso de su(s) propio(s) vehículo(s), o vehículo(s) alquilado(s)", "correcta": false }
+        ]
+    }, {
+        "identificador": "lic_012",
+        "pregunta": "12. ¿Cuál es la capacidad de un taxi convencional?",
+        "respuestas": [
+            { "id": "lic_012_r1", "contestacion": "a. Cinco pasajeros sin incluir al conductor", "correcta": false },
+            { "id": "lic_012_r2", "contestacion": "b. Cinco pasajeros, incluido el conductor", "correcta": true },
+            { "id": "lic_012_r3", "contestacion": "c. Cuatro pasajeros incluido el conductor", "correcta": false }
+        ]
+    }, {
+        "identificador": "lic_013",
+        "pregunta": "13. ¿Cuál es el título habilitante mediante el cual se autoriza la prestación de servicios de transporte?",
+        "respuestas": [
+            { "id": "lic_013_r1", "contestacion": "a. Constitución Jurídica", "correcta": false },
+            { "id": "lic_013_r2", "contestacion": "b. Documento emitido por la operadora", "correcta": false },
+            { "id": "lic_013_r3", "contestacion": "c. Permiso de Operación y Contrato de Operación", "correcta": true }
+        ]
+    }, {
+        "identificador": "lic_014",
+        "pregunta": "14. ¿Dónde debe estar instalado el taxímetro?",
+        "respuestas": [
+            { "id": "lic_014_r1", "contestacion": "a. Detrás de la palanca de cambios", "correcta": false },
+            { "id": "lic_014_r2", "contestacion": "b. En un sitio visible para los pasajeros", "correcta": true },
+            { "id": "lic_014_r3", "contestacion": "c. En un sitio visible para el conductor", "correcta": false }
+        ]
+    }, {
+        "identificador": "lic_015",
+        "pregunta": "15. ¿Qué tipo de licencia profesional es aquella destinada para vehículos policiales, ambulancias, militares, municipales y en general todo vehículo público o particular de emergencia y control de seguridad?",
+        "respuestas": [
+            { "id": "lic_015_r1", "contestacion": "a. C", "correcta": false },
+            { "id": "lic_015_r2", "contestacion": "b. C1", "correcta": true },
+            { "id": "lic_015_r3", "contestacion": "c. D", "correcta": false }
+        ]
+    }, {
+        "identificador": "lic_016",
+        "pregunta": "16. Los vehículos que brindan el servicio de transporte en taxi ejecutivo tienen prohibido:",
+        "respuestas": [
+            { "id": "lic_016_r1", "contestacion": "a. Recoger pasajeros en las vías y que no respondan a llamadas telefónicas requiriendo el servicio", "correcta": true },
+            { "id": "lic_016_r2", "contestacion": "b. Recoger pasajeros en las vías y que respondan a llamadas telefónicas requiriendo el servicio", "correcta": false },
+            { "id": "lic_016_r3", "contestacion": "c. No recoger pasajeros en las vías", "correcta": false }
+        ]
+    }, {
+        "identificador": "lic_017",
+        "pregunta": "17. ¿Se puede brindar el servicio de transporte en taxi con vehículos no autorizados?",
+        "respuestas": [
+            { "id": "lic_017_r1", "contestacion": "a. Si, si el vehículo autorizado se encuentra en reparación", "correcta": false },
+            { "id": "lic_017_r2", "contestacion": "b. Si, si la directiva de la operadora le autoriza mediante un documento el cual debe portar", "correcta": false },
+            { "id": "lic_017_r3", "contestacion": "c. No, bajo ninguna circunstancia", "correcta": true }
+        ]
+    }, {
+        "identificador": "lic_018",
+        "pregunta": "18. ¿En qué momento los conductores de los servicios de taxis deben utilizar el taxímetro?",
+        "respuestas": [
+            { "id": "lic_018_r1", "contestacion": "a. En todo momento y en correcto funcionamiento durante el día y la noche", "correcta": true },
+            { "id": "lic_018_r2", "contestacion": "b. En todo momento y en correcto funcionamiento hasta las 20h00", "correcta": false },
+            { "id": "lic_018_r3", "contestacion": "c. En todo momento y en correcto funcionamiento hasta las 22h00", "correcta": false }
+        ]
+    }, {
+        "identificador": "lic_019",
+        "pregunta": "19. ¿Cómo se denomina al vehículo a motor fabricado para el transporte de carga, con capacidad de hasta 3.500 Kg?",
+        "respuestas": [
+            { "id": "lic_019_r1", "contestacion": "a. Camión tolva", "correcta": false },
+            { "id": "lic_019_r2", "contestacion": "b. Camioneta", "correcta": true },
+            { "id": "lic_019_r3", "contestacion": "c. Casa rodante", "correcta": false }
+        ]
+    }, {
+        "identificador": "lic_020",
+        "pregunta": "20. ¿Puede una persona natural ser propietaria de más de un vehículo de transporte en taxi?",
+        "respuestas": [
+            { "id": "lic_020_r1", "contestacion": "a. Si", "correcta": false },
+            { "id": "lic_020_r2", "contestacion": "b. Si, con una autorización de la directiva de la operadora", "correcta": false },
+            { "id": "lic_020_r3", "contestacion": "c. No", "correcta": true }
+        ]
+    }, {
+        "identificador": "lic_021",
+        "pregunta": "21. Se denomina servicio de transporte comercial el que:   ",
+        "respuestas": [
+            { "id": "lic_021_r1", "contestacion": "a. Satisface necesidades de movilización de personas o bienes", "correcta": false },
+            { "id": "lic_021_r2", "contestacion": "b. Se presta a terceras personas a cambio de una contraprestación económica, siempre que no sea servicio de transporte colectivo o masivo", "correcta": true },
+            { "id": "lic_021_r3", "contestacion": "c. Se lo realiza sólo dentro los límites establecidos para la zona de integración fronteriza respectiva", "correcta": false }
+        ]
+    }, {
+        "identificador": "lic_022",
+        "pregunta": "22. ¿Qué sanción administrativa se aplica si existen denuncias comprobadas de maltrato al usuario y negativa de prestación del servicio en un vehículo de transporte en taxi o mixto?",
+        "respuestas": [
+            { "id": "lic_022_r1", "contestacion": "a. Llamado de atención", "correcta": false },
+            { "id": "lic_022_r2", "contestacion": "b. No amerita sanción alguna", "correcta": false },
+            { "id": "lic_022_r3", "contestacion": "c. Suspensión temporal del cupo operacional de la operadora de transporte", "correcta": true }
+        ]
+    }, {
+        "identificador": "lic_023",
+        "pregunta": "23. Para brindar un servicio comercial de transporte se requerirá de:",
+        "respuestas": [
+            { "id": "lic_023_r1", "contestacion": "a. Un permiso de operación", "correcta": true },
+            { "id": "lic_023_r2", "contestacion": "b. Un carnet especial", "correcta": false },
+            { "id": "lic_023_r3", "contestacion": "c. La cédula de identidad", "correcta": false }
+        ]
+    }, {
+        "identificador": "lic_024",
+        "pregunta": "24. Para operar el servicio de transporte por cuenta propia se requerirá de:",
+        "respuestas": [
+            { "id": "lic_024_r1", "contestacion": "a. Un permiso de operación", "correcta": false },
+            { "id": "lic_024_r2", "contestacion": "b. Una autorización", "correcta": true },
+            { "id": "lic_024_r3", "contestacion": "c. Un contrato de comodato", "correcta": false }
+        ]
+    }, {
+        "identificador": "lic_025",
+        "pregunta": "25. ¿De los siguientes enunciados cual corresponde a una Contravención de Tránsito?",
+        "respuestas": [
+            { "id": "lic_025_r1", "contestacion": "a. La o el conductor que con un vehículo automotor, no exceda los límites de velocidad, establecidos en el reglamento correspondiente", "correcta": false },
+            { "id": "lic_025_r2", "contestacion": "b. La o el conductor que ocasione un accidente de tránsito del que resulten solamente daños materiales, cuyos costos sean inferiores a dos salarios básicos unificados del trabajador en general", "correcta": true },
+            { "id": "lic_025_r3", "contestacion": "c. La o el conductor que ocasione un accidente de tránsito del que resulten solamente daños materiales, cuyos costos sean inferiores a un salario básico unificado del trabajador en general", "correcta": false }
+        ]
+    }, {
+        "identificador": "lic_026",
+        "pregunta": "26. Cuando uno o más pasajeros abordan un vehículo, quienes deben colocarse el cinturón de seguridad?:",
+        "respuestas": [
+            { "id": "lic_026_r1", "contestacion": "a. Solo el conductor y el pasajero que viaja en el asiento delantero", "correcta": false },
+            { "id": "lic_026_r2", "contestacion": "b. Solo el conductor", "correcta": false },
+            { "id": "lic_026_r3", "contestacion": "c. Todos los ocupantes del vehículo", "correcta": true }
+        ]
+    }, {
+        "identificador": "lic_027",
+        "pregunta": "27. El cobro de tarifa superior a las reguladas por la autoridad de tránsito competente consiste en una infracción:",
+        "respuestas": [
+            { "id": "lic_027_r1", "contestacion": "a. Infracción Administrativa leve", "correcta": false },
+            { "id": "lic_027_r2", "contestacion": "b. Infracción Administrativa grave", "correcta": true },
+            { "id": "lic_027_r3", "contestacion": "c. Ninguna", "correcta": false }
+        ]
+    }, {
+        "identificador": "lic_028",
+        "pregunta": "28. ¿De los siguientes enunciados cual corresponde a una Contravención de Tránsito?",
+        "respuestas": [
+            { "id": "lic_028_r1", "contestacion": "a. La o el conductor que se detenga en lugares permitidos para hacer uso de su teléfono celular", "correcta": false },
+            { "id": "lic_028_r2", "contestacion": "b. La o el conductor que utilice el teléfono celular mientras conduce y utilice dispositivos instaladosen su vehículo mediante bluetooth", "correcta": false },
+            { "id": "lic_028_r3", "contestacion": "c. La o el conductor que utilice el teléfono celular mientras conduce y no haga uso del dispositivo homologado de manos libres", "correcta": true }
+        ]
+    }, {
+        "identificador": "lic_029",
+        "pregunta": "29. Los medios de transporte, equipos o dispositivos empleados en cualquier servicio definido en la Ley Orgánica de Transporte Terrestre, Tránsito y Seguridad Vial, deberán contar obligatoriamente con el certificado de homologación conferido por:",
+        "respuestas": [
+            { "id": "lic_029_r1", "contestacion": "a. Los GADs", "correcta": false },
+            { "id": "lic_029_r2", "contestacion": "b. La Agencia Nacional de Regulación y Control del Transporte Terrestre, Tránsito y Seguridad Vial", "correcta": true },
+            { "id": "lic_029_r3", "contestacion": "c. Ministerio de Transporte y Obras Públicas", "correcta": false }
+        ]
+    }, {
+        "identificador": "lic_030",
+        "pregunta": "30. Con que periodicidad los conductores profesionales se someterán a exámenes médicos, psicológicos, psicosensométricos, y teóricos: ",
+        "respuestas": [
+            { "id": "lic_030_r1", "contestacion": "a. Cada dos años", "correcta": false },
+            { "id": "lic_030_r2", "contestacion": "b. Semestralmente", "correcta": false },
+            { "id": "lic_030_r3", "contestacion": "c. Anualmente", "correcta": true }
+        ]
+    }, {
+        "identificador": "lic_031",
+        "pregunta": "31. Dentro de la clasificación del transporte comercial, ¿Cuál de las siguientes opciones NO corresponde a esta modalidad?",
+        "respuestas": [
+            { "id": "lic_031_r1", "contestacion": "a. Transporte Turístico", "correcta": false },
+            { "id": "lic_031_r2", "contestacion": "b. Transporte colectivo", "correcta": true },
+            { "id": "lic_031_r3", "contestacion": "c. Carga pesada", "correcta": false }
+        ]
+    }, {
+        "identificador": "lic_032",
+        "pregunta": "32. Para el caso de conductores profesionales, que deseen acceder a una licencia de categoría superior, deberán acreditar:",
+        "respuestas": [
+            { "id": "lic_032_r1", "contestacion": "a. Haber mantenido mínimo por el lapso de dos años, una licencia profesional de categoría inferior a la que se pretende obtener", "correcta": false },
+            { "id": "lic_032_r2", "contestacion": "b. Las escuelas de formación deberán comprobar la experiencia adquirida dentro del lapso de dos años", "correcta": false },
+            { "id": "lic_032_r3", "contestacion": "c. Todas las anteriores", "correcta": true }
+        ]
+    }, {
+        "identificador": "lic_033",
+        "pregunta": "33. Los usuarios que deseen renovar su licencia de conducir lo podrán hacer:",
+        "respuestas": [
+            { "id": "lic_033_r1", "contestacion": "a. Cuarenta y cinco días antes de su caducidad", "correcta": false },
+            { "id": "lic_033_r2", "contestacion": "b. Treinta días antes de su caducidad", "correcta": false },
+            { "id": "lic_033_r3", "contestacion": "c. Noventa días antes de su caducidad", "correcta": true }
+        ]
+    }, {
+        "identificador": "lic_034",
+        "pregunta": "34. ¿Qué tipo de licencia es necesaria para que una persona pueda conducir vehículos diseñados para el transporte comercial con una capacidad de carga de hasta 3,5 toneladas?",
+        "respuestas": [
+            { "id": "lic_034_r1", "contestacion": "a. B", "correcta": false },
+            { "id": "lic_034_r2", "contestacion": "b. C", "correcta": true },
+            { "id": "lic_034_r3", "contestacion": "c. D", "correcta": false }
+        ]
+    }, {
+        "identificador": "lic_035",
+        "pregunta": "35. Se considera transporte mixto a un vehículo con capacidad de carga de:",
+        "respuestas": [
+            { "id": "lic_035_r1", "contestacion": "a. Hasta 3.5 toneladas", "correcta": false },
+            { "id": "lic_035_r2", "contestacion": "b. Hasta 1.2 toneladas", "correcta": true },
+            { "id": "lic_035_r3", "contestacion": "c. Mayor a 1.2 toneladas", "correcta": false }
+        ]
+    }, {
+        "identificador": "lic_036",
+        "pregunta": "36. ¿Cuál de las siguientes definiciones corresponde a taxi convencional?",
+        "respuestas": [
+            { "id": "lic_036_r1", "contestacion": "a. Consiste en el traslado de pasajeros mediante la petición de manera directa en las vías urbanas, en puntos específicos definidos dentro del mobiliario urbano (paradero de taxi), o mediante la petición a un centro de llamadas", "correcta": true },
+            { "id": "lic_036_r2", "contestacion": "b. Consiste en el traslado de terceras personas mediante la petición del servicio, exclusivamente a través de un centro de llamadas, siendo el recorrido autorizado el solicitado por el cliente", "correcta": false },
+            { "id": "lic_036_r3", "contestacion": "c. Consiste en el traslado de estudiantes desde sus domicilios hasta la institución educativa y viceversa; y, en las mismas condiciones al personal de una institución o empresa pública o privada", "correcta": false }
+        ]
+    }
+
+
+]

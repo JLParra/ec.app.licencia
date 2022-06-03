@@ -3,12 +3,13 @@ import { PreguntasyRespuestasResponse } from '../../interfaces/preguntas';
 import { LicenciaService } from '../../services/licencia.service';
 
 @Component({
-  selector: 'app-mecanicas',
-  templateUrl: './mecanicas.component.html',
+  selector: 'app-tipo-c',
+  templateUrl: './tipo-c.component.html',
   styles: [
   ]
 })
-export class MecanicasComponent implements OnInit {
+export class TipoCComponent implements OnInit {
+
   preguntas: PreguntasyRespuestasResponse[] = [];
   preguntasSeleccionadas: PreguntasyRespuestasResponse[] = [];
   finish: boolean = false;
@@ -17,9 +18,11 @@ export class MecanicasComponent implements OnInit {
     this.finish = false;
     this.preguntas = [];
     this.preguntasSeleccionadas = [];
+
   }
 
   ngOnInit(): void {
+    console.log("Se inicio la clase");
     this.preguntas = [];
     this.preguntasSeleccionadas = [];
     this.cargarPreguntas();
@@ -31,9 +34,9 @@ export class MecanicasComponent implements OnInit {
   cargarPreguntas() {
     this.preguntas = [];
     this.preguntasSeleccionadas = [];
-    this._licenciaService.obtenerPreguntasMecanicas().subscribe(data => {
+    this._licenciaService.obtenerPreguntasLicenciaC().subscribe(data => {
       this.preguntas = data;
-      this.preguntasSeleccionadas = this._licenciaService.randonPreguntas(8, this.preguntas);
+      this.preguntasSeleccionadas = this._licenciaService.randonPreguntas(20, this.preguntas);
     });
     this.finish = false;
 
@@ -49,5 +52,4 @@ export class MecanicasComponent implements OnInit {
   get Correctas() {
     return this._licenciaService.contador;
   }
-
 }

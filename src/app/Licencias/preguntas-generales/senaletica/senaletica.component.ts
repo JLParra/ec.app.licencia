@@ -18,17 +18,14 @@ export class SenaleticaComponent implements OnInit {
     this.finish = false;
     this.preguntas = [];
     this.preguntasSeleccionadas = [];
-    console.log("Se construyo la clase");
   }
 
   ngOnInit(): void {
-    console.log("Se inicio la clase");
     this.preguntas = [];
     this.preguntasSeleccionadas = [];
     this.cargarPreguntas();
   }
   ngOnDestroy(): void {
-    console.log("se destruyo la clase");
     this.preguntas = [];
   }
 
@@ -44,7 +41,6 @@ export class SenaleticaComponent implements OnInit {
   }
   finalizar() {
     this.finish = true;
-    console.log(this.preguntasSeleccionadas.length);
     this._licenciaService.finalizar(this.preguntasSeleccionadas);
   }
   get Incorrectas() {
