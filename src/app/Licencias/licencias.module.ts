@@ -8,6 +8,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { MensajeComponent } from './components/mensaje/mensaje.component';
 import { ReglamentosAplicacionComponent } from './preguntas-generales/reglamentos-aplicacion/reglamentos-aplicacion.component';
 import { MecanicasComponent } from './preguntas-generales/mecanicas/mecanicas.component';
+import { TipoAComponent } from './preguntas-especificas/tipo-a/tipo-a.component';
 
 
 
@@ -20,7 +21,8 @@ import { MecanicasComponent } from './preguntas-generales/mecanicas/mecanicas.co
     SenaleticaComponent,
     CoipComponent,
     ReglamentosAplicacionComponent,
-    MecanicasComponent
+    MecanicasComponent,
+    TipoAComponent
   
   ],
   imports: [

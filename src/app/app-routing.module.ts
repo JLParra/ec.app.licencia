@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
+import { TipoAComponent } from './Licencias/preguntas-especificas/tipo-a/tipo-a.component';
 import { CoipComponent } from './Licencias/preguntas-generales/coip/coip.component';
 import { MecanicasComponent } from './Licencias/preguntas-generales/mecanicas/mecanicas.component';
 import { ReglamentosAplicacionComponent } from './Licencias/preguntas-generales/reglamentos-aplicacion/reglamentos-aplicacion.component';
@@ -20,6 +21,10 @@ const routes: Routes = [
   {
     path: 'preguntas_generales/mecanicas', component: MecanicasComponent
   },
+  {
+    path: 'preguntas/licencia/a', component: TipoAComponent
+  },
+    
     
   {
     path: '**', redirectTo: '',
