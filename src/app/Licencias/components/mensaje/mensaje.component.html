@@ -1,0 +1,35 @@
+<h4 class="alert-heading">Respuestas</h4>
+
+<div class="alert alert-success" role="alert" *ngIf="contador > 0">
+    <h4 class="alert-heading">Correctas {{contador}} de {{preguntasSeleccionadas.length}}</h4>
+</div>
+<div class="alert alert-danger" role="alert" *ngIf="Incorrectas.length">
+    <h4 class="alert-heading">Incorrectas {{Incorrectas.length}} de {{preguntasSeleccionadas.length}}</h4>
+    <hr>
+
+    <div class="accordion" id="accordionExample">
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingOne">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                    Respuestas correctas
+                </button>
+            </h2>
+            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+
+                    <div *ngFor="let pregunta of Incorrectas">
+                        <p class="mb-2"> <strong>{{ pregunta.pregunta | json }}</strong></p>
+                        <img [src]="pregunta.imagen" alt="" class="small-flag mb-1">
+                        <div *ngFor="let respuesta of pregunta.respuestas">
+                            <p class="mb-0" *ngIf="respuesta.correcta"><strong>Respuesta correcta:</strong> {{respuesta.contestacion}}
+                            </p>
+                        </div>
+                        <hr>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>

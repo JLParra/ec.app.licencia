@@ -1,6 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { PreguntasyRespuestasResponse } from 'src/app/interfaces/preguntas';
+import { PreguntasyRespuestasResponse } from '../interfaces/preguntas';
+
 
 @Injectable({
   providedIn: 'root'
@@ -18,11 +19,24 @@ export class PreguntasGeneralesService {
   obtenerPreguntasSeñaleticas() {
     this.preguntasSeleccionadas = [];
     this.respuestasIncorrectas = [];
+    this.index = [];
     return this.http.get<PreguntasyRespuestasResponse[]>("assets/json/preguntas.señaletica.json");
   }
+  
+  obtenerPreguntasCoip() {
+    this.preguntasSeleccionadas = [];
+    this.respuestasIncorrectas = [];
+    return this.http.get<PreguntasyRespuestasResponse[]>("assets/json/preguntas.coip.json");
+  }
+
+
 
   randonPreguntas(numero: number, preguntas: PreguntasyRespuestasResponse[]) {
+    console.log(preguntas);
     localStorage.clear();
+    this.preguntasSeleccionadas = [];
+    this.index = [];
+
     while (this.index.length < numero) {
       var random = Math.floor(Math.random() * preguntas.length);
       var norepe = true;//inicialmente suponemos que no está repetido  
@@ -39,9 +53,7 @@ export class PreguntasGeneralesService {
       };
     };
     for (let i = 0; i < this.index.length; i++) {
-    
       this.preguntasSeleccionadas.push(preguntas[this.index[i]]);
-
     }
     return this.preguntasSeleccionadas;
   }
@@ -85,12 +97,7 @@ export class PreguntasGeneralesService {
 
   }
 
-  cambioValor(e: any) {
-    const value = e.target.value;
-    /* AGREGAMOS LAS RESPUESTAS A UN LOCAL STORAGE */
-    localStorage.setItem(e.target.value.substr(0, 7), e.target.value);
 
-  }
 
 
 

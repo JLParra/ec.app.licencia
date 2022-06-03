@@ -1,7 +1,8 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { CoipComponent } from './preguntas-generales/coip/coip.component';
-import { SenaleticaComponent } from './preguntas-generales/senaletica/senaletica.component';
+import { CoipComponent } from './Licencias/preguntas-generales/coip/coip.component';
+import { SenaleticaComponent } from './Licencias/preguntas-generales/senaletica/senaletica.component';
+
 
 const routes: Routes = [
   {

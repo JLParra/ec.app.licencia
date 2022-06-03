@@ -73,7 +73,7 @@
         ]
     }, {
         "identificador": "coi_175",
-        "pregunta": "¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "pregunta": "175. ¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
         "respuestas": [
             { "id": "coi_175_r1", "contestacion": "La o el conductor de un automotor que exceda los límites de velocidad fuera del rango moderado", "correcta": true },
             { "id": "coi_175_r2", "contestacion": "La o el conductor de un automotor que no exceda los límites de velocidad fuera del rango moderado", "correcta": false },
@@ -81,7 +81,7 @@
         ]
     }, {
         "identificador": "coi_176",
-        "pregunta": "¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "pregunta": "176. ¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
         "respuestas": [
             { "id": "coi_176_r1", "contestacion": "La o el conductor que obstaculice el tránsito vehicular por daños mecánicos", "correcta": false },
             { "id": "coi_176_r2", "contestacion": "La o el conductor que obstaculice el tránsito vehicular al quedarse sin combustible", "correcta": true },
@@ -113,7 +113,7 @@
         ]
     }, {
         "identificador": "coi_180",
-        "pregunta": "¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "pregunta": "180. ¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
         "respuestas": [
             { "id": "coi_180_r1", "contestacion": "La o el conductor que en caso de desperfecto mecánico use y coloque adecuadamente los triángulos de seguridad.", "correcta": false },
             { "id": "coi_180_r2", "contestacion": "La o el conductor que en caso de desperfecto mecánico no use o no coloque adecuadamente los triángulos de seguridad, conforme lo establecido en los  reglamentos de tránsito ", "correcta": true },
@@ -121,7 +121,7 @@
         ]
     }, {
         "identificador": "coi_181",
-        "pregunta": "¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "pregunta": "181. ¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
         "respuestas": [
             { "id": "coi_181_r1", "contestacion": "La o el conductor que no haga uso del cinturón de seguridad permanentemente", "correcta": true },
             { "id": "coi_181_r2", "contestacion": "La o el conductor que haga uso del cinturón de seguridad", "correcta": false },
@@ -129,7 +129,7 @@
         ]
     }, {
         "identificador": "coi_182",
-        "pregunta": "¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "pregunta": "182. ¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
         "respuestas": [
             { "id": "coi_182_r1", "contestacion": "La o el conductor que no estacione en las vías asignadas para uso exclusivo de los ciclistas", "correcta": false },
             { "id": "coi_182_r2", "contestacion": "La o el conductor que respete las vías asignadas para uso exclusivo de los ciclistas", "correcta": false },
@@ -137,7 +137,7 @@
         ]
     }, {
         "identificador": "coi_183",
-        "pregunta": "Aquel conductor que no haya sido sancionado en al menos un (1) año contabilizado desde la fecha de la citación de la última infracción sancionada, gozarán de:",
+        "pregunta": "183. Aquel conductor que no haya sido sancionado en al menos un (1) año contabilizado desde la fecha de la citación de la última infracción sancionada, gozarán de:",
         "respuestas": [
             { "id": "coi_183_r1", "contestacion": "(2) DOS puntos adicionales en su licencia", "correcta": false },
             { "id": "coi_183_r2", "contestacion": "(3) TRES puntos adicionales en su licencia", "correcta": false },
@@ -145,7 +145,7 @@
         ]
     }, {
         "identificador": "coi_184",
-        "pregunta": "¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "pregunta": "184. ¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
         "respuestas": [
             { "id": "coi_184_r1", "contestacion": "La o el conductor que con su vehículo automotor o con los bienes que transporta, cause distracción a otros conductores", "correcta": false },
             { "id": "coi_184_r2", "contestacion": "La o el conductor que con su vehículo automotor o con los bienes que transporta, cause daños o deterioro a la superficie de la vía pública", "correcta": true },
@@ -153,7 +153,7 @@
         ]
     }, {
         "identificador": "coi_185",
-        "pregunta": "Constituyen agravantes en las infracciones de tránsito, y por lo tanto sancionadas con el máximo de la pena correspondiente, conducir con:",
+        "pregunta": "185. Constituyen agravantes en las infracciones de tránsito, y por lo tanto sancionadas con el máximo de la pena correspondiente, conducir con:",
         "respuestas": [
             { "id": "coi_185_r1", "contestacion": "Licencia caducada, suspendida temporal o definitivamente.", "correcta": true },
             { "id": "coi_185_r2", "contestacion": "Licencia con menos de 15 puntos", "correcta": false },
@@ -161,7 +161,7 @@
         ]
     }, {
         "identificador": "coi_186",
-        "pregunta": "La sanción, en caso de siniestro que produzca muerte y sea ocasionada por conductores en estado de embriaguez o bajo los efectos de sustancias estupefacientes, psicotrópicas o preparados que las contengan corresponde a: ",
+        "pregunta": "186. La sanción, en caso de siniestro que produzca muerte y sea ocasionada por conductores en estado de embriaguez o bajo los efectos de sustancias estupefacientes, psicotrópicas o preparados que las contengan corresponde a: ",
         "respuestas": [
             { "id": "coi_186_r1", "contestacion": "Pena privativa de la libertad de doce a veinte años; ", "correcta": false },
             { "id": "coi_186_r2", "contestacion": "Revocatoria definitiva de la licencia para conducir", "correcta": true },
@@ -169,23 +169,14 @@
         ]
     }, {
         "identificador": "coi_187",
-        "pregunta": "Según el Código Integral Penal vigente, conducir más horas de las permitidas por la Ley o conducir en malas condiciones físicas y ocasionar un siniestro de tránsito del que resulte la muerte de una o más personas, tiene una sanción de:",
-        "respuestas": [
-            { "id": "coi_187_r1", "contestacion": "Pena privativa de la libertad de 1 a 3 años", "correcta": true },
-            { "id": "coi_187_r2", "contestacion": "Pena privativa de la libertad de 6 a 11 meses", "correcta": false },
-            { "id": "coi_187_r3", "contestacion": "Pena privativa de la libertad de 3 a 5 años", "correcta": false }
-        ]
-    },
-
-    {
-        "identificador": "coi_187",
         "pregunta": "187. Según el Código Integral Penal vigente, conducir más horas de las permitidas por la Ley o conducir en malas condiciones físicas y ocasionar un siniestro de tránsito del que resulte la muerte de una o más personas, tiene una sanción de:",
         "respuestas": [
             { "id": "coi_187_r1", "contestacion": "Pena privativa de la libertad de 1 a 3 años", "correcta": true },
             { "id": "coi_187_r2", "contestacion": "Pena privativa de la libertad de 6 a 11 meses", "correcta": false },
             { "id": "coi_187_r3", "contestacion": "Pena privativa de la libertad de 3 a 5 años", "correcta": false }
         ]
-    }, {
+    },
+    {
         "identificador": "coi_188",
         "pregunta": " 188. La persona que conduzca un vehículo cuyas llantas se encuentren lisas o en mal estado, será sancionada con pena privativa de libertad de:",
         "respuestas": [
