@@ -7,6 +7,8 @@ import { CoipComponent } from './preguntas-generales/coip/coip.component';
 import { BrowserModule } from '@angular/platform-browser';
 import { MensajeComponent } from './components/mensaje/mensaje.component';
 import { ReglamentosAplicacionComponent } from './preguntas-generales/reglamentos-aplicacion/reglamentos-aplicacion.component';
+import { MecanicasComponent } from './preguntas-generales/mecanicas/mecanicas.component';
+
 
 
 
@@ -17,7 +19,9 @@ import { ReglamentosAplicacionComponent } from './preguntas-generales/reglamento
     MensajeComponent,
     SenaleticaComponent,
     CoipComponent,
-    ReglamentosAplicacionComponent
+    ReglamentosAplicacionComponent,
+    MecanicasComponent
+  
   ],
   imports: [
     CommonModule,
@@ -29,7 +33,8 @@ import { ReglamentosAplicacionComponent } from './preguntas-generales/reglamento
     MensajeComponent,
     SenaleticaComponent,
     CoipComponent,
-    ReglamentosAplicacionComponent
+    ReglamentosAplicacionComponent,
+    MecanicasComponent
   ]
 })
 export class LicenciasModule { }

@@ -34,6 +34,11 @@ export class LicenciaService {
     this.respuestasIncorrectas = [];
     return this.http.get<PreguntasyRespuestasResponse[]>("assets/json/preguntas.reglamento.aplicacion.json");
   }
+  obtenerPreguntasMecanicas() {
+    this.preguntasSeleccionadas = [];
+    this.respuestasIncorrectas = [];
+    return this.http.get<PreguntasyRespuestasResponse[]>("assets/json/preguntas.mecanicas.json");
+  }
 
 
 
