@@ -9,6 +9,7 @@ import { MensajeComponent } from './components/mensaje/mensaje.component';
 import { ReglamentosAplicacionComponent } from './preguntas-generales/reglamentos-aplicacion/reglamentos-aplicacion.component';
 import { MecanicasComponent } from './preguntas-generales/mecanicas/mecanicas.component';
 import { TipoAComponent } from './preguntas-especificas/tipo-a/tipo-a.component';
+import { TipoBYFComponent } from './preguntas-especificas/tipo-byf/tipo-byf.component';
 
 
 
@@ -22,7 +23,8 @@ import { TipoAComponent } from './preguntas-especificas/tipo-a/tipo-a.component'
     CoipComponent,
     ReglamentosAplicacionComponent,
     MecanicasComponent,
-    TipoAComponent
+    TipoAComponent,
+    TipoBYFComponent,
   
   ],
   imports: [
