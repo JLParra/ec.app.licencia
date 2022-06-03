@@ -2,18 +2,17 @@ import { Component, OnInit } from '@angular/core';
 import { PreguntasyRespuestasResponse } from '../../interfaces/preguntas';
 import { LicenciaService } from '../../services/licencia.service';
 
-
-
 @Component({
-  selector: 'app-senaletica',
-  templateUrl: './senaletica.component.html',
+  selector: 'app-reglamentos-aplicacion',
+  templateUrl: './reglamentos-aplicacion.component.html',
   styles: [
   ]
 })
-export class SenaleticaComponent implements OnInit {
-  preguntas: PreguntasyRespuestasResponse[] = []
+export class ReglamentosAplicacionComponent implements OnInit {
+  preguntas: PreguntasyRespuestasResponse[] = [];
   preguntasSeleccionadas: PreguntasyRespuestasResponse[] = [];
   finish: boolean = false;
+
   constructor(private _licenciaService: LicenciaService) {
     this.finish = false;
     this.preguntas = [];
@@ -33,14 +32,17 @@ export class SenaleticaComponent implements OnInit {
   }
 
   cargarPreguntas() {
-    
     this.preguntas = [];
     this.preguntasSeleccionadas = [];
-    this.finish = false;
-    this._licenciaService.obtenerPreguntasSeñaleticas().subscribe(data => {
+    console.log(this.preguntas);
+    this._licenciaService.obtenerPreguntasReglamento().subscribe(data => {
       this.preguntas = data;
-      this.preguntasSeleccionadas = this._licenciaService.randonPreguntas(20,this.preguntas);
+      console.log(this.preguntas);
+      this.preguntasSeleccionadas = this._licenciaService.randonPreguntas(20, this.preguntas);
     });
+    this.finish = false;
+
+
   }
   finalizar() {
     this.finish = true;
@@ -53,7 +55,5 @@ export class SenaleticaComponent implements OnInit {
   get Correctas() {
     return this._licenciaService.contador;
   }
-
-  
 
 }

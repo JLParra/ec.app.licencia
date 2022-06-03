@@ -6,17 +6,18 @@ import { SenaleticaComponent } from './preguntas-generales/senaletica/senaletica
 import { CoipComponent } from './preguntas-generales/coip/coip.component';
 import { BrowserModule } from '@angular/platform-browser';
 import { MensajeComponent } from './components/mensaje/mensaje.component';
+import { ReglamentosAplicacionComponent } from './preguntas-generales/reglamentos-aplicacion/reglamentos-aplicacion.component';
 
 
 
 
 @NgModule({
   declarations: [
+    PreguntasComponent,
+    MensajeComponent,
     SenaleticaComponent,
     CoipComponent,
-    PreguntasComponent,
-    MensajeComponent
-
+    ReglamentosAplicacionComponent
   ],
   imports: [
     CommonModule,
@@ -25,9 +26,10 @@ import { MensajeComponent } from './components/mensaje/mensaje.component';
    
   ], exports: [
     PreguntasComponent,
+    MensajeComponent,
     SenaleticaComponent,
     CoipComponent,
-    MensajeComponent
+    ReglamentosAplicacionComponent
   ]
 })
 export class LicenciasModule { }

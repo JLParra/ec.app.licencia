@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { PreguntasyRespuestasResponse } from '../../interfaces/preguntas';
-import { PreguntasGeneralesService } from '../../services/preguntas-generales.service';
+import { LicenciaService } from '../../services/licencia.service';
 
 @Component({
   selector: 'app-coip',
@@ -13,7 +13,7 @@ export class CoipComponent implements OnInit {
   preguntasSeleccionadas: PreguntasyRespuestasResponse[] = [];
   finish: boolean = false;
 
-  constructor(private _preguntasService: PreguntasGeneralesService) {
+  constructor(private _licenciaService: LicenciaService) {
     this.finish = false;
     this.preguntas = [];
     this.preguntasSeleccionadas = [];
@@ -35,10 +35,10 @@ export class CoipComponent implements OnInit {
     this.preguntas = [];
     this.preguntasSeleccionadas = [];
     console.log(this.preguntas);
-    this._preguntasService.obtenerPreguntasCoip().subscribe(data => {
+    this._licenciaService.obtenerPreguntasCoip().subscribe(data => {
       this.preguntas = data;
       console.log(this.preguntas);
-      this.preguntasSeleccionadas = this._preguntasService.randonPreguntas(20, this.preguntas);
+      this.preguntasSeleccionadas = this._licenciaService.randonPreguntas(20, this.preguntas);
     });
     this.finish = false;
 
@@ -47,13 +47,13 @@ export class CoipComponent implements OnInit {
   finalizar() {
     this.finish = true;
     console.log(this.preguntasSeleccionadas.length);
-    this._preguntasService.finalizar(this.preguntasSeleccionadas);
+    this._licenciaService.finalizar(this.preguntasSeleccionadas);
   }
   get Incorrectas() {
-    return this._preguntasService.respuestasIncorrectas;
+    return this._licenciaService.respuestasIncorrectas;
   }
   get Correctas() {
-    return this._preguntasService.contador;
+    return this._licenciaService.contador;
   }
 
 

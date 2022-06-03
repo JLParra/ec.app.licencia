@@ -6,7 +6,7 @@ import { PreguntasyRespuestasResponse } from '../interfaces/preguntas';
 @Injectable({
   providedIn: 'root'
 })
-export class PreguntasGeneralesService {
+export class LicenciaService {
   private index: number[] = [];
   preguntasSeleccionadas: PreguntasyRespuestasResponse[] = [];
   respuestasIncorrectas: PreguntasyRespuestasResponse[] = [];
@@ -27,6 +27,12 @@ export class PreguntasGeneralesService {
     this.preguntasSeleccionadas = [];
     this.respuestasIncorrectas = [];
     return this.http.get<PreguntasyRespuestasResponse[]>("assets/json/preguntas.coip.json");
+  }
+
+  obtenerPreguntasReglamento() {
+    this.preguntasSeleccionadas = [];
+    this.respuestasIncorrectas = [];
+    return this.http.get<PreguntasyRespuestasResponse[]>("assets/json/preguntas.reglamento.aplicacion.json");
   }
 
 

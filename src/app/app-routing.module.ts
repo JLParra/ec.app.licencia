@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { CoipComponent } from './Licencias/preguntas-generales/coip/coip.component';
+import { ReglamentosAplicacionComponent } from './Licencias/preguntas-generales/reglamentos-aplicacion/reglamentos-aplicacion.component';
 import { SenaleticaComponent } from './Licencias/preguntas-generales/senaletica/senaletica.component';
 
 
@@ -9,7 +10,10 @@ const routes: Routes = [
     path: '', component: SenaleticaComponent, 
   },
   {
-    path: 'coip', component: CoipComponent
+    path: 'preguntas_generales/coip', component: CoipComponent
+  },
+  {
+    path: 'preguntas_generales/reglamentodeaplicacion', component: ReglamentosAplicacionComponent
   },
     
   {
