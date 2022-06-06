@@ -1,7 +1,32 @@
 <br>
-<div *ngIf="finish" id="arriba">
-    <app-mensaje [preguntasSeleccionadas]="preguntasSeleccionadas" [contador]="Correctas" [Incorrectas]="Incorrectas"></app-mensaje>
-</div>
+<ng-template #content let-modal>
+    <div class="modal-header">
+        <h4 class="modal-title">Calificación</h4>
+        <button type="button" ngbAutofocus class="btn-close" aria-label="Close" (click)="modal.dismiss('Cross click')" (click)="cargarPreguntas()"></button>
+    </div>
+    <div class="modal-body">
+        <p class="fs-1 fw-bolder text-center">{{Correctas}} / {{preguntasSeleccionadas.length}}</p>
+        <div *ngIf="!Incorrectas.length">
+            <p> Respuestas Correctas</p>
+        </div>
+        <div *ngIf="Incorrectas.length">
+            <p> Respuestas Incorrectas</p>
+            <div *ngFor="let pregunta of Incorrectas">
+                <p class="mb-2"> <strong>{{ pregunta.pregunta | json }}</strong></p>
+                <img [src]="pregunta.imagen" alt="" class="small-flag mb-1">
+                <div *ngFor="let respuesta of pregunta.respuestas">
+                    <p class="mb-0" *ngIf="respuesta.correcta"><strong>Respuesta correcta:</strong> {{respuesta.contestacion}}
+                    </p>
+                </div>
+                <hr>
+            </div>
+        </div>
+
+    </div>
+    <div class="modal-footer">
+        <button type="button" class="btn btn-light" (click)="modal.close('Close click')" (click)="cargarPreguntas()">Close</button>
+    </div>
+</ng-template>
 
 <div *ngIf="preguntasSeleccionadas.length > 0">
     <app-preguntas [preguntasSeleccionadas]="preguntasSeleccionadas"></app-preguntas>
@@ -10,7 +35,7 @@
 
 <div class="container" *ngIf="preguntasSeleccionadas.length > 0">
     <div class="row justify-content-center">
-        <div class="col-6 col-sm-6 col-md-4"> <button class="btn btn-danger" (click)="finalizar()">Finalizar</button>
+        <div class="col-6 col-sm-6 col-md-4"> <button class="btn btn-danger" (click)="finalizar(content)">Finalizar</button>
         </div>
         <div class="col-6 col-sm-6 col-md-4"> <button (click)="cargarPreguntas()" class="btn btn-primary me-2">Empezar</button></div>
     </div>

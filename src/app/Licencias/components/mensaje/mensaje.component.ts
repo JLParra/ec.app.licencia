@@ -1,5 +1,7 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
 import { PreguntasyRespuestasResponse } from '../../interfaces/preguntas';
+
+import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 
 @Component({
   selector: 'app-mensaje',
@@ -12,9 +14,14 @@ export class MensajeComponent implements OnInit {
   @Input() Incorrectas: PreguntasyRespuestasResponse[] = [];
   @Input() preguntasSeleccionadas: PreguntasyRespuestasResponse[] = [];
   @Input() contador: number = 0;
-  constructor() { }
+
+
+  constructor(private modalService: NgbModal) { }
 
   ngOnInit(): void {
+
   }
+
+
 
 }

@@ -40,9 +40,9 @@ export class TipoAComponent implements OnInit {
 
 
   }
-  finalizar() {
+  finalizar(content: any) {
     this.finish = true;
-    this._licenciaService.finalizar(this.preguntasSeleccionadas);
+    this._licenciaService.finalizar(this.preguntasSeleccionadas,content);
   }
   get Incorrectas() {
     return this._licenciaService.respuestasIncorrectas;

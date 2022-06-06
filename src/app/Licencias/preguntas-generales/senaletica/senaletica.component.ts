@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { PreguntasyRespuestasResponse } from '../../interfaces/preguntas';
 import { LicenciaService } from '../../services/licencia.service';
-
+import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 
 
 @Component({
@@ -14,7 +14,7 @@ export class SenaleticaComponent implements OnInit {
   preguntas: PreguntasyRespuestasResponse[] = []
   preguntasSeleccionadas: PreguntasyRespuestasResponse[] = [];
   finish: boolean = false;
-  constructor(private _licenciaService: LicenciaService) {
+  constructor(private _licenciaService: LicenciaService,private modalService: NgbModal) {
     this.finish = false;
     this.preguntas = [];
     this.preguntasSeleccionadas = [];
@@ -29,6 +29,10 @@ export class SenaleticaComponent implements OnInit {
     this.preguntas = [];
   }
 
+  openVerticallyCentered(content: any) {
+    this.modalService.open(content, { centered: true });
+  }
+
   cargarPreguntas() {
     
     this.preguntas = [];
@@ -39,9 +43,9 @@ export class SenaleticaComponent implements OnInit {
       this.preguntasSeleccionadas = this._licenciaService.randonPreguntas(20,this.preguntas);
     });
   }
-  finalizar() {
+  finalizar(content: any) {
     this.finish = true;
-    this._licenciaService.finalizar(this.preguntasSeleccionadas);
+    this._licenciaService.finalizar(this.preguntasSeleccionadas, content);
   }
   get Incorrectas() {
     return this._licenciaService.respuestasIncorrectas;

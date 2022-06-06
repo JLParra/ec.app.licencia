@@ -2,6 +2,9 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { PreguntasComponent } from './components/preguntas/preguntas.component';
 import { HttpClientModule } from '@angular/common/http';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+
+
 import { SenaleticaComponent } from './preguntas-generales/senaletica/senaletica.component';
 import { CoipComponent } from './preguntas-generales/coip/coip.component';
 import { BrowserModule } from '@angular/platform-browser';
@@ -11,8 +14,9 @@ import { MecanicasComponent } from './preguntas-generales/mecanicas/mecanicas.co
 import { TipoAComponent } from './preguntas-especificas/tipo-a/tipo-a.component';
 
 
-import { TipoCComponent } from './preguntas-especificas/tipo-c/tipo-c.component';
+
 import { TipoBYFComponent } from './preguntas-especificas/tipo-byf/tipo-byf.component';
+import { TipoCComponent } from './preguntas-especificas/tipo-c/tipo-c.component';
 
 
 
@@ -33,6 +37,7 @@ import { TipoBYFComponent } from './preguntas-especificas/tipo-byf/tipo-byf.comp
   ],
   imports: [
     CommonModule,
+    NgbModule,
     BrowserModule, 
     HttpClientModule,
    
@@ -45,7 +50,8 @@ import { TipoBYFComponent } from './preguntas-especificas/tipo-byf/tipo-byf.comp
     MecanicasComponent,
     TipoAComponent,
     TipoBYFComponent,
-    TipoCComponent
+    TipoCComponent,
+    NgbModule
   ]
 })
 export class LicenciasModule { }

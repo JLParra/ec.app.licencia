@@ -39,10 +39,10 @@ export class CoipComponent implements OnInit {
     this.finish = false;
 
   }
-  finalizar() {
+  finalizar(content : any) {
     this.finish = true;
     // console.log(this.preguntasSeleccionadas.length);
-    this._licenciaService.finalizar(this.preguntasSeleccionadas);
+    this._licenciaService.finalizar(this.preguntasSeleccionadas,content);
   }
   get Incorrectas() {
     return this._licenciaService.respuestasIncorrectas;

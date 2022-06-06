@@ -1877,7 +1877,7 @@
         "respuestas": [{
                 "id": "sen_090_r1",
                 "contestacion": "Más adelante calzada resbaladiza",
-                "correcta": true
+                "correcta": false
             },
             {
                 "id": "sen_090_r2",
@@ -1887,7 +1887,7 @@
             {
                 "id": "sen_090_r3",
                 "contestacion": "Más adelante vía con gravilla",
-                "correcta": false
+                "correcta": true
             }
         ]
     },

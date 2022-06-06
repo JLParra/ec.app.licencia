@@ -1,6 +1,8 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { PreguntasyRespuestasResponse } from '../interfaces/preguntas';
+import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
+import { MensajeComponent } from '../components/mensaje/mensaje.component';
 
 
 @Injectable({
@@ -12,7 +14,8 @@ export class LicenciaService {
   respuestasIncorrectas: PreguntasyRespuestasResponse[] = [];
   contador: number = 0;
 
-  constructor(private http: HttpClient) {
+
+  constructor(private http: HttpClient, private modalService: NgbModal) {
 
   }
 
@@ -22,7 +25,7 @@ export class LicenciaService {
     this.index = [];
     return this.http.get<PreguntasyRespuestasResponse[]>("assets/json/preguntas.señaletica.json");
   }
-  
+
   obtenerPreguntasCoip() {
     this.preguntasSeleccionadas = [];
     this.respuestasIncorrectas = [];
@@ -54,6 +57,10 @@ export class LicenciaService {
     this.respuestasIncorrectas = [];
     return this.http.get<PreguntasyRespuestasResponse[]>("assets/json/preguntas.licencia.c.json");
   }
+  resultadoModal(content: any) {
+    this.modalService.open(content, { centered: true });
+  }
+
 
   randonPreguntas(numero: number, preguntas: PreguntasyRespuestasResponse[]) {
     console.log(preguntas);
@@ -82,7 +89,7 @@ export class LicenciaService {
     return this.preguntasSeleccionadas;
   }
 
-  finalizar(preguntasSeleccionadas: PreguntasyRespuestasResponse[]) {
+  finalizar(preguntasSeleccionadas: PreguntasyRespuestasResponse[], content: any) {
     this.contador = 0;
     this.respuestasIncorrectas = [];
 
@@ -114,17 +121,13 @@ export class LicenciaService {
         this.respuestasIncorrectas.push(this.preguntasSeleccionadas[i]);
       }
     }
+    this.resultadoModal(content)
     console.log("Correctas:", this.contador);
     console.log("Incorrectas:", this.respuestasIncorrectas.length);
 
 
 
   }
-
-
-
-
-
 
 }
 
