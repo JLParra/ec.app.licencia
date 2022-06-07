@@ -15,21 +15,21 @@ const routes: Routes = [
     path: '', component: SenaleticaComponent, 
   },
   {
-    path: 'preguntas_generales/coip', component: CoipComponent
+    path: 'coip', component: CoipComponent
   },
   {
-    path: 'preguntas_generales/reglamentodeaplicacion', component: ReglamentosAplicacionComponent
+    path: 'reglamentodeaplicacion', component: ReglamentosAplicacionComponent
   },
   {
-    path: 'preguntas_generales/mecanicas', component: MecanicasComponent
+    path: 'mecanicas', component: MecanicasComponent
   },
   {
-    path: 'preguntas/licencia/a', component: TipoAComponent
+    path: 'licencia_a', component: TipoAComponent
   },
   {
-    path: 'preguntas/licencia/byf', component: TipoBYFComponent
+    path: 'licencia_byf', component: TipoBYFComponent
   },{
-    path: 'preguntas/licencia/c', component: TipoCComponent
+    path: 'licencia_c', component: TipoCComponent
   },
     
     
