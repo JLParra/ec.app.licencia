@@ -1,0 +1,545 @@
+[{
+        "identificador": "lid_001",
+        "pregunta": "1. Para los vehículos de trasporte público y comercial ¿cuantas veces al año se debe realizar la revisión técnica vehicular?",
+        "respuestas": [
+            { "id": "lia_001_r1", "contestacion": "a. Una vez al año", "correcta": true },
+            { "id": "lia_001_r2", "contestacion": "b. Dos al año", "correcta": false },
+            { "id": "lia_001_r3", "contestacion": "c. Cada quince días", "correcta": false }
+        ]
+    },
+    {
+        "identificador": "lid_002",
+        "pregunta": "2. ¿Cuantas horas continuas el conductor deberá permanecer como máximo al volante en el transporte interprovincial en el servicio nocturno?",
+        "respuestas": [
+            { "id": "lid_002_r1", "contestacion": "a. 4 horas", "correcta": false },
+            { "id": "lid_002_r2", "contestacion": "b. 6 horas", "correcta": true },
+            { "id": "lid_002_r3", "contestacion": "c. 8 horas", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_003",
+        "pregunta": "3. ¿Cuantas horas continuas el conductor deberá permanecer como máximo al volante en el transporte interprovincial en servicio diurno?:",
+        "respuestas": [
+            { "id": "lid_003_r1", "contestacion": "a. 4 horas", "correcta": false },
+            { "id": "lid_003_r2", "contestacion": "b. 6 horas", "correcta": false },
+            { "id": "lid_003_r3", "contestacion": "c. 8 horas", "correcta": true }
+        ]
+    }, {
+        "identificador": "lid_004",
+        "pregunta": "4. ¿En qué caso el transporte interprovincial deberá contar con dos conductores?",
+        "respuestas": [
+            { "id": "lid_004_r1", "contestacion": "a. Cuando el recorrido continuo supere los 450 km", "correcta": false },
+            { "id": "lid_004_r2", "contestacion": "b. Cuando el recorrido continuo sea superior a 6 horas en servicio nocturno", "correcta": false },
+            { "id": "lid_004_r3", "contestacion": "c. Todas las anteriores", "correcta": true }
+        ]
+    }, {
+        "identificador": "lid_005",
+        "pregunta": "5. ¿Qué tipo de cobertura deberá tener la póliza de seguro de una operadora de transporte interprovincial?",
+        "respuestas": [
+            { "id": "lid_005_r1", "contestacion": "a. Cobertura de responsabilidad civil contra terceros", "correcta": true },
+            { "id": "lid_005_r2", "contestacion": "b. Cobertura amplia de responsabilidad contra terceros", "correcta": false },
+            { "id": "lid_005_r3", "contestacion": "c. Cobertura limitada de responsabilidad contra terceros", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_006",
+        "pregunta": "6. La persona que conduzca un vehículo de transporte público con daños mecánicos previsibles, y como resultado de ello ponga en peligro la seguridad de los pasajeros,será sancionada con:",
+        "respuestas": [
+            { "id": "lid_006_r1", "contestacion": "a. Pena privativa de la libertad de treinta a ciento ochenta días", "correcta": false },
+            { "id": "lid_006_r2", "contestacion": "b. Suspensión de la licencia de conducir por treinta a ciento ochenta días", "correcta": false },
+            { "id": "lid_006_r3", "contestacion": "c. Todas las anteriores", "correcta": true }
+        ]
+    }, {
+        "identificador": "lid_007",
+        "pregunta": "7. ¿Cuál es el límite máximo de velocidad en el que debe circular un vehículo de transporte público de pasajeros en una vía urbana?",
+        "respuestas": [
+            { "id": "lid_007_r1", "contestacion": "a. 40 Km/h", "correcta": true },
+            { "id": "lid_007_r2", "contestacion": "b. 50 Km/h", "correcta": false },
+            { "id": "lid_007_r3", "contestacion": "c. 60 Km/h", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_008",
+        "pregunta": "8. En una vía urbana, ¿A que velocidad se considera que un vehículo de transporte público de pasajeros está circulando dentro del rango moderado?",
+        "respuestas": [
+            { "id": "lid_008_r1", "contestacion": "a. 40 Km/h hasta 45 Km/h", "correcta": false },
+            { "id": "lid_008_r2", "contestacion": "b. 40 Km/h hasta 50 Km/h", "correcta": true },
+            { "id": "lid_008_r3", "contestacion": "c. 50 Km/h hasta 60 Km/h", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_009",
+        "pregunta": "9. En una vía urbana, ¿A que velocidad se considera que un vehículo de transporte público de pasajeros está circulando fuera del rango moderado?",
+        "respuestas": [
+            { "id": "lid_009_r1", "contestacion": "a. Más de 40 Km/h", "correcta": false },
+            { "id": "lid_009_r2", "contestacion": "b. Más de 50 Km/h", "correcta": true },
+            { "id": "lid_009_r3", "contestacion": "c. Más de 60 Km/h", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_010",
+        "pregunta": "10. En una vía perimetral, ¿cuál es el límite máximo de velocidad en el que debe circular un vehículo de transporte público de pasajeros?",
+        "respuestas": [
+            { "id": "lid_010_r1", "contestacion": "a. 60 Km/h", "correcta": false },
+            { "id": "lid_010_r2", "contestacion": "b. 70 Km/h", "correcta": true },
+            { "id": "lid_010_r3", "contestacion": "c. 80 Km/h", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_011",
+        "pregunta": "11. En una vía perimetral, ¿A que velocidad se considera que un vehículo de transporte público de pasajeros está circulando dentro del rango moderado?",
+        "respuestas": [
+            { "id": "lid_011_r1", "contestacion": "a. 70 km/h hasta 80 Km/h", "correcta": false },
+            { "id": "lid_011_r2", "contestacion": "b. 70 Km/h hasta 90 Km/h", "correcta": false },
+            { "id": "lid_011_r3", "contestacion": "c. 70 Km/h hasta 100 Km/h", "correcta": true }
+        ]
+    }, {
+        "identificador": "lid_012",
+        "pregunta": "12. En una vía perimetral, ¿A que velocidad se considera que un vehículo de transporte público de pasajeros está circulando fuera del rango moderado?",
+        "respuestas": [
+            { "id": "lid_012_r1", "contestacion": "a. Más de 90 Km/h", "correcta": false },
+            { "id": "lid_012_r2", "contestacion": "b. Más de 100 Km/h", "correcta": true },
+            { "id": "lid_012_r3", "contestacion": "c. Más de 110 Km/h", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_013",
+        "pregunta": "13. En vías rectas, ¿cuál es el límite máximo de velocidad en el que debe circular un vehículo de transporte público de pasajeros?",
+        "respuestas": [
+            { "id": "lid_013_r1", "contestacion": "a. 80 Km/h", "correcta": false },
+            { "id": "lid_013_r2", "contestacion": "b. 90 Km/h", "correcta": true },
+            { "id": "lid_013_r3", "contestacion": "c. 100 Km/h", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_014",
+        "pregunta": "14. En vías rectas, ¿A que velocidad se considera que un vehículo de transporte público de pasajeros está circulando dentro del rango moderado?",
+        "respuestas": [
+            { "id": "lid_014_r1", "contestacion": "a. 90 Km/h hasta 100 Km/h", "correcta": false },
+            { "id": "lid_014_r2", "contestacion": "b. 90 Km/h hasta 110 Km/h", "correcta": false },
+            { "id": "lid_014_r3", "contestacion": "c. 90 Km/h hasta 115 Km/h", "correcta": true }
+        ]
+    }, {
+        "identificador": "lid_015",
+        "pregunta": "15. En vías rectas, ¿A que velocidad se considera que un vehículo de transporte público de pasajeros está circulando fuera del rango moderado?",
+        "respuestas": [
+            { "id": "lid_015_r1", "contestacion": "a. Más de 100 Km/h", "correcta": false },
+            { "id": "lid_015_r2", "contestacion": "b. Más de 115 Km/h", "correcta": true },
+            { "id": "lid_015_r3", "contestacion": "c. Más de 120 Km/h", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_016",
+        "pregunta": "16. En curvas en carretera, ¿cuál es el límite máximo de velocidad en el que debe circular un vehículo de transporte público de pasajeros?",
+        "respuestas": [
+            { "id": "lid_016_r1", "contestacion": "a. 70 Km/h", "correcta": false },
+            { "id": "lid_016_r2", "contestacion": "b. 80 Km/h", "correcta": false },
+            { "id": "lid_016_r3", "contestacion": "c. 50 Km/h", "correcta": true }
+        ]
+    }, {
+        "identificador": "lid_017",
+        "pregunta": "17. En curvas, ¿A que velocidad se considera que un vehículo de transporte público de pasajeros está circulando dentro del rango moderado?",
+        "respuestas": [
+            { "id": "lid_017_r1", "contestacion": "a. 50 Km/h hasta 60 Km/h", "correcta": false },
+            { "id": "lid_017_r2", "contestacion": "b. 50 Km/h hasta 65 Km/h", "correcta": true },
+            { "id": "lid_017_r3", "contestacion": "c. 60 Km/h hasta 70 Km/h", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_018",
+        "pregunta": "18. En curvas, ¿a más de cuántos kilómetros/h se considera que un vehículo de transporte público de pasajeros está circulando fuera del rango moderado?",
+        "respuestas": [
+            { "id": "lid_018_r1", "contestacion": "a. Más de 60 Km/h", "correcta": false },
+            { "id": "lid_018_r2", "contestacion": "b. Más de 65 Km/h", "correcta": true },
+            { "id": "lid_018_r3", "contestacion": "c. Más de 75 Km/h", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_019",
+        "pregunta": "19. Cuando un vehículo de transporte público de pasajeros circula a 40 Km/h en una vía urbana, de acuerdo a la Ley se considera que su velocidad corresponde a:",
+        "respuestas": [
+            { "id": "lid_019_r1", "contestacion": "a. Límite máximo de velocidad", "correcta": true },
+            { "id": "lid_019_r2", "contestacion": "b. Rango moderado", "correcta": false },
+            { "id": "lid_019_r3", "contestacion": "c. Fuera del rango moderado", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_020",
+        "pregunta": "20. Cuando un vehículo de transporte público de pasajeros circula a 70 Km/h en una vía perimetral, de acuerdo a la Ley se considera que su velocidad se encuentra:",
+        "respuestas": [
+            { "id": "lid_020_r1", "contestacion": "a. Límite máximo de velocidad", "correcta": true },
+            { "id": "lid_020_r2", "contestacion": "b. Rango moderado", "correcta": false },
+            { "id": "lid_020_r3", "contestacion": "c. Fuera del rango moderado", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_021",
+        "pregunta": "21. Cuando un vehículo de transporte público de pasajeros circula a 90 Km/h en una vía recta, de acuerdo a la Ley se considera que su velocidad se encuentra en:",
+        "respuestas": [
+            { "id": "lid_021_r1", "contestacion": "a. Límite máximo de velocidad", "correcta": true },
+            { "id": "lid_021_r2", "contestacion": "b. Rango moderado", "correcta": false },
+            { "id": "lid_021_r3", "contestacion": "c. Fuera del rango moderado", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_022",
+        "pregunta": "22. ¿ Las licencias de conducir otorgadas mediante acto viciado por o por falta de cumplimiento de sus requisitos serán:",
+        "respuestas": [
+            { "id": "lid_022_r1", "contestacion": "a. Anuladas", "correcta": true },
+            { "id": "lid_022_r2", "contestacion": "b. Suspendidas", "correcta": false },
+            { "id": "lid_022_r3", "contestacion": "c. Todas las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_023",
+        "pregunta": "23. Cuando un vehículo de transporte público de pasajeros circula en curva a 50 Km/h, de acuerdo a la Ley se considera que su velocidad corresponde a:",
+        "respuestas": [
+            { "id": "lid_023_r1", "contestacion": "a. Límite máximo de velocidad", "correcta": true },
+            { "id": "lid_023_r2", "contestacion": "b. Rango moderado", "correcta": false },
+            { "id": "lid_023_r3", "contestacion": "c. Fuera del rango moderado", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_024",
+        "pregunta": "24. El incremento de tarifas para el transporte público de pasajeros interprovincial e intraprovincial es autorizado por:",
+        "respuestas": [
+            { "id": "lid_024_r1", "contestacion": "a. El Directorio de la Agencia Nacional de Tránsito", "correcta": true },
+            { "id": "lid_024_r2", "contestacion": "b. La Federación de Transportistas", "correcta": false },
+            { "id": "lid_024_r3", "contestacion": "c. Los Gobiernos Autónomos Descentralizados", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_025",
+        "pregunta": "25. ¿Cómo se sanciona a las personas que conducen un vehículo de transporte público, internacional, intrarregional, interprovincial, intraprovincial con exceso de pasajeros?",
+        "respuestas": [
+            { "id": "lid_025_r1", "contestacion": "a. Multa de dos a cinco salarios básicos unificados", "correcta": false },
+            { "id": "lid_025_r2", "contestacion": "b. Pena privativa de libertad de seis meses a un año", "correcta": true },
+            { "id": "lid_025_r3", "contestacion": "c. Ninguna de las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_026",
+        "pregunta": "26. ¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito ?",
+        "respuestas": [
+            { "id": "lid_026_r1", "contestacion": "a. La o el conductor de un vehículo de transporte público masivo de pasajeros que cargue combustible cuando se encuentren prestando el servicio de transporte", "correcta": true },
+            { "id": "lid_026_r2", "contestacion": "b. La o el conductor de un vehículo de transporte público masivo de pasajeros que cargue combustible cuando no se encuentren prestando el servicio de transporte", "correcta": false },
+            { "id": "lid_026_r3", "contestacion": "c. La o el conductor de un vehículo de transporte público masivo de pasajeros que cargue combustible mientras el vehículo se encuentre en proceso de mantenimiento.", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_027",
+        "pregunta": "27. ¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "respuestas": [
+            { "id": "lid_027_r1", "contestacion": "a. La o el conductor de transporte público de servicio masivo que cumpla las tarifas preferenciales fijadas por la ley en beneficio de los niños, estudiantes, personas adultas mayores de sesenta y cinco años de edad y personas con capacidades especiales", "correcta": false },
+            { "id": "lid_027_r2", "contestacion": "b. La o el conductor de transporte público de servicio masivo que no entregue el boleto correspondiente a las personas que gozan de tarifas preferenciales fijadas por la ley en beneficio de los niños, estudiantes, personas adultas mayores de sesenta y cinco años de edad y personas con capacidades especiales", "correcta": false },
+            { "id": "lid_027_r3", "contestacion": "c. La o el conductor de transporte público de servicio masivo que incumpla las tarifas preferenciales fijadas por la ley en beneficio de los niños, estudiantes, personas adultas mayores de sesenta y cinco años de edad y personas con capacidades especiales", "correcta": true }
+        ]
+    }, {
+        "identificador": "lid_028",
+        "pregunta": "28. ¿Qué grupos de pasajeros gozarán de atención preferencial?",
+        "respuestas": [
+            { "id": "lid_028_r1", "contestacion": "a. Mujeres embarazadas y personas de la tercera edad", "correcta": false },
+            { "id": "lid_028_r2", "contestacion": "b. Niñas, niños y adolescentes", "correcta": false },
+            { "id": "lid_028_r3", "contestacion": "c. Todos los anteriores", "correcta": true }
+        ]
+    }, {
+        "identificador": "lid_029",
+        "pregunta": "29. ¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "respuestas": [
+            { "id": "lid_029_r1", "contestacion": "a. Conducir un vehículo con menos de 15 puntos en la licencia de conducir", "correcta": false },
+            { "id": "lid_029_r2", "contestacion": "b. Conducir un vehículo con menos de 1 punto en la licencia de conducir", "correcta": false },
+            { "id": "lid_029_r3", "contestacion": "c. Conducir un vehículo sin portar la licencia de conducir", "correcta": true }
+        ]
+    }, {
+        "identificador": "lid_030",
+        "pregunta": "30. ¿Cuál es la tarifa que deberá ser cancelada para que sean transportadas las sillas de ruedas, coches para bebes, u otros equipos que requieren las personas con atención preferente en el sistema de transporte terrestre?",
+        "respuestas": [
+            { "id": "lid_030_r1", "contestacion": "a. el valor de un pasaje adicional", "correcta": false },
+            { "id": "lid_030_r2", "contestacion": "b. Ningún valor adicional", "correcta": true },
+            { "id": "lid_030_r3", "contestacion": "c. El valor de medio pasaje adicional", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_031",
+        "pregunta": "31. ¿Qué tipo de infracción administrativa se impondrá al Conductor que cobre por la prestación de servicios, tarifas superiores a las reguladas por la autoridad de tránsito competente?",
+        "respuestas": [
+            { "id": "lid_031_r1", "contestacion": "a. Leve", "correcta": false },
+            { "id": "lid_031_r2", "contestacion": "b. Muy grave", "correcta": false },
+            { "id": "lid_031_r3", "contestacion": "c. Grave", "correcta": true }
+        ]
+    }, {
+        "identificador": "lid_032",
+        "pregunta": "32. ¿Qué grupos de pasajeros serán beneficiados con tarifas diferenciadas?",
+        "respuestas": [
+            { "id": "lid_032_r1", "contestacion": "a. Mujeres embarazadas", "correcta": false },
+            { "id": "lid_032_r2", "contestacion": "b. Niñas, niños y adolescentes, personas con discapacidad, adultas y adultos mayores de 65 años de edad", "correcta": true },
+            { "id": "lid_032_r3", "contestacion": "c. Todas las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_033",
+        "pregunta": "33. El número de salidas autorizadas que debe cumplir la operadora en cada una de las líneas de servicio se conoce como:",
+        "respuestas": [
+            { "id": "lid_033_r1", "contestacion": "a. Frecuencia", "correcta": true },
+            { "id": "lid_033_r2", "contestacion": "b. Horario de salida", "correcta": false },
+            { "id": "lid_033_r3", "contestacion": "c. Intervalo", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_034",
+        "pregunta": "34. El servicio de Transporte Intracantonal es aquel que:",
+        "respuestas": [
+            { "id": "lid_034_r1", "contestacion": "a. Se presta dentro de los límites provinciales entre cantones", "correcta": false },
+            { "id": "lid_034_r2", "contestacion": "b. Opera dentro de los límites cantonales, pudiendo ser un servicio urbano (entre parroquias urbanas) o un servicio rural (entre parroquias rurales)", "correcta": true },
+            { "id": "lid_034_r3", "contestacion": "c. Opera entre las provincias que conforman una misma región", "correcta": false }
+        ]
+
+    }, {
+        "identificador": "lid_035",
+        "pregunta": "35. El servicio de Transporte Intraprovincial es aquel que:",
+        "respuestas": [
+            { "id": "lid_035_r1", "contestacion": "a. Se presta dentro de los límites provinciales, entre cantones", "correcta": true },
+            { "id": "lid_035_r2", "contestacion": "b. Opera dentro de los límites cantonales, pudiendo ser un servicio urbano (entre parroquias urbanas) o un servicio rural (entre parroquias rurales)", "correcta": false },
+            { "id": "lid_035_r3", "contestacion": "c. Opera entre las provincias que conforman una misma región", "correcta": false }
+        ]
+
+
+
+    }, {
+        "identificador": "lid_036",
+        "pregunta": "36. El servicio de Transporte Internacional es aquel que:",
+        "respuestas": [
+            { "id": "lid_036_r1", "contestacion": "a. Se presta dentro de los límites provinciales entre cantones", "correcta": false },
+            { "id": "lid_036_r2", "contestacion": "b. Opera entre las provincias que conforman una misma región", "correcta": false },
+            { "id": "lid_036_r3", "contestacion": "c. Se presta fuera de los límites del país, teniendo como origen el territorio nacional y como destino un país extranjero o viceversa", "correcta": true }
+        ]
+    }, {
+        "identificador": "lid_037",
+        "pregunta": "37. El servicio de Transporte Interprovincial es aquel que:",
+        "respuestas": [
+            { "id": "lid_037_r1", "contestacion": "a. Se presta dentro de los límites del territorio nacional, entre provincias de diferentes regiones, o entre provincias de una región y las provincias del resto del país o viceversa", "correcta": true },
+            { "id": "lid_037_r2", "contestacion": "b. Opera dentro de los límites cantonales, pudiendo ser un servicio urbano (entre parroquias urbanas) o un servicio rural (entre parroquias rurales)", "correcta": false },
+            { "id": "lid_037_r3", "contestacion": "c. Opera entre las provincias que conforman una misma región", "correcta": false }
+        ]
+
+
+
+    }, {
+        "identificador": "lid_038",
+        "pregunta": "38. ¿Qué se entiende por ruta o línea de servicio de transporte público?",
+        "respuestas": [
+            { "id": "lid_038_r1", "contestacion": "a. La autorización de una operadora para prestar servicios de transporte público", "correcta": false },
+            { "id": "lid_038_r2", "contestacion": "b. Designación del origen, puntos intermedios y destino de un itinerario sobre el que se desplazan las unidades de la operadora, y cuenta con un punto de partida y de llegada.", "correcta": true },
+            { "id": "lid_038_r3", "contestacion": "c. Conjunto de sitios específicos y claramente identificados para la subida y descenso de los usuarios del transporte público", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_039",
+        "pregunta": "39. ¿Qué vehículos están exentos de la obligación de tener cinturones de seguridad para los ocupantes?",
+        "respuestas": [
+            { "id": "lid_039_r1", "contestacion": "a. Ningún vehículo se encuentra exento de esta obligación", "correcta": true },
+            { "id": "lid_039_r2", "contestacion": "b. Los vehículos destinados a turismo para los pasajeros, excepto el conductor", "correcta": false },
+            { "id": "lid_039_r3", "contestacion": "c. Los buses de transporte intracantonal para los pasajeros, excepto el conductor", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_040",
+        "pregunta": "40. ¿Qué no debe hacer el conductor del transporte público de pasajeros?",
+        "respuestas": [
+            { "id": "lid_040_r1", "contestacion": "a. Llevar menos pasajeros de la capacidad autorizada", "correcta": false },
+            { "id": "lid_040_r2", "contestacion": "b. Dejar y recoger pasajeros en paradas no autorizadas", "correcta": true },
+            { "id": "lid_040_r3", "contestacion": "c. Todas las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_041",
+        "pregunta": "41. ¿Cuáles son los tipos de servicios de transporte terrestre?:",
+        "respuestas": [
+            { "id": "lid_041_r1", "contestacion": "a. Público", "correcta": false },
+            { "id": "lid_041_r2", "contestacion": "b. Comercial", "correcta": false },
+            { "id": "lid_041_r3", "contestacion": "c. Todas las anteriores", "correcta": true }
+        ]
+    }, {
+        "identificador": "lid_042",
+        "pregunta": "42. Las rutas y frecuencias a nivel nacional son de propiedad exclusiva de:",
+        "respuestas": [
+            { "id": "lid_042_r1", "contestacion": "a. Las Operadoras de Transporte", "correcta": false },
+            { "id": "lid_042_r2", "contestacion": "b. El Estado", "correcta": true },
+            { "id": "lid_042_r3", "contestacion": "c. Los dueños de las Unidades de Transporte", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_043",
+        "pregunta": "43. Las rutas y frecuencias a nivel nacional podrán ser comercialmente explotadas mediante:",
+        "respuestas": [
+            { "id": "lid_043_r1", "contestacion": "a. Acuerdos Verbales", "correcta": false },
+            { "id": "lid_043_r2", "contestacion": "b. Contratos, permisos y autorizaciones de operación", "correcta": true },
+            { "id": "lid_043_r3", "contestacion": "c. Todas", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_044",
+        "pregunta": "44. El transporte internacional de personas y mercancías deberá contar con:",
+        "respuestas": [
+            { "id": "lid_044_r1", "contestacion": "a. Autorización de habilitación del vehículo para transporte internacional", "correcta": false },
+            { "id": "lid_044_r2", "contestacion": "b. Requisitos y procedimientos previstos en las normas de la Comunidad Andina de Naciones - CAN", "correcta": false },
+            { "id": "lid_044_r3", "contestacion": "c. Todas las anteriores", "correcta": true }
+        ]
+    }, {
+        "identificador": "lid_045",
+        "pregunta": "45. La celebración de los contratos de operación del servicio de transporte público intracantonal (urbano) es atribución de:",
+        "respuestas": [
+            { "id": "lid_045_r1", "contestacion": "a. Los Gobiernos Autónomos Descentralizados Municipales o Metropolitanos", "correcta": true },
+            { "id": "lid_045_r2", "contestacion": "b. Ministerio del Transporte y Obras Públicas", "correcta": false },
+            { "id": "lid_045_r3", "contestacion": "c. Ministerio del Interior", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_046",
+        "pregunta": "46. La vigencia de un contrato de operación será de:",
+        "respuestas": [
+            { "id": "lid_046_r1", "contestacion": "a. 5 años", "correcta": false },
+            { "id": "lid_046_r2", "contestacion": "b. 8 años", "correcta": false },
+            { "id": "lid_046_r3", "contestacion": "c. 10 años", "correcta": true }
+        ]
+    }, {
+        "identificador": "lid_047",
+        "pregunta": "47. El documento que contiene la relación de pasajeros transportados por viaje se conoce como:",
+        "respuestas": [
+            { "id": "lid_047_r1", "contestacion": "a. Manifiesto de pasajeros", "correcta": true },
+            { "id": "lid_047_r2", "contestacion": "b. Ticket o boleto", "correcta": false },
+            { "id": "lid_047_r3", "contestacion": "c. Hoja de ruta", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_048",
+        "pregunta": "48. Los conductores profesionales que desean acceder al cambio de categoría de la licencia de conducir deberán tener:",
+        "respuestas": [
+            { "id": "lid_048_r1", "contestacion": "a. Tener al menos 1 años de la licencia de conducir en la categoría no profesional tipo B", "correcta": false },
+            { "id": "lid_048_r2", "contestacion": "b. Asistir, aprobar y obtener el tipo correspondiente que acredite su capacitación.", "correcta": true },
+            { "id": "lid_048_r3", "contestacion": "c. Todas la anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_049",
+        "pregunta": "49. La persona que conduzca un vehículo de transporte público y cuyas llantas se encuentren lisas o en mal estado, será sancionada con:",
+        "respuestas": [
+            { "id": "lid_049_r1", "contestacion": "a. Pena privativa de libertad de cinco a quince días", "correcta": false },
+            { "id": "lid_049_r2", "contestacion": "b. Pena privativa de libertad de cinco a treinta días", "correcta": true },
+            { "id": "lid_049_r3", "contestacion": "c. Ninguna de las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_050",
+        "pregunta": "50. Para las Operadoras, constituye una infracción administrativa grave:",
+        "respuestas": [
+            { "id": "lid_050_r1", "contestacion": "a.No acatar las disposiciones legales, reglamentarias, administrativas o contractuales vigentes o las que norme la Agencia Nacional de Regulación y Control del Transporte Terrestre, Tránsito y Seguridad Vial", "correcta": false },
+            { "id": "lid_050_r2", "contestacion": "b.Usar contratos de adhesión no aprobados ni inscritos en la Agencia Nacional de Regulación y Control del Transporte Terrestre, Tránsito y Seguridad Vial", "correcta": true },
+            { "id": "lid_050_r3", "contestacion": "c.Ninguna de las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_051",
+        "pregunta": "51. Para las Operadoras, constituye una infracción administrativa leve:",
+        "respuestas": [
+            { "id": "lid_051_r1", "contestacion": "a. Cobrar por la prestación de servicios, tarifas superiores a las reguladas por la autoridad de tránsito competente", "correcta": false },
+            { "id": "lid_051_r2", "contestacion": "b. Proveer información inexacta o incompleta a las autoridades administrativas de Transporte Terrestre, Tránsito y Seguridad Vial", "correcta": true },
+            { "id": "lid_051_r3", "contestacion": "c. Ofrecer servicios de transporte y carga, distintos a los autorizados o permitidos dentro del título habilitante otorgado", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_052",
+        "pregunta": "52. Para las Operadoras, constituye una infracción administrativa muy grave:",
+        "respuestas": [
+            { "id": "lid_052_r1", "contestacion": "a. Operar sin cumplir con las normas de protección ambiental expedidas por la autoridad competente", "correcta": false },
+            { "id": "lid_052_r2", "contestacion": "b. Mantener vinculación contractual o laboral con conductores que hayan perdido todos los puntos de su licencia, que conduzcan con licencia revocada, suspendida o anulada, o que no cumplan con los requisitos legales establecidos para la conducción de los vehículos habilitados para la operadora", "correcta": true },
+            { "id": "lid_052_r3", "contestacion": "c. Incurrir en la prohibición de difusión de contenidos conforme al artículo 4.1 de la Ley Orgánica de Transporte Terrestre, Tránsito y Seguridad Vial", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_053",
+        "pregunta": "53. Para las Operadoras, constituye una infracción administrativa muy grave:",
+        "respuestas": [
+            { "id": "lid_053_r1", "contestacion": "a. Incumplir con la obligación de afiliar al Instituto Ecuatoriano de Seguridad Social a los conductores y demás trabajadores que laboran en las operadoras, sin perjuicio de las demás acciones legales a que haya lugar", "correcta": true },
+            { "id": "lid_053_r2", "contestacion": "b. Utilizar aplicativos de telefonía a través de plataformas tecnológicas no autorizados por la autoridad competente", "correcta": false },
+            { "id": "lid_053_r3", "contestacion": "c. Realizar la conexión de rutas en términos o condiciones distintas a las establecidas por la autoridad de tránsito competente", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_054",
+        "pregunta": "54. Para las Operadoras, constituye una infracción administrativa grave:",
+        "respuestas": [
+            { "id": "lid_054_r1", "contestacion": "a. No proveer información solicitada por la Agencia Nacional de Regulación y Control del Transporte Terrestre, Tránsito y Seguridad Vial o los Gobiernos Autónomos Descentralizados, dentro del ámbito de sus competencias, en el término de cuatro días, que sea necesaria para que estos organismos puedan ejercer sus funciones de planificar, evaluar, regular las actividades de transporte", "correcta": false },
+            { "id": "lid_054_r2", "contestacion": "b. Ofrecer servicios de transporte y carga, distintos a los autorizados o permitidos dentro del título habilitante otorgado", "correcta": true },
+            { "id": "lid_054_r3", "contestacion": "c. No acatar las disposiciones legales, reglamentarias, administrativas o contractuales vigentes o las que norme la Agencia Nacional de Regulación y Control del Transporte Terrestre, Tránsito y Seguridad Vial", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_055",
+        "pregunta": "55. ¿Qué contenido audiovisual se deben transmitir en los medios de transporte público?",
+        "respuestas": [
+            { "id": "lid_055_r1", "contestacion": "a. Que promuevan el turismo, cultura de paz, la inclusión, la no discriminación.", "correcta": true },
+            { "id": "lid_055_r2", "contestacion": "b. La intolerancia política o religiosa", "correcta": false },
+            { "id": "lid_055_r3", "contestacion": "c. Ninguna de las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_056",
+        "pregunta": "56. ¿Cuál de los siguientes enunciados corresponde a una contravención de tránsito?",
+        "respuestas": [
+            { "id": "lid_056_r1", "contestacion": "a. La o el conductor de transporte público o comercial que se niegue a brindar el servicio", "correcta": true },
+            { "id": "lid_056_r2", "contestacion": "b. La o el conductor de transporte público o comercial que brinde un servicio diferenciado.", "correcta": false },
+            { "id": "lid_056_r3", "contestacion": "c. Ninguna de las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_057",
+        "pregunta": "57. Qué tipo de sanción administrativa será impuesta por prestar servicios que no correspondan al objeto del contrato de operación, autorización, permiso o licencias, frecuencias o rutas que no se les hayan asignado conforme a la ley corresponde:",
+        "respuestas": [
+            { "id": "lid_057_r1", "contestacion": "a. Sanciones Administrativa Grave", "correcta": false },
+            { "id": "lid_057_r2", "contestacion": "b. Sanciones Administrativa Leve", "correcta": false },
+            { "id": "lid_057_r3", "contestacion": "c. Sanciones Administrativa Muy Grave", "correcta": true }
+        ]
+    }, {
+        "identificador": "lid_058",
+        "pregunta": "58. El cobro de tarifa superior a las reguladas por la autoridad de tránsito competente consisten en una infracción: ",
+        "respuestas": [
+            { "id": "lid_058_r1", "contestacion": "a. Infracción Administrativa leve", "correcta": false },
+            { "id": "lid_058_r2", "contestacion": "b. Infracción Administrativa grave", "correcta": true },
+            { "id": "lid_058_r3", "contestacion": "c. Ninguna", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_059",
+        "pregunta": "59. Las operadoras o los propietarios de los vehículos de transporte terrestre que incumplan la obligación de afiliar al Instituto Ecuatoriano de Seguridad Social (IESS) a los conductores y oficiales que laboran en sus unidades, sin perjuicio de las demás acciones legales a que hubiere lugar, es una infracción muy grave:",
+        "respuestas": [
+            { "id": "lid_059_r1", "contestacion": "a. Siempre", "correcta": false },
+            { "id": "lid_059_r2", "contestacion": "b. A veces", "correcta": true },
+            { "id": "lid_059_r3", "contestacion": "c. Nunca", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_060",
+        "pregunta": "60. En caso de que el vehículo con el que se ocasionó un accidente preste un servicio público, se sancionará a: ",
+        "respuestas": [
+            { "id": "lid_060_r1", "contestacion": "a. El conductor del vehículo.", "correcta": false },
+            { "id": "lid_060_r2", "contestacion": "b. A la operadora y al dueño del vehículo.", "correcta": false },
+            { "id": "lid_060_r3", "contestacion": "c. Al conductor, al dueño del vehículo y a la operadora", "correcta": true }
+        ]
+    }, {
+        "identificador": "lid_061",
+        "pregunta": "61. Las personas con discapacidad pagarán una tarifa preferencial de:b",
+        "respuestas": [
+            { "id": "lid_061_r1", "contestacion": "a. Cincuenta por ciento (50%) de la tarifa regular autorizada", "correcta": true },
+            { "id": "lid_061_r2", "contestacion": "b. Veinticinco por ciento (25%) de la tarifa regular autorizada", "correcta": false },
+            { "id": "lid_061_r3", "contestacion": "c. Todas las anteriores", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_062",
+        "pregunta": "62. ¿Con qué tipo de licencia una persona puede conducir vehículos de 4 ruedas o más, diseñados para el transporte público o del Estado con una capacidad de más de 26 asientos?",
+        "respuestas": [
+            { "id": "lid_062_r1", "contestacion": "a. Profesional tipo D", "correcta": true },
+            { "id": "lid_062_r2", "contestacion": "b. No profesional tipo D1", "correcta": false },
+            { "id": "lid_062_r3", "contestacion": "c. Profesional tipo E", "correcta": false }
+        ]
+    }, {
+        "identificador": "lid_063",
+        "pregunta": "63. Se establecen como paradas autorizadas las siguientes:",
+        "respuestas": [
+            { "id": "lid_063_r1", "contestacion": "a. Las establecidas en los Terminales Terrestres", "correcta": false },
+            { "id": "lid_063_r2", "contestacion": "b. Las autorizadas en los títulos habilitantes", "correcta": false },
+            { "id": "lid_063_r3", "contestacion": "c. Todas las anteriores", "correcta": true }
+        ]
+    }, {
+        "identificador": "lid_064",
+        "pregunta": "64. El usuario del transporte público tiene derecho a: ",
+        "respuestas": [
+            { "id": "lid_064_r1", "contestacion": "a. Que se otorgue un comprobante o etiqueta que ampare el equipaje, en rutas intraprovinciales, interprovinciales e internacionales; y, en caso de pérdida al pago del valor declarado por el pasajero", "correcta": false },
+            { "id": "lid_064_r2", "contestacion": "b. Denunciar las deficiencias o irregularidades del servicio de transporte de conformidad con la normativa vigente", "correcta": false },
+            { "id": "lid_064_r3", "contestacion": "c. Todas las anteriores", "correcta": true }
+        ]
+    }, {
+        "identificador": "lid_066",
+        "pregunta": "66. En caso de que el vehículo con el que se ocasionó un accidente preste un servicio público, se sancionará a: ",
+        "respuestas": [
+            { "id": "lid_066_r1", "contestacion": "a. Los conductores de vehículos pesados que circulen en el horario permitido por la Autoridad competente.", "correcta": false },
+            { "id": "lid_066_r2", "contestacion": "b. Los conductores de vehículos pesados que circulen por zonas restringidas", "correcta": true },
+            { "id": "lid_066_r3", "contestacion": "c. Los conductores de vehículos pesados que no circulen por zonas permitidas por la Autoridad competente", "correcta": false }
+        ]
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
