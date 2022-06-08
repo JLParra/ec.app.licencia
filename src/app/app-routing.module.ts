@@ -3,6 +3,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { TipoAComponent } from './Licencias/preguntas-especificas/tipo-a/tipo-a.component';
 import { TipoBYFComponent } from './Licencias/preguntas-especificas/tipo-byf/tipo-byf.component';
 import { TipoCComponent } from './Licencias/preguntas-especificas/tipo-c/tipo-c.component';
+import { TipoDComponent } from './Licencias/preguntas-especificas/tipo-d/tipo-d.component';
 import { CoipComponent } from './Licencias/preguntas-generales/coip/coip.component';
 import { MecanicasComponent } from './Licencias/preguntas-generales/mecanicas/mecanicas.component';
 import { ReglamentosAplicacionComponent } from './Licencias/preguntas-generales/reglamentos-aplicacion/reglamentos-aplicacion.component';
@@ -30,6 +31,8 @@ const routes: Routes = [
     path: 'licencia_byf', component: TipoBYFComponent
   },{
     path: 'licencia_c', component: TipoCComponent
+  },{
+    path: 'licencia_d', component: TipoDComponent
   },
     
     

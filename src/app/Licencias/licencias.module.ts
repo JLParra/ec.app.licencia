@@ -17,6 +17,7 @@ import { TipoAComponent } from './preguntas-especificas/tipo-a/tipo-a.component'
 
 import { TipoBYFComponent } from './preguntas-especificas/tipo-byf/tipo-byf.component';
 import { TipoCComponent } from './preguntas-especificas/tipo-c/tipo-c.component';
+import { TipoDComponent } from './preguntas-especificas/tipo-d/tipo-d.component';
 
 
 
@@ -32,7 +33,8 @@ import { TipoCComponent } from './preguntas-especificas/tipo-c/tipo-c.component'
     MecanicasComponent,
     TipoAComponent,
     TipoBYFComponent,
-    TipoCComponent
+    TipoCComponent,
+    TipoDComponent
   
   ],
   imports: [
@@ -51,7 +53,8 @@ import { TipoCComponent } from './preguntas-especificas/tipo-c/tipo-c.component'
     TipoAComponent,
     TipoBYFComponent,
     TipoCComponent,
-    NgbModule
+    NgbModule,
+    TipoDComponent
   ]
 })
 export class LicenciasModule { }

@@ -57,6 +57,13 @@ export class LicenciaService {
     this.respuestasIncorrectas = [];
     return this.http.get<PreguntasyRespuestasResponse[]>("assets/json/preguntas.licencia.c.json");
   }
+
+  obtenerPreguntasLicenciaD() {
+    this.preguntasSeleccionadas = [];
+    this.respuestasIncorrectas = [];
+    return this.http.get<PreguntasyRespuestasResponse[]>("assets/json/preguntas.licencia.d.json");
+  }
+
   resultadoModal(content: any) {
     this.modalService.open(content, { centered: true });
   }
