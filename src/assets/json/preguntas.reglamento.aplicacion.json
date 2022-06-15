@@ -822,10 +822,10 @@
     ]
 }, {
     "identificador": "reg_303",
-    "pregunta": "303. ¿Quiénes serán los encargados de la capacitación para la recuperación de puntos en las licencias de conducir?",
+    "pregunta": "303. Constituye un agravante en infracciones de tránsito:",
     "respuestas": [
-        { "id": "reg_302_r1", "contestacion": "Escuelas de conducción e instituciones de educación superior con especialización en transporte terrestre, tránsito y seguridad vial debidamente autorizadas", "correcta": false },
-        { "id": "reg_302_r2", "contestacion": "La Agencia Nacional del Tránsito", "correcta": false },
+        { "id": "reg_302_r1", "contestacion": "La persona que ocasione un siniestro de tránsito y huya del lugar de los hechos", "correcta": false },
+        { "id": "reg_302_r2", "contestacion": "La persona que ocasione un siniestro de tránsito con un vehículo sustraído", "correcta": false },
         { "id": "reg_302_r3", "contestacion": "Todas las anteriores", "correcta": true }
     ]
 }, {

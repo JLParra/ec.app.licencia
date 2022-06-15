@@ -67,9 +67,9 @@
         "identificador": "coi_174",
         "pregunta": "174. ¿Cuál es la sanción para el conductor que falta de obra a la autoridad o agente de tránsito?",
         "respuestas": [
-            { "id": "coi_174_r1", "contestacion": "Quienes tengan un nivel de alcohol de 0,3 a 0,8 gramos por litro de sangre", "correcta": false },
-            { "id": "coi_174_r2", "contestacion": "Quienes tengan un nivel de alcohol de 0,8 hasta 1,2 gramos por litro de sangre", "correcta": false },
-            { "id": "coi_174_r3", "contestacion": "Quienes superen un nivel de alcohol de 1,2 gramos por litro de sangre", "correcta": true }
+            { "id": "coi_174_r1", "contestacion": "a. Pena privativa de libertad de diez días", "correcta": false },
+            { "id": "coi_174_r2", "contestacion": "b. Pena privativa de libertad de tres días", "correcta": true },
+            { "id": "coi_174_r3", "contestacion": "c. Pérdida de la licencia de conducir", "correcta": false }
         ]
     }, {
         "identificador": "coi_175",
@@ -141,7 +141,7 @@
         "respuestas": [
             { "id": "coi_183_r1", "contestacion": "(2) DOS puntos adicionales en su licencia", "correcta": false },
             { "id": "coi_183_r2", "contestacion": "(3) TRES puntos adicionales en su licencia", "correcta": false },
-            { "id": "coi_183_r3", "contestacion": "(4) TRES puntos adicionales en su licencia", "correcta": true }
+            { "id": "coi_183_r3", "contestacion": "(4) CUATRO puntos adicionales en su licencia", "correcta": true }
         ]
     }, {
         "identificador": "coi_184",
