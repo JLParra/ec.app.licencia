@@ -800,27 +800,6 @@
         ]
     },
     {
-        "identificador": "sen_039",
-        "pregunta": "39. ¿Qué significa está señal?",
-        "imagen": "../../../assets/imagen/img39.PNG",
-        "respuestas": [{
-                "id": "sen_039_r1",
-                "contestacion": "Estacionamiento permitido para camiones",
-                "correcta": false
-            },
-            {
-                "id": "sen_039_r2",
-                "contestacion": "Tránsito pesado debe circular por la derecha",
-                "correcta": true
-            },
-            {
-                "id": "sen_039_r3",
-                "contestacion": "Circulación solo tránsito pesado",
-                "correcta": false
-            }
-        ]
-    },
-    {
         "identificador": "sen_040",
         "pregunta": "40. ¿Qué significa está señal?",
         "imagen": "../../../assets/imagen/img40.PNG",
@@ -3258,7 +3237,7 @@
     },
     {
         "identificador": "sen_156",
-        "pregunta": "156. ¿Qué indica esta señal de tránsito?",
+        "pregunta": "156. En una intersección semaforizada, una flecha roja hacia la derecha significa que:",
         "imagen": "../../../assets/imagen/img156.PNG",
         "respuestas": [{
                 "id": "sen_156_r1",
