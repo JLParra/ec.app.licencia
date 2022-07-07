@@ -2800,12 +2800,12 @@
         "imagen": "../../../assets/imagen/img135.PNG",
         "respuestas": [{
                 "id": "sen_135_r1",
-                "contestacion": "Aproximación a una vía lateral izquierda al virar a la derecha en la curva",
+                "contestacion": "Aproximación a un cruce de tren a la izquierda",
                 "correcta": false
             },
             {
                 "id": "sen_135_r2",
-                "contestacion": "Aproximación a un cruce de vías al virar a la derecha",
+                "contestacion": "Aproximación a una bifurcación a la izquierda",
                 "correcta": true
             },
             {
