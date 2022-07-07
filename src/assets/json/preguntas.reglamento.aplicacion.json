@@ -122,9 +122,9 @@
     "identificador": "reg_216",
     "pregunta": "216. ¿Que constituye la boleta de citación?",
     "respuestas": [
-        { "id": "reg_216_r1", "contestacion": "Título de crédito contra el conductor o propietario del vehículo", "correcta": false },
+        { "id": "reg_216_r1", "contestacion": "Título de crédito contra el conductor o propietario del vehículo", "correcta": true },
         { "id": "reg_216_r2", "contestacion": "Documento sin validez legal", "correcta": false },
-        { "id": "reg_216_r3", "contestacion": "Ninguna de las anteriores", "correcta": true }
+        { "id": "reg_216_r3", "contestacion": "Ninguna de las anteriores", "correcta": false }
     ]
 }, {
     "identificador": "reg_217",
@@ -801,7 +801,7 @@
     "pregunta": "300. ¿Qué ventajas presentan los automóviles híbridos?",
     "respuestas": [
         { "id": "reg_300_r1", "contestacion": "Cambios de aceites cada año y menos mantenimientos", "correcta": false },
-        { "id": "reg_300_r2", "contestacion": "Menor consumo de combustible y menos contaminación", "correcta": true },
+        { "id": "reg_300_r2", "contestacion": "Menor consumo de combustible y menos contaminación", "coº1rrecta": true },
         { "id": "reg_300_r3", "contestacion": "Repuestos más económicos y más fáciles de conseguir", "correcta": false }
     ]
 }, {
@@ -857,8 +857,8 @@
     "pregunta": "307. En un estacionamiento cuesta arriba, ¿cómo debe parquear su vehículo?",
     "respuestas": [
         { "id": "reg_307_r1", "contestacion": "Girar las ruedas hacia el bordillo", "correcta": false },
-        { "id": "reg_307_r2", "contestacion": "Girar las ruedas hacia fuera del bordillo", "correcta": false },
-        { "id": "reg_307_r3", "contestacion": "Dejar las ruedas en posición recta", "correcta": true }
+        { "id": "reg_307_r2", "contestacion": "Girar las ruedas hacia fuera del bordillo", "correcta": true },
+        { "id": "reg_307_r3", "contestacion": "Dejar las ruedas en posición recta", "correcta": false }
     ]
 }, {
     "identificador": "reg_308",
